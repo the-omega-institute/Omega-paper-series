@@ -1,0 +1,37 @@
+---
+title: "Zeckendorf Folds, Sturmian Rigidity, and Parry Divergence on the Golden-Mean Shift"
+subtitle: "Ergodic theory and symbolic dynamics"
+date: 2026-04-07
+categories: [gen2, ergodic, submitted]
+journal: "Ergodic Theory and Dynamical Systems"
+status: "Submitted"
+repo: "the-omega-institute/folded-rotation-histogram"
+theorems: 46
+featured: false
+description: "The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes the higher-block presentation, giving an exact KL formula and sharp support-constrained Renyi minima in closed form...."
+---
+
+## Abstract
+
+The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes the higher-block presentation, giving an exact KL formula and sharp support-constrained Renyi minima in closed form.
+
+**Keywords:** Sturmian subshifts, Zeckendorf numeration, golden-mean shift, Parry measure, Renyi divergence
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Machine-verified theorems | 46 |
+| Target journal | Ergodic Theory and Dynamical Systems |
+| Status | Submitted |
+| Scope | Ergodic theory and symbolic dynamics |
+
+## Video Explainer
+
+*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+
+## Links
+
+- [Full Paper (GitHub)](https://github.com/the-omega-institute/folded-rotation-histogram)
+- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Automath Engine](https://github.com/the-omega-institute/automath)

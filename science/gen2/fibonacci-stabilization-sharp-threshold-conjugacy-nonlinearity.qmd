@@ -1,0 +1,37 @@
+---
+title: "A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization"
+subtitle: "Symbolic dynamics and ergodic theory"
+date: 2026-04-07
+categories: [gen2, symbolic, submitted]
+journal: "Journal of Physics A"
+status: "Submitted"
+repo: "the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity"
+theorems: 70
+featured: false
+description: "A sharp threshold at window size m=3: for m>=3 the stabilized-window map is injective with image topologically conjugate to the full two-shift. The conjugacy transports the full thermodynamic formalis..."
+---
+
+## Abstract
+
+A sharp threshold at window size m=3: for m>=3 the stabilized-window map is injective with image topologically conjugate to the full two-shift. The conjugacy transports the full thermodynamic formalism exactly.
+
+**Keywords:** subshifts of finite type, topological conjugacy, thermodynamic formalism, Fibonacci numeration
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Machine-verified theorems | 70 |
+| Target journal | Journal of Physics A |
+| Status | Submitted |
+| Scope | Symbolic dynamics and ergodic theory |
+
+## Video Explainer
+
+*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+
+## Links
+
+- [Full Paper (GitHub)](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity)
+- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Automath Engine](https://github.com/the-omega-institute/automath)

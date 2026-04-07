@@ -1,0 +1,54 @@
+---
+title: "About the Omega Project"
+---
+
+## From One Equation, Everything
+
+The Omega Project starts with a single algebraic constraint:
+
+$$x^2 = x + 1$$
+
+This is the minimal polynomial of the golden ratio $\varphi = \frac{1+\sqrt{5}}{2}$. But our interest is not in the number itself. It is in the **symbolic dynamical system** this equation forces into existence: the **golden-mean shift**, the simplest non-trivial subshift of finite type, where no two consecutive 1s can appear in a binary word.
+
+From this one constraint, we systematically derive what mathematically *must* follow. Not what we assume, not what we conjecture. What the structure forces.
+
+## Methodology: Derive, Discover, Name
+
+1. **Derive** --- AI + formal verification (Lean 4) systematically explore what follows from the constraint
+2. **Discover** --- human-AI co-creation identifies when derived structures match known mathematics
+3. **Name** --- we connect our results to established fields, contributing new theorems to existing bodies of knowledge
+
+## What Emerges
+
+Starting from x² = x + 1, the following structures emerge (all machine-verified):
+
+| Structure | What it is | Why it matters |
+|-----------|-----------|----------------|
+| **Fibonacci growth** | Count of valid m-bit words = $F_{m+2}$ | Connects combinatorics to dynamics |
+| **Zeckendorf representation** | Unique decomposition into non-consecutive Fibonacci numbers | Number theory from symbolic dynamics |
+| **Ring arithmetic** | $X_m \cong \mathbb{Z}/F_{m+2}\mathbb{Z}$ | Algebraic structure from a topological constraint |
+| **Fold operator** | Fiber structure measuring information loss | Discrete calculus on symbolic spaces |
+| **Spectral theory** | Collision kernels and Cayley-Hamilton relations | Asymptotic behavior from exact combinatorics |
+| **Modular tower** | Inverse limit $X_\infty$ (profinite, p-adic analogue) | Deep number theory from elementary dynamics |
+
+## Scale
+
+- **10,588+** machine-verified theorems in Lean 4
+- **11** Lean 4 modules covering 9 mathematical domains
+- **17** research papers (9 submitted to international journals)
+- **Zero** axioms beyond Lean 4's core logic
+
+## The Team
+
+The Omega Project is developed by [The Omega Institute](https://github.com/the-omega-institute), part of [Chrono AI](https://www.chrono-ai.fun/)'s research portfolio.
+
+- **Core engine:** [automath](https://github.com/the-omega-institute/automath) (Lean 4 + Python automation)
+- **Formal proofs:** all theorems verified end-to-end in Lean 4 with Mathlib
+- **Publication pipeline:** AI-assisted writing, review, and multimedia generation
+
+## Links
+
+- [GitHub: the-omega-institute](https://github.com/the-omega-institute)
+- [Automath Repository](https://github.com/the-omega-institute/automath)
+- [Chrono AI](https://www.chrono-ai.fun/)
+- [Twitter/X: @ChronoAI_HQ](https://x.com/ChronoAI_HQ)

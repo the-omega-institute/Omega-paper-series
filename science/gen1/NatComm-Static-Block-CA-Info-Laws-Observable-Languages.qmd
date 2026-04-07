@@ -1,0 +1,23 @@
+---
+title: "Static-Block Cellular Automata: Information Laws and Observable Languages"
+subtitle: "Information theory and cellular automata"
+date: 2025-12-01
+categories: [gen1, physics, nature]
+journal: "Nature Communications"
+status: "In preparation"
+featured: false
+description: "Generation 1 paper targeting Nature Communications."
+---
+
+## About
+
+This is a Generation 1 paper from the Omega Project's quantum cellular automata era,
+exploring how foundational physics emerges from information-theoretic first principles.
+
+**Target journal:** Nature Communications
+
+**Scope:** Information theory and cellular automata
+
+## Links
+
+- [Paper directory](NatComm-Static-Block-CA-Info-Laws-Observable-Languages/)

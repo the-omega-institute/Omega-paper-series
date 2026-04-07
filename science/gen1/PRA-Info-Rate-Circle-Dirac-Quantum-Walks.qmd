@@ -1,0 +1,23 @@
+---
+title: "Information Rate Circle in Dirac Quantum Walks"
+subtitle: "Quantum information and quantum walks"
+date: 2025-12-01
+categories: [gen1, physics, physical]
+journal: "Physical Review A"
+status: "In preparation"
+featured: false
+description: "Generation 1 paper targeting Physical Review A."
+---
+
+## About
+
+This is a Generation 1 paper from the Omega Project's quantum cellular automata era,
+exploring how foundational physics emerges from information-theoretic first principles.
+
+**Target journal:** Physical Review A
+
+**Scope:** Quantum information and quantum walks
+
+## Links
+
+- [Paper directory](PRA-Info-Rate-Circle-Dirac-Quantum-Walks/)

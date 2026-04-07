@@ -1,0 +1,23 @@
+---
+title: "Cosmological Phase Transitions and Gravitational Wave Signatures from QCA"
+subtitle: "Cosmology and gravitational waves"
+date: 2025-12-01
+categories: [gen1, physics, physical]
+journal: "Physical Review Letters"
+status: "In preparation"
+featured: false
+description: "Generation 1 paper targeting Physical Review Letters."
+---
+
+## About
+
+This is a Generation 1 paper from the Omega Project's quantum cellular automata era,
+exploring how foundational physics emerges from information-theoretic first principles.
+
+**Target journal:** Physical Review Letters
+
+**Scope:** Cosmology and gravitational waves
+
+## Links
+
+- [Paper directory](PRL-Cosmological-Phase-Transitions-GW-Signatures/)

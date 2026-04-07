@@ -1,0 +1,30 @@
+---
+title: "The Science"
+listing:
+  - id: gen2-papers
+    contents: "gen2/*.qmd"
+    sort: "theorems desc"
+    type: default
+    fields: [title, subtitle, categories, description]
+  - id: gen1-papers
+    contents: "gen1/*.qmd"
+    sort: "title"
+    type: default
+    fields: [title, subtitle, categories, description]
+---
+
+## Generation 2 --- Pure Mathematics from x² = x + 1
+
+Nine papers submitted to international journals, all derived from the golden-mean shift. Every theorem machine-verified in Lean 4.
+
+:::{#gen2-papers}
+:::
+
+---
+
+## Generation 1 --- Quantum Cellular Automata and Foundational Physics
+
+Eight papers exploring emergent physics from information-theoretic first principles.
+
+:::{#gen1-papers}
+:::

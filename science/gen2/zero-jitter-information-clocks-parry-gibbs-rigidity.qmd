@@ -1,0 +1,37 @@
+---
+title: "Tilt Dynamics of Cylinder Information and the Parry Measure on the Golden-Mean Shift"
+subtitle: "Ergodic theory and probability"
+date: 2026-04-07
+categories: [gen2, ergodic, submitted]
+journal: "Journal of Theoretical Probability"
+status: "Submitted"
+repo: "the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity"
+theorems: 21
+featured: false
+description: "Exponential tilts of cylinder information close within the one-step Markov family, making tilt dynamics globally linearizable. The Parry measure is characterized as the unique zero-jitter (constant Re..."
+---
+
+## Abstract
+
+Exponential tilts of cylinder information close within the one-step Markov family, making tilt dynamics globally linearizable. The Parry measure is characterized as the unique zero-jitter (constant Renyi spectrum) law.
+
+**Keywords:** shifts of finite type, Parry measure, large deviations, thermodynamic formalism, Gibbs measures
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Machine-verified theorems | 21 |
+| Target journal | Journal of Theoretical Probability |
+| Status | Submitted |
+| Scope | Ergodic theory and probability |
+
+## Video Explainer
+
+*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+
+## Links
+
+- [Full Paper (GitHub)](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity)
+- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Automath Engine](https://github.com/the-omega-institute/automath)

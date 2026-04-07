@@ -1,0 +1,37 @@
+---
+title: "A Quartic Cover of 37a1 and Its Regular S4-Closure"
+subtitle: "Arithmetic geometry"
+date: 2026-04-07
+categories: [gen2, arithmetic, submitted]
+journal: "Journal of Number Theory"
+status: "Submitted"
+repo: "the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class"
+theorems: 39
+featured: false
+description: "For the conductor-37 elliptic curve, we carry out a complete explicit programme: constructing the regular S4-closure of a degree-4 map, decomposing the Jacobian via rational idempotents into a genus-2..."
+---
+
+## Abstract
+
+For the conductor-37 elliptic curve, we carry out a complete explicit programme: constructing the regular S4-closure of a degree-4 map, decomposing the Jacobian via rational idempotents into a genus-2 Jacobian, a resolvent elliptic curve, and a Prym threefold.
+
+**Keywords:** elliptic curves, Galois covers, Jacobian decomposition, Prym varieties, ray class fields
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Machine-verified theorems | 39 |
+| Target journal | Journal of Number Theory |
+| Status | Submitted |
+| Scope | Arithmetic geometry |
+
+## Video Explainer
+
+*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+
+## Links
+
+- [Full Paper (GitHub)](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class)
+- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Automath Engine](https://github.com/the-omega-institute/automath)

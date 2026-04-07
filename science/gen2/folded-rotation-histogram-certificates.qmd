@@ -1,0 +1,37 @@
+---
+title: "Folded Histograms of Irrational Rotations: Sampling Certificates and Structural Mismatch to the Parry Measure"
+subtitle: "Applied dynamical systems"
+date: 2026-04-07
+categories: [gen2, applied, submitted]
+journal: "SIAM Journal on Applied Dynamical Systems"
+status: "Submitted"
+repo: "the-omega-institute/folded-rotation-histogram-certificates"
+theorems: 46
+featured: false
+description: "A two-stage audit framework for coarse-grained orbit data: certifying empirical folded histograms via star-discrepancy, TV, and relative-entropy bounds, then testing compatibility with the Parry equil..."
+---
+
+## Abstract
+
+A two-stage audit framework for coarse-grained orbit data: certifying empirical folded histograms via star-discrepancy, TV, and relative-entropy bounds, then testing compatibility with the Parry equilibrium.
+
+**Keywords:** irrational rotations, Sturmian sequences, Parry measure, Renyi divergence, statistical auditing
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Machine-verified theorems | 46 |
+| Target journal | SIAM Journal on Applied Dynamical Systems |
+| Status | Submitted |
+| Scope | Applied dynamical systems |
+
+## Video Explainer
+
+*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+
+## Links
+
+- [Full Paper (GitHub)](https://github.com/the-omega-institute/folded-rotation-histogram-certificates)
+- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Automath Engine](https://github.com/the-omega-institute/automath)

@@ -1,3 +1,7 @@
 JMLR-Universal-Catastrophic-Safety-Undecidability/jmlr_reproduction/data/
 *.tar.gz
+_site/
+.quarto/
+_freeze/
+.DS_Store
 

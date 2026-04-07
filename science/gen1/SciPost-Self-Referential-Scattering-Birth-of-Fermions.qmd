@@ -1,0 +1,23 @@
+---
+title: "Self-Referential Scattering and the Birth of Fermions"
+subtitle: "Particle physics from information theory"
+date: 2025-12-01
+categories: [gen1, physics, scipost]
+journal: "SciPost Physics"
+status: "In preparation"
+featured: false
+description: "Generation 1 paper targeting SciPost Physics."
+---
+
+## About
+
+This is a Generation 1 paper from the Omega Project's quantum cellular automata era,
+exploring how foundational physics emerges from information-theoretic first principles.
+
+**Target journal:** SciPost Physics
+
+**Scope:** Particle physics from information theory
+
+## Links
+
+- [Paper directory](SciPost-Self-Referential-Scattering-Birth-of-Fermions/)

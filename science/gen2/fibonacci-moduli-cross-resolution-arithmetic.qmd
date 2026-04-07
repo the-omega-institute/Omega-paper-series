@@ -1,0 +1,37 @@
+---
+title: "Upper Fibers and Witness Covers for the Fibonacci Order-of-Apparition Map"
+subtitle: "Combinatorial number theory"
+date: 2026-04-07
+categories: [gen2, combinatorial, submitted]
+journal: "Research in Number Theory"
+status: "Submitted"
+repo: "the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic"
+theorems: 29
+featured: false
+description: "We introduce witness covers for the fiber B_n, proving B_n is an upper set in the divisor lattice. Minimal generators are classified via a primitive-vs-ladder dichotomy for atomic prime-power birth mo..."
+---
+
+## Abstract
+
+We introduce witness covers for the fiber B_n, proving B_n is an upper set in the divisor lattice. Minimal generators are classified via a primitive-vs-ladder dichotomy for atomic prime-power birth moduli.
+
+**Keywords:** Fibonacci sequences, rank of apparition, divisor lattices, multiplicative number theory
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Machine-verified theorems | 29 |
+| Target journal | Research in Number Theory |
+| Status | Submitted |
+| Scope | Combinatorial number theory |
+
+## Video Explainer
+
+*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+
+## Links
+
+- [Full Paper (GitHub)](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic)
+- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Automath Engine](https://github.com/the-omega-institute/automath)

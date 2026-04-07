@@ -1,0 +1,23 @@
+---
+title: "Universal Catastrophic Safety Undecidability and the Capability-Risk Frontier"
+subtitle: "AI safety and computability theory"
+date: 2025-12-01
+categories: [gen1, physics, jmlr]
+journal: "JMLR"
+status: "In preparation"
+featured: false
+description: "Generation 1 paper targeting JMLR."
+---
+
+## About
+
+This is a Generation 1 paper from the Omega Project's quantum cellular automata era,
+exploring how foundational physics emerges from information-theoretic first principles.
+
+**Target journal:** JMLR
+
+**Scope:** AI safety and computability theory
+
+## Links
+
+- [Paper directory](JMLR-Universal-Catastrophic-Safety-Undecidability/)

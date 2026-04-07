@@ -1,0 +1,37 @@
+---
+title: "Shell Geometry from Stationary Detector Thermality in Static KMS Spacetimes"
+subtitle: "Mathematical physics / QFT in curved spacetime"
+date: 2026-04-07
+categories: [gen2, mathematical, submitted]
+journal: "General Relativity and Gravitation"
+status: "Submitted"
+repo: "the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality"
+theorems: 122
+featured: false
+description: "Full click-record statistics of an Unruh-DeWitt detector define two codimension-one shells in static KMS spacetimes. In Schwarzschild the shell pair determines the mass parameter via a self-calibratin..."
+---
+
+## Abstract
+
+Full click-record statistics of an Unruh-DeWitt detector define two codimension-one shells in static KMS spacetimes. In Schwarzschild the shell pair determines the mass parameter via a self-calibrating two-mode ratio law.
+
+**Keywords:** Unruh-DeWitt detectors, KMS states, black hole thermodynamics, symbolic dynamics, Hawking radiation
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Machine-verified theorems | 122 |
+| Target journal | General Relativity and Gravitation |
+| Status | Submitted |
+| Scope | Mathematical physics / QFT in curved spacetime |
+
+## Video Explainer
+
+*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+
+## Links
+
+- [Full Paper (GitHub)](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality)
+- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Automath Engine](https://github.com/the-omega-institute/automath)

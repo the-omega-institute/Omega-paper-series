@@ -1,0 +1,37 @@
+---
+title: "Canonical Zeckendorf Normalization and the Minimal Berstel Adder"
+subtitle: "Formal language theory and automata"
+date: 2026-04-07
+categories: [gen2, formal, submitted]
+journal: "RAIRO Theoretical Informatics and Applications"
+status: "Submitted"
+repo: "the-omega-institute/zeckendorf-streaming-normalization-automata-rairo"
+theorems: 44
+featured: false
+description: "The canonical low-to-high Zeckendorf normalization is non-subsequential with exact prefix-destruction index Delta(n)=n. The Berstel transducer is proved minimal with exact state complexity 10 via kern..."
+---
+
+## Abstract
+
+The canonical low-to-high Zeckendorf normalization is non-subsequential with exact prefix-destruction index Delta(n)=n. The Berstel transducer is proved minimal with exact state complexity 10 via kernel separation.
+
+**Keywords:** Zeckendorf numeration, transducer theory, subsequential functions, Fibonacci addition, state complexity
+
+## Key Metrics
+
+| Metric | Value |
+|--------|-------|
+| Machine-verified theorems | 44 |
+| Target journal | RAIRO Theoretical Informatics and Applications |
+| Status | Submitted |
+| Scope | Formal language theory and automata |
+
+## Video Explainer
+
+*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+
+## Links
+
+- [Full Paper (GitHub)](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo)
+- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Automath Engine](https://github.com/the-omega-institute/automath)

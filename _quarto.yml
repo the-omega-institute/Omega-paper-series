@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "The Omega Institute"
+  description: "From one equation, everything. AI-driven mathematical discovery."
+  site-url: "https://the-omega-institute.github.io/Omega-paper-series/"
+  navbar:
+    background: "#1a1a2e"
+    foreground: "#e6e6e6"
+    left:
+      - text: "Science"
+        href: science/index.qmd
+      - text: "Cultural"
+        href: cultural/index.qmd
+      - text: "About"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/the-omega-institute
+  page-footer:
+    center: "The Omega Institute | From x² = x + 1, everything follows."
+  open-graph: true
+  twitter-card:
+    creator: "@ChronoAI_HQ"
+    site: "@ChronoAI_HQ"
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: true
+    code-fold: true

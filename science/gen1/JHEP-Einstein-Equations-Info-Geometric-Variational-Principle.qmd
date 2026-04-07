@@ -1,0 +1,23 @@
+---
+title: "Einstein Equations from Information-Geometric Variational Principle"
+subtitle: "Information geometry and general relativity"
+date: 2025-12-01
+categories: [gen1, physics, jhep]
+journal: "JHEP"
+status: "In preparation"
+featured: false
+description: "Generation 1 paper targeting JHEP."
+---
+
+## About
+
+This is a Generation 1 paper from the Omega Project's quantum cellular automata era,
+exploring how foundational physics emerges from information-theoretic first principles.
+
+**Target journal:** JHEP
+
+**Scope:** Information geometry and general relativity
+
+## Links
+
+- [Paper directory](JHEP-Einstein-Equations-Info-Geometric-Variational-Principle/)

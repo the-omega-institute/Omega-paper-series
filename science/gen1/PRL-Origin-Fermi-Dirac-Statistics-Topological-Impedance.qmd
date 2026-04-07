@@ -1,0 +1,23 @@
+---
+title: "Origin of Fermi-Dirac Statistics from Topological Impedance in QCA"
+subtitle: "Quantum statistics"
+date: 2025-12-01
+categories: [gen1, physics, physical]
+journal: "Physical Review Letters"
+status: "In preparation"
+featured: false
+description: "Generation 1 paper targeting Physical Review Letters."
+---
+
+## About
+
+This is a Generation 1 paper from the Omega Project's quantum cellular automata era,
+exploring how foundational physics emerges from information-theoretic first principles.
+
+**Target journal:** Physical Review Letters
+
+**Scope:** Quantum statistics
+
+## Links
+
+- [Paper directory](PRL-Origin-Fermi-Dirac-Statistics-Topological-Impedance/)

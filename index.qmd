@@ -1,0 +1,109 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.omega-hero}
+# The Omega Institute
+
+::: {.equation}
+x² = x + 1
+:::
+
+::: {.subtitle}
+From one equation, everything follows. AI-driven mathematical discovery with 10,588+ machine-verified theorems.
+:::
+:::
+
+::: {.stats-bar}
+::: {.stat-item}
+::: {.number}
+10,588+
+:::
+::: {.label}
+Machine-Verified Theorems
+:::
+:::
+
+::: {.stat-item}
+::: {.number}
+17
+:::
+::: {.label}
+Research Papers
+:::
+:::
+
+::: {.stat-item}
+::: {.number}
+9
+:::
+::: {.label}
+Journal Submissions
+:::
+:::
+
+::: {.stat-item}
+::: {.number}
+11
+:::
+::: {.label}
+Lean 4 Modules
+:::
+:::
+:::
+
+---
+
+::: {.track-grid}
+
+::: {.track-card}
+## The Science
+
+Rigorous mathematical research derived from a single algebraic constraint. Every theorem machine-verified in Lean 4, every result traceable back to the seed equation.
+
+**Generation 2** --- Pure mathematics from x² = x + 1: symbolic dynamics, number theory, ergodic theory, spectral analysis. 9 papers submitted to international journals.
+
+**Generation 1** --- Quantum cellular automata and foundational physics: information geometry, cosmological phase transitions, emergent relativity. 8 papers targeting Nature Communications, JHEP, PRL.
+
+[Browse the Science →](science/index.qmd)
+:::
+
+::: {.track-card}
+## The Interpretation
+
+How does x² = x + 1 illuminate the structure hidden in classical texts? From the I Ching's hexagram algebra to the Tao Te Ching's duality of being and non-being, the same mathematical constraint appears across millennia of human thought.
+
+This is not metaphor. These are formal structural correspondences, analyzed with the same rigor we bring to our proofs.
+
+*Coming soon --- first analyses in development.*
+
+[Explore Interpretations →](cultural/index.qmd)
+:::
+
+:::
+
+---
+
+## How It Works
+
+The Omega Project starts with one equation: **x² = x + 1**. This polynomial defines the golden ratio, but more importantly, it constrains a symbolic dynamical system --- the **golden-mean shift** --- where no two consecutive 1s can appear.
+
+From this single constraint, we systematically derive what mathematically *must* follow:
+
+1. **Fibonacci growth** emerges from counting valid words
+2. **Zeckendorf representation** gives every integer a unique decomposition
+3. **Ring arithmetic** modulo Fibonacci numbers creates algebraic structure
+4. **Spectral theory** governs asymptotic behavior through collision kernels
+5. **A modular tower** converges to a profinite limit, analogous to p-adic integers
+
+Every step is machine-verified in [Lean 4](https://github.com/the-omega-institute/automath). Zero axioms beyond core logic.
+
+---
+
+## Links
+
+- [Automath Engine (GitHub)](https://github.com/the-omega-institute/automath) --- the core Lean 4 formalization
+- [Chrono AI](https://www.chrono-ai.fun/) --- the company behind the research
+- [Twitter/X](https://x.com/ChronoAI_HQ) --- latest updates
