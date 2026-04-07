@@ -8,6 +8,9 @@ status: "Submitted"
 repo: "the-omega-institute/folded-rotation-histogram"
 theorems: 46
 featured: false
+video: "https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_video.mp4"
+slides: "https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_slides.pdf"
+podcast: "https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_podcast.wav"
 description: "The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes the higher-block presentation, giving an exact KL formula and sharp support-constrained Renyi minima in closed form...."
 ---
 
@@ -28,7 +31,13 @@ The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes th
 
 ## Video Explainer
 
-*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+{{< video https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_slides.pdf)
+- [Podcast (WAV)](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_podcast.wav)
+- [Video (MP4)](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_video.mp4)
 
 ## Links
 

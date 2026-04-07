@@ -8,6 +8,9 @@ status: "Submitted"
 repo: "the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity"
 theorems: 21
 featured: false
+video: "https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_video.mp4"
+slides: "https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_slides.pdf"
+podcast: "https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_podcast.wav"
 description: "Exponential tilts of cylinder information close within the one-step Markov family, making tilt dynamics globally linearizable. The Parry measure is characterized as the unique zero-jitter (constant Re..."
 ---
 
@@ -28,7 +31,13 @@ Exponential tilts of cylinder information close within the one-step Markov famil
 
 ## Video Explainer
 
-*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+{{< video https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_slides.pdf)
+- [Podcast (WAV)](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_podcast.wav)
+- [Video (MP4)](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_video.mp4)
 
 ## Links
 

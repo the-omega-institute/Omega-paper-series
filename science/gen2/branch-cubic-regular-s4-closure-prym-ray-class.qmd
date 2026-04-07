@@ -8,6 +8,9 @@ status: "Submitted"
 repo: "the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class"
 theorems: 39
 featured: false
+video: "https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_video.mp4"
+slides: "https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_slides.pdf"
+podcast: "https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_podcast.wav"
 description: "For the conductor-37 elliptic curve, we carry out a complete explicit programme: constructing the regular S4-closure of a degree-4 map, decomposing the Jacobian via rational idempotents into a genus-2..."
 ---
 
@@ -28,7 +31,13 @@ For the conductor-37 elliptic curve, we carry out a complete explicit programme:
 
 ## Video Explainer
 
-*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+{{< video https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_slides.pdf)
+- [Podcast (WAV)](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_podcast.wav)
+- [Video (MP4)](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_video.mp4)
 
 ## Links
 

@@ -8,6 +8,9 @@ status: "Submitted"
 repo: "the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity"
 theorems: 70
 featured: false
+video: "https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_video.mp4"
+slides: "https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_slides.pdf"
+podcast: "https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_podcast.wav"
 description: "A sharp threshold at window size m=3: for m>=3 the stabilized-window map is injective with image topologically conjugate to the full two-shift. The conjugacy transports the full thermodynamic formalis..."
 ---
 
@@ -28,7 +31,13 @@ A sharp threshold at window size m=3: for m>=3 the stabilized-window map is inje
 
 ## Video Explainer
 
-*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+{{< video https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_slides.pdf)
+- [Podcast (WAV)](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_podcast.wav)
+- [Video (MP4)](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_video.mp4)
 
 ## Links
 

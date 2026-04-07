@@ -8,6 +8,9 @@ status: "Submitted"
 repo: "the-omega-institute/zeckendorf-streaming-normalization-automata-rairo"
 theorems: 44
 featured: false
+video: "https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_video.mp4"
+slides: "https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_slides.pdf"
+podcast: "https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_podcast.wav"
 description: "The canonical low-to-high Zeckendorf normalization is non-subsequential with exact prefix-destruction index Delta(n)=n. The Berstel transducer is proved minimal with exact state complexity 10 via kern..."
 ---
 
@@ -28,7 +31,13 @@ The canonical low-to-high Zeckendorf normalization is non-subsequential with exa
 
 ## Video Explainer
 
-*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+{{< video https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_slides.pdf)
+- [Podcast (WAV)](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_podcast.wav)
+- [Video (MP4)](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_video.mp4)
 
 ## Links
 

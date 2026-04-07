@@ -8,6 +8,9 @@ status: "Submitted"
 repo: "the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality"
 theorems: 122
 featured: false
+video: "https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_video.mp4"
+slides: "https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_slides.pdf"
+podcast: "https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_podcast.wav"
 description: "Full click-record statistics of an Unruh-DeWitt detector define two codimension-one shells in static KMS spacetimes. In Schwarzschild the shell pair determines the mass parameter via a self-calibratin..."
 ---
 
@@ -28,7 +31,13 @@ Full click-record statistics of an Unruh-DeWitt detector define two codimension-
 
 ## Video Explainer
 
-*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+{{< video https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_slides.pdf)
+- [Podcast (WAV)](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_podcast.wav)
+- [Video (MP4)](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_video.mp4)
 
 ## Links
 

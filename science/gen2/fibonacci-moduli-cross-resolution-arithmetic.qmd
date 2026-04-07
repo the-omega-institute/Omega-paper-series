@@ -8,6 +8,9 @@ status: "Submitted"
 repo: "the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic"
 theorems: 29
 featured: false
+video: "https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_video.mp4"
+slides: "https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_slides.pdf"
+podcast: "https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_podcast.wav"
 description: "We introduce witness covers for the fiber B_n, proving B_n is an upper set in the divisor lattice. Minimal generators are classified via a primitive-vs-ladder dichotomy for atomic prime-power birth mo..."
 ---
 
@@ -28,7 +31,13 @@ We introduce witness covers for the fiber B_n, proving B_n is an upper set in th
 
 ## Video Explainer
 
-*Video coming soon --- NotebookLM pipeline ready, YouTube upload pending.*
+{{< video https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_slides.pdf)
+- [Podcast (WAV)](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_podcast.wav)
+- [Video (MP4)](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_video.mp4)
 
 ## Links
 
