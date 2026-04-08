@@ -10,9 +10,9 @@ This is not numerology. We identify **formal structural correspondences** betwee
 
 ---
 
-## 道德经 / Tao Te Ching — In Progress
+## 道德经 / Tao Te Ching — Complete
 
-12 thematic categories identified across all 81 chapters. Analysis pipeline: Claude classifies → Codex generates → Claude reviews.
+12 thematic categories identified across all 81 chapters. 12 full essays now published in the cultural track.
 
 ### Strongest Structural Correspondences
 
@@ -29,20 +29,20 @@ This is not numerology. We identify **formal structural correspondences** betwee
 
 | # | 类别 | 章节数 | Omega 方向 |
 |---|------|--------|-----------|
-| 1 | 道体与不可名状 | 8 | golden-mean-shift, fibonacci-growth, modular-tower |
-| 2 | 对立互生与二元结构 | 11 | golden-mean-shift, fold-operator |
-| 3 | 无为与自然秩序 | 12 | fold-operator, dynamical-systems |
-| 4 | 虚空与容纳 | 8 | fiber-structure, zeckendorf |
-| 5 | 德与滋养 | 11 | ring-arithmetic, fiber-structure |
-| 6 | 回归与循环 | 8 | dynamical-systems, modular-tower |
-| 7 | 治国之道 | 20 | fold-operator, rate-distortion |
-| 8 | 柔弱胜刚强 | 13 | golden-mean-shift, fold-operator |
-| 9 | 知足与限度 | 12 | golden-mean-shift, zeckendorf |
-| 10 | 层级与分辨 | 11 | modular-tower, spectral-theory |
-| 11 | 自然与朴素 | 12 | golden-mean-shift, zeckendorf |
-| 12 | 玄同与整体统一 | 9 | modular-tower, spectral-theory |
+| 1 | [道体与不可名状](tao-te-ching/category-01-generative-ground.qmd) | 8 | golden-mean-shift, fibonacci-growth, modular-tower |
+| 2 | [对立互生与二元结构](tao-te-ching/category-02-binary-duality.qmd) | 11 | golden-mean-shift, fold-operator |
+| 3 | [无为与自然秩序](tao-te-ching/category-03-wu-wei-spontaneous-order.qmd) | 12 | fold-operator, dynamical-systems |
+| 4 | [虚空与容纳](tao-te-ching/category-04-emptiness-receptivity.qmd) | 8 | fiber-structure, zeckendorf |
+| 5 | [德与滋养](tao-te-ching/category-05-de-nourishment.qmd) | 11 | ring-arithmetic, fiber-structure |
+| 6 | [回归与循环](tao-te-ching/category-06-return-reversal-cycle.qmd) | 8 | dynamical-systems, modular-tower |
+| 7 | [治国之道](tao-te-ching/category-07-governance-statecraft.qmd) | 20 | fold-operator, rate-distortion |
+| 8 | [柔弱胜刚强](tao-te-ching/category-08-softness-yielding.qmd) | 13 | golden-mean-shift, fold-operator |
+| 9 | [知足与限度](tao-te-ching/category-09-sufficiency-limits.qmd) | 12 | golden-mean-shift, zeckendorf |
+| 10 | [层级与分辨](tao-te-ching/category-10-hierarchy-resolution.qmd) | 11 | modular-tower, spectral-theory |
+| 11 | [自然与朴素](tao-te-ching/category-11-naturalness-simplicity.qmd) | 12 | golden-mean-shift, zeckendorf |
+| 12 | [玄同与整体统一](tao-te-ching/category-12-mysterious-unity.qmd) | 9 | modular-tower, spectral-theory |
 
-**Status:** Category 1 article complete (2600 words). Category 2 in generation.
+**Status:** 12/12 category essays complete. [Browse the full Tao Te Ching track](tao-te-ching/index.qmd).
 
 ---
 

@@ -1,0 +1,17 @@
+---
+title: "02. 对立互生与二元结构"
+subtitle: "Complementary Opposition and Binary Duality"
+date: 2026-04-09
+order: 2
+categories: [tao-te-ching, cultural, omega]
+description: "How chapters 2, 5, 11, 20, 26, 36, 40, 41, 45, 58, and 78 map co-arising opposites onto the golden-mean shift and the fold operator."
+---
+
+**Chapters:** 2, 5, 11, 20, 26, 36, 40, 41, 45, 58, 78  
+**Omega Directions:** `golden-mean shift`, `fold operator`
+
+{{< include articles/category_02_binary_duality.md >}}
+
+---
+
+[Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

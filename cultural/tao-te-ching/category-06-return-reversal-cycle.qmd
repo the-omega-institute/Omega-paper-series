@@ -1,0 +1,17 @@
+---
+title: "06. 回归与循环"
+subtitle: "Return, Reversal, and Cyclic Motion"
+date: 2026-04-09
+order: 6
+categories: [tao-te-ching, cultural, omega]
+description: "How chapters 14, 16, 25, 40, 50, 52, 56, and 65 map return, reversal, and rooted cyclicality onto inverse limits and dynamical systems."
+---
+
+**Chapters:** 14, 16, 25, 40, 50, 52, 56, 65  
+**Omega Directions:** `dynamical systems`, `modular tower inverse limit`
+
+{{< include articles/category_06_return_reversal_cycle.md >}}
+
+---
+
+[Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

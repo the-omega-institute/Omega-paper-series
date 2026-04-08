@@ -77,7 +77,9 @@ How does x² = x + 1 illuminate the structure hidden in classical texts? From th
 
 This is not metaphor. These are formal structural correspondences, analyzed with the same rigor we bring to our proofs.
 
-**In progress:** 道德经 12-category Omega mapping analysis | 易经 hexagram-algebra structural analysis
+**Complete:** 道德经 12-category Omega mapping analysis with 12 full essays
+
+**In progress:** 易经 hexagram-algebra structural analysis
 
 [Explore Interpretations →](cultural/index.qmd)
 :::

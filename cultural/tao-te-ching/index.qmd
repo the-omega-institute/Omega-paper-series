@@ -1,0 +1,42 @@
+---
+title: "道德经 / Tao Te Ching"
+subtitle: "12-category Omega mapping essays"
+listing:
+  - id: tao-te-ching-categories
+    contents: "category-*.qmd"
+    sort: "order"
+    type: default
+    fields: [title, subtitle, description]
+---
+
+## Complete Track
+
+The Tao Te Ching cultural track is now complete: 12 thematic categories, 12 full essays, all written to distinguish `formal correspondence` from `metaphorical analogy`.
+
+Each category maps a cluster of chapters onto specific Omega mathematical directions: golden-mean shift, Fibonacci growth, Zeckendorf representation, fold operators, modular towers, dynamical systems, ring arithmetic, spectral theory, and rate-distortion.
+
+## Category Map
+
+| # | Category | Chapters | Omega Directions |
+|---|---|---|---|
+| 1 | 道体与不可名状 | 1, 4, 14, 21, 25, 34, 42, 51 | golden-mean shift, Fibonacci growth, modular tower inverse limit |
+| 2 | 对立互生与二元结构 | 2, 5, 11, 20, 26, 36, 40, 41, 45, 58, 78 | golden-mean shift, fold operator |
+| 3 | 无为与自然秩序 | 3, 7, 10, 17, 23, 27, 37, 43, 48, 57, 63, 64 | fold operator, dynamical systems |
+| 4 | 虚空与容纳 | 6, 11, 15, 16, 22, 28, 35, 39 | fiber structure, Zeckendorf representation |
+| 5 | 德与滋养 | 8, 10, 23, 38, 49, 51, 54, 55, 65, 79, 81 | ring arithmetic, fiber structure |
+| 6 | 回归与循环 | 14, 16, 25, 40, 50, 52, 56, 65 | dynamical systems, modular tower inverse limit |
+| 7 | 治国之道 | 3, 17, 18, 19, 29, 30, 31, 46, 53, 57, 58, 59, 60, 61, 66, 69, 72, 74, 75, 80 | fold operator, rate-distortion |
+| 8 | 柔弱胜刚强 | 7, 8, 13, 22, 36, 43, 52, 55, 61, 69, 73, 76, 78 | golden-mean shift, fold operator, rate-distortion |
+| 9 | 知足与限度 | 9, 12, 24, 29, 32, 33, 44, 46, 47, 71, 77, 81 | golden-mean shift, Zeckendorf representation, rate-distortion |
+| 10 | 层级与分辨 | 1, 14, 21, 38, 41, 47, 52, 56, 62, 70, 81 | modular tower inverse limit, fold operator, spectral theory |
+| 11 | 自然与朴素 | 15, 19, 27, 28, 32, 37, 44, 57, 67, 68, 80, 81 | golden-mean shift, Zeckendorf representation |
+| 12 | 玄同与整体统一 | 4, 6, 10, 25, 42, 52, 56, 62, 73 | modular tower inverse limit, spectral theory, dynamical systems |
+
+## Essays
+
+:::{#tao-te-ching-categories}
+:::
+
+---
+
+[Back to Cultural Track](../index.qmd) | [Back to Home](../../index.qmd)

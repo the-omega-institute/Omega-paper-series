@@ -1,0 +1,17 @@
+---
+title: "09. 知足与限度"
+subtitle: "Sufficiency, Limits, and Knowing When to Stop"
+date: 2026-04-09
+order: 9
+categories: [tao-te-ching, cultural, omega]
+description: "How chapters 9, 12, 24, 29, 32, 33, 44, 46, 47, 71, 77, and 81 map self-limitation and sufficiency onto No11 stopping rules, Zeckendorf optimality, and rate-distortion bounds."
+---
+
+**Chapters:** 9, 12, 24, 29, 32, 33, 44, 46, 47, 71, 77, 81  
+**Omega Directions:** `golden-mean shift`, `Zeckendorf representation`, `rate-distortion`
+
+{{< include articles/category_09_sufficiency_limits.md >}}
+
+---
+
+[Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

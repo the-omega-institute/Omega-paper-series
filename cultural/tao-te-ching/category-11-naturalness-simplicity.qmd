@@ -1,0 +1,17 @@
+---
+title: "11. 自然与朴素"
+subtitle: "Naturalness, Simplicity, and the Uncarved Block"
+date: 2026-04-09
+order: 11
+categories: [tao-te-ching, cultural, omega]
+description: "How chapters 15, 19, 27, 28, 32, 37, 44, 57, 67, 68, 80, and 81 map naturalness and the uncarved block onto minimal constraint structure and Zeckendorf sparsity."
+---
+
+**Chapters:** 15, 19, 27, 28, 32, 37, 44, 57, 67, 68, 80, 81  
+**Omega Directions:** `golden-mean shift`, `Zeckendorf representation`
+
+{{< include articles/category_11_naturalness_simplicity.md >}}
+
+---
+
+[Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

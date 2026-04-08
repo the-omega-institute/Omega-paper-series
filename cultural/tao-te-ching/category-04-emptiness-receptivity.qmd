@@ -1,0 +1,17 @@
+---
+title: "04. 虚空与容纳"
+subtitle: "Emptiness, Receptivity, and the Utility of the Void"
+date: 2026-04-09
+order: 4
+categories: [tao-te-ching, cultural, omega]
+description: "How chapters 6, 11, 15, 16, 22, 28, 35, and 39 map emptiness, valley-logic, and receptivity onto fiber structure and Zeckendorf sparsity."
+---
+
+**Chapters:** 6, 11, 15, 16, 22, 28, 35, 39  
+**Omega Directions:** `fiber structure`, `Zeckendorf representation`
+
+{{< include articles/category_04_emptiness_receptivity.md >}}
+
+---
+
+[Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

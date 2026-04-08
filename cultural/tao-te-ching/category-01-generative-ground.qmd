@@ -1,0 +1,17 @@
+---
+title: "01. 道体与不可名状"
+subtitle: "The Dao as Generative Ground"
+date: 2026-04-09
+order: 1
+categories: [tao-te-ching, cultural, omega]
+description: "How chapters 1, 4, 14, 21, 25, 34, 42, and 51 map the Dao as an unsayable generative ground onto the golden-mean shift, Fibonacci growth, and inverse-limit structure."
+---
+
+**Chapters:** 1, 4, 14, 21, 25, 34, 42, 51  
+**Omega Directions:** `golden-mean shift`, `Fibonacci growth`, `modular tower inverse limit`
+
+{{< include articles/category_01_generative_ground.md >}}
+
+---
+
+[Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
