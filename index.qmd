@@ -73,11 +73,11 @@ Rigorous mathematical research derived from a single algebraic constraint. Every
 ::: {.track-card}
 ## The Interpretation
 
-How does x² = x + 1 illuminate the structure hidden in classical texts? From the I Ching's hexagram algebra to the Tao Te Ching's duality of being and non-being, the same mathematical constraint appears across millennia of human thought.
+How does x² = x + 1 illuminate the structure hidden in classical texts? From the I Ching's 64 hexagrams (a 6-bit binary encoding where the golden-mean shift selects exactly 21 valid states) to the Tao Te Ching's "道生一，一生二，二生三，三生万物" (one equation generating recursive multiplicity), the same mathematical constraint appears across millennia of human thought.
 
 This is not metaphor. These are formal structural correspondences, analyzed with the same rigor we bring to our proofs.
 
-*Coming soon --- first analyses in development.*
+**In progress:** 道德经 12-category Omega mapping analysis | 易经 hexagram-algebra structural analysis
 
 [Explore Interpretations →](cultural/index.qmd)
 :::

@@ -1,6 +1,12 @@
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "science/**/*.qmd"
+    - "cultural/**/*.qmd"
+    - "!archive/"
+    - "!pipeline/"
 
 website:
   title: "The Omega Institute"
