@@ -3,7 +3,7 @@ title: "Canonical Zeckendorf Normalization and the Minimal Berstel Adder"
 subtitle: "Formal language theory and automata"
 date: 2026-04-07
 categories: [gen2, formal, submitted]
-journal: "RAIRO Theoretical Informatics and Applications"
+target-journal: "RAIRO Theoretical Informatics and Applications"
 status: "Submitted"
 repo: "the-omega-institute/zeckendorf-streaming-normalization-automata-rairo"
 theorems: 44

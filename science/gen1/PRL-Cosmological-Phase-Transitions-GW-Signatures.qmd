@@ -3,7 +3,7 @@ title: "Cosmological Phase Transitions and Gravitational Wave Signatures from QC
 subtitle: "Cosmology and gravitational waves"
 date: 2025-12-01
 categories: [gen1, physics, physical]
-journal: "Physical Review Letters"
+target-journal: "Physical Review Letters"
 status: "In preparation"
 featured: false
 description: "Generation 1 paper targeting Physical Review Letters."

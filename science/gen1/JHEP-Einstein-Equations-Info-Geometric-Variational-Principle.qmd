@@ -3,7 +3,7 @@ title: "Einstein Equations from Information-Geometric Variational Principle"
 subtitle: "Information geometry and general relativity"
 date: 2025-12-01
 categories: [gen1, physics, jhep]
-journal: "JHEP"
+target-journal: "JHEP"
 status: "In preparation"
 featured: false
 description: "Generation 1 paper targeting JHEP."

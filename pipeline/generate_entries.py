@@ -25,7 +25,7 @@ GEN2_PAPERS = [
         "innovation": "For the conductor-37 elliptic curve, we carry out a complete explicit programme: constructing the regular S4-closure of a degree-4 map, decomposing the Jacobian via rational idempotents into a genus-2 Jacobian, a resolvent elliptic curve, and a Prym threefold.",
         "scope": "Arithmetic geometry",
         "keywords": ["elliptic curves", "Galois covers", "Jacobian decomposition", "Prym varieties", "ray class fields"],
-        "journal": "Journal of Number Theory",
+        "target-journal": "Journal of Number Theory",
         "theorems": 39,
     },
     {
@@ -34,7 +34,7 @@ GEN2_PAPERS = [
         "innovation": "We introduce witness covers for the fiber B_n, proving B_n is an upper set in the divisor lattice. Minimal generators are classified via a primitive-vs-ladder dichotomy for atomic prime-power birth moduli.",
         "scope": "Combinatorial number theory",
         "keywords": ["Fibonacci sequences", "rank of apparition", "divisor lattices", "multiplicative number theory"],
-        "journal": "Research in Number Theory",
+        "target-journal": "Research in Number Theory",
         "theorems": 29,
     },
     {
@@ -43,7 +43,7 @@ GEN2_PAPERS = [
         "innovation": "A sharp threshold at window size m=3: for m>=3 the stabilized-window map is injective with image topologically conjugate to the full two-shift. The conjugacy transports the full thermodynamic formalism exactly.",
         "scope": "Symbolic dynamics and ergodic theory",
         "keywords": ["subshifts of finite type", "topological conjugacy", "thermodynamic formalism", "Fibonacci numeration"],
-        "journal": "Journal of Physics A",
+        "target-journal": "Journal of Physics A",
         "theorems": 70,
     },
     {
@@ -52,7 +52,7 @@ GEN2_PAPERS = [
         "innovation": "A two-stage audit framework for coarse-grained orbit data: certifying empirical folded histograms via star-discrepancy, TV, and relative-entropy bounds, then testing compatibility with the Parry equilibrium.",
         "scope": "Applied dynamical systems",
         "keywords": ["irrational rotations", "Sturmian sequences", "Parry measure", "Renyi divergence", "statistical auditing"],
-        "journal": "SIAM Journal on Applied Dynamical Systems",
+        "target-journal": "SIAM Journal on Applied Dynamical Systems",
         "theorems": 46,
     },
     {
@@ -61,7 +61,7 @@ GEN2_PAPERS = [
         "innovation": "The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes the higher-block presentation, giving an exact KL formula and sharp support-constrained Renyi minima in closed form.",
         "scope": "Ergodic theory and symbolic dynamics",
         "keywords": ["Sturmian subshifts", "Zeckendorf numeration", "golden-mean shift", "Parry measure", "Renyi divergence"],
-        "journal": "Ergodic Theory and Dynamical Systems",
+        "target-journal": "Ergodic Theory and Dynamical Systems",
         "theorems": 46,
     },
     {
@@ -70,7 +70,7 @@ GEN2_PAPERS = [
         "innovation": "Full click-record statistics of an Unruh-DeWitt detector define two codimension-one shells in static KMS spacetimes. In Schwarzschild the shell pair determines the mass parameter via a self-calibrating two-mode ratio law.",
         "scope": "Mathematical physics / QFT in curved spacetime",
         "keywords": ["Unruh-DeWitt detectors", "KMS states", "black hole thermodynamics", "symbolic dynamics", "Hawking radiation"],
-        "journal": "General Relativity and Gravitation",
+        "target-journal": "General Relativity and Gravitation",
         "theorems": 122,
     },
     {
@@ -79,7 +79,7 @@ GEN2_PAPERS = [
         "innovation": "The Zeckendorf fold map is the normal-form map of a finite terminating confluent rewrite system, with a sharp block-bijection threshold at m=3. The right Fischer cover is identified as a suffix graph with 2^(m-1) states.",
         "scope": "Symbolic dynamics and formal language theory",
         "keywords": ["Zeckendorf expansion", "Fibonacci numeration", "shifts of finite type", "transducer theory", "Markov chains"],
-        "journal": "Journal of Number Theory",
+        "target-journal": "Journal of Number Theory",
         "theorems": 68,
     },
     {
@@ -88,7 +88,7 @@ GEN2_PAPERS = [
         "innovation": "The canonical low-to-high Zeckendorf normalization is non-subsequential with exact prefix-destruction index Delta(n)=n. The Berstel transducer is proved minimal with exact state complexity 10 via kernel separation.",
         "scope": "Formal language theory and automata",
         "keywords": ["Zeckendorf numeration", "transducer theory", "subsequential functions", "Fibonacci addition", "state complexity"],
-        "journal": "RAIRO Theoretical Informatics and Applications",
+        "target-journal": "RAIRO Theoretical Informatics and Applications",
         "theorems": 44,
     },
     {
@@ -97,21 +97,21 @@ GEN2_PAPERS = [
         "innovation": "Exponential tilts of cylinder information close within the one-step Markov family, making tilt dynamics globally linearizable. The Parry measure is characterized as the unique zero-jitter (constant Renyi spectrum) law.",
         "scope": "Ergodic theory and probability",
         "keywords": ["shifts of finite type", "Parry measure", "large deviations", "thermodynamic formalism", "Gibbs measures"],
-        "journal": "Journal of Theoretical Probability",
+        "target-journal": "Journal of Theoretical Probability",
         "theorems": 21,
     },
 ]
 
 # Gen 1 papers (from existing repo directories)
 GEN1_PAPERS = [
-    {"dir": "NatComm-Static-Block-CA-Info-Laws-Observable-Languages", "title": "Static-Block Cellular Automata: Information Laws and Observable Languages", "journal": "Nature Communications", "scope": "Information theory and cellular automata"},
-    {"dir": "JHEP-Einstein-Equations-Info-Geometric-Variational-Principle", "title": "Einstein Equations from Information-Geometric Variational Principle", "journal": "JHEP", "scope": "Information geometry and general relativity"},
-    {"dir": "JMLR-Universal-Catastrophic-Safety-Undecidability", "title": "Universal Catastrophic Safety Undecidability and the Capability-Risk Frontier", "journal": "JMLR", "scope": "AI safety and computability theory"},
-    {"dir": "PRA-Info-Rate-Circle-Dirac-Quantum-Walks", "title": "Information Rate Circle in Dirac Quantum Walks", "journal": "Physical Review A", "scope": "Quantum information and quantum walks"},
-    {"dir": "PRD-Unified-Physical-Time-Scale", "title": "Unified Physical Time Scale: Scattering, Holography, Dirac-QCA", "journal": "Physical Review D", "scope": "Foundational physics"},
-    {"dir": "PRL-Cosmological-Phase-Transitions-GW-Signatures", "title": "Cosmological Phase Transitions and Gravitational Wave Signatures from QCA", "journal": "Physical Review Letters", "scope": "Cosmology and gravitational waves"},
-    {"dir": "PRL-Origin-Fermi-Dirac-Statistics-Topological-Impedance", "title": "Origin of Fermi-Dirac Statistics from Topological Impedance in QCA", "journal": "Physical Review Letters", "scope": "Quantum statistics"},
-    {"dir": "SciPost-Self-Referential-Scattering-Birth-of-Fermions", "title": "Self-Referential Scattering and the Birth of Fermions", "journal": "SciPost Physics", "scope": "Particle physics from information theory"},
+    {"dir": "NatComm-Static-Block-CA-Info-Laws-Observable-Languages", "title": "Static-Block Cellular Automata: Information Laws and Observable Languages", "target-journal": "Nature Communications", "scope": "Information theory and cellular automata"},
+    {"dir": "JHEP-Einstein-Equations-Info-Geometric-Variational-Principle", "title": "Einstein Equations from Information-Geometric Variational Principle", "target-journal": "JHEP", "scope": "Information geometry and general relativity"},
+    {"dir": "JMLR-Universal-Catastrophic-Safety-Undecidability", "title": "Universal Catastrophic Safety Undecidability and the Capability-Risk Frontier", "target-journal": "JMLR", "scope": "AI safety and computability theory"},
+    {"dir": "PRA-Info-Rate-Circle-Dirac-Quantum-Walks", "title": "Information Rate Circle in Dirac Quantum Walks", "target-journal": "Physical Review A", "scope": "Quantum information and quantum walks"},
+    {"dir": "PRD-Unified-Physical-Time-Scale", "title": "Unified Physical Time Scale: Scattering, Holography, Dirac-QCA", "target-journal": "Physical Review D", "scope": "Foundational physics"},
+    {"dir": "PRL-Cosmological-Phase-Transitions-GW-Signatures", "title": "Cosmological Phase Transitions and Gravitational Wave Signatures from QCA", "target-journal": "Physical Review Letters", "scope": "Cosmology and gravitational waves"},
+    {"dir": "PRL-Origin-Fermi-Dirac-Statistics-Topological-Impedance", "title": "Origin of Fermi-Dirac Statistics from Topological Impedance in QCA", "target-journal": "Physical Review Letters", "scope": "Quantum statistics"},
+    {"dir": "SciPost-Self-Referential-Scattering-Birth-of-Fermions", "title": "Self-Referential Scattering and the Birth of Fermions", "target-journal": "SciPost Physics", "scope": "Particle physics from information theory"},
 ]
 
 
@@ -127,7 +127,7 @@ def gen2_qmd(paper: dict) -> str:
     subtitle: "{paper['scope']}"
     date: 2026-04-07
     categories: [gen2, {paper['scope'].split()[0].lower()}, submitted]
-    journal: "{paper['journal']}"
+    {target-journal}: "{paper['journal']}"
     status: "Submitted"
     repo: "{ORG}/{paper['repo']}"
     theorems: {paper['theorems']}
@@ -170,7 +170,7 @@ def gen1_qmd(paper: dict) -> str:
     subtitle: "{paper['scope']}"
     date: 2025-12-01
     categories: [gen1, physics, {paper['journal'].split()[0].lower()}]
-    journal: "{paper['journal']}"
+    {target-journal}: "{paper['journal']}"
     status: "In preparation"
     featured: false
     description: "Generation 1 paper targeting {paper['journal']}."

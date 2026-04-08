@@ -3,7 +3,7 @@ title: "Folded Histograms of Irrational Rotations: Sampling Certificates and Str
 subtitle: "Applied dynamical systems"
 date: 2026-04-07
 categories: [gen2, applied, submitted]
-journal: "SIAM Journal on Applied Dynamical Systems"
+target-journal: "SIAM Journal on Applied Dynamical Systems"
 status: "Submitted"
 repo: "the-omega-institute/folded-rotation-histogram-certificates"
 theorems: 46

@@ -3,7 +3,7 @@ title: "Finite-Window Rigidity in Fibonacci Numeration"
 subtitle: "Symbolic dynamics and formal language theory"
 date: 2026-04-07
 categories: [gen2, symbolic, submitted]
-journal: "Journal of Number Theory"
+target-journal: "Journal of Number Theory"
 status: "Submitted"
 repo: "the-omega-institute/resolution-folding-core-symbolic-dynamics"
 theorems: 68

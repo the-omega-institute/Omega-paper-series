@@ -3,7 +3,7 @@ title: "Tilt Dynamics of Cylinder Information and the Parry Measure on the Golde
 subtitle: "Ergodic theory and probability"
 date: 2026-04-07
 categories: [gen2, ergodic, submitted]
-journal: "Journal of Theoretical Probability"
+target-journal: "Journal of Theoretical Probability"
 status: "Submitted"
 repo: "the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity"
 theorems: 21

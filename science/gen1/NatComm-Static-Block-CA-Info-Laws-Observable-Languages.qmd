@@ -3,7 +3,7 @@ title: "Static-Block Cellular Automata: Information Laws and Observable Language
 subtitle: "Information theory and cellular automata"
 date: 2025-12-01
 categories: [gen1, physics, nature]
-journal: "Nature Communications"
+target-journal: "Nature Communications"
 status: "In preparation"
 featured: false
 description: "Generation 1 paper targeting Nature Communications."

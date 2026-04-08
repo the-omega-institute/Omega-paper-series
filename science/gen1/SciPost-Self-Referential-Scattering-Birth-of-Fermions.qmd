@@ -3,7 +3,7 @@ title: "Self-Referential Scattering and the Birth of Fermions"
 subtitle: "Particle physics from information theory"
 date: 2025-12-01
 categories: [gen1, physics, scipost]
-journal: "SciPost Physics"
+target-journal: "SciPost Physics"
 status: "In preparation"
 featured: false
 description: "Generation 1 paper targeting SciPost Physics."

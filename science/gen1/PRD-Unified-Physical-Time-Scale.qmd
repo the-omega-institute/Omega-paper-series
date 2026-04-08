@@ -3,7 +3,7 @@ title: "Unified Physical Time Scale: Scattering, Holography, Dirac-QCA"
 subtitle: "Foundational physics"
 date: 2025-12-01
 categories: [gen1, physics, physical]
-journal: "Physical Review D"
+target-journal: "Physical Review D"
 status: "In preparation"
 featured: false
 description: "Generation 1 paper targeting Physical Review D."

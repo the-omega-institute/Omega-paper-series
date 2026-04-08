@@ -3,7 +3,7 @@ title: "Universal Catastrophic Safety Undecidability and the Capability-Risk Fro
 subtitle: "AI safety and computability theory"
 date: 2025-12-01
 categories: [gen1, physics, jmlr]
-journal: "JMLR"
+target-journal: "JMLR"
 status: "In preparation"
 featured: false
 description: "Generation 1 paper targeting JMLR."

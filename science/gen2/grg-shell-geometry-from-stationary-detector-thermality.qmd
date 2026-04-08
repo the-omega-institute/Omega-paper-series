@@ -3,7 +3,7 @@ title: "Shell Geometry from Stationary Detector Thermality in Static KMS Spaceti
 subtitle: "Mathematical physics / QFT in curved spacetime"
 date: 2026-04-07
 categories: [gen2, mathematical, submitted]
-journal: "General Relativity and Gravitation"
+target-journal: "General Relativity and Gravitation"
 status: "Submitted"
 repo: "the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality"
 theorems: 122

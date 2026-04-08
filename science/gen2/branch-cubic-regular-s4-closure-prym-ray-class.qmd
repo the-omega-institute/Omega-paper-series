@@ -3,7 +3,7 @@ title: "A Quartic Cover of 37a1 and Its Regular S4-Closure"
 subtitle: "Arithmetic geometry"
 date: 2026-04-07
 categories: [gen2, arithmetic, submitted]
-journal: "Journal of Number Theory"
+target-journal: "Journal of Number Theory"
 status: "Submitted"
 repo: "the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class"
 theorems: 39

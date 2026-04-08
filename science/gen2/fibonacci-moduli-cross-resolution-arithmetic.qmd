@@ -3,7 +3,7 @@ title: "Upper Fibers and Witness Covers for the Fibonacci Order-of-Apparition Ma
 subtitle: "Combinatorial number theory"
 date: 2026-04-07
 categories: [gen2, combinatorial, submitted]
-journal: "Research in Number Theory"
+target-journal: "Research in Number Theory"
 status: "Submitted"
 repo: "the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic"
 theorems: 29

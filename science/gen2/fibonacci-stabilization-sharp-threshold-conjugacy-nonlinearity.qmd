@@ -3,7 +3,7 @@ title: "A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci 
 subtitle: "Symbolic dynamics and ergodic theory"
 date: 2026-04-07
 categories: [gen2, symbolic, submitted]
-journal: "Journal of Physics A"
+target-journal: "Journal of Physics A"
 status: "Submitted"
 repo: "the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity"
 theorems: 70
