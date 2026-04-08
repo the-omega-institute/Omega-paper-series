@@ -20,4 +20,4 @@ exploring how foundational physics emerges from information-theoretic first prin
 
 ## Links
 
-- [Paper directory](PRL-Cosmological-Phase-Transitions-GW-Signatures/)
+- [Paper directory](archive/PRL-Cosmological-Phase-Transitions-GW-Signatures/)

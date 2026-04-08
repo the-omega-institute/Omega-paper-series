@@ -20,4 +20,4 @@ exploring how foundational physics emerges from information-theoretic first prin
 
 ## Links
 
-- [Paper directory](SciPost-Self-Referential-Scattering-Birth-of-Fermions/)
+- [Paper directory](archive/SciPost-Self-Referential-Scattering-Birth-of-Fermions/)

@@ -20,4 +20,4 @@ exploring how foundational physics emerges from information-theoretic first prin
 
 ## Links
 
-- [Paper directory](PRL-Origin-Fermi-Dirac-Statistics-Topological-Impedance/)
+- [Paper directory](archive/PRL-Origin-Fermi-Dirac-Statistics-Topological-Impedance/)

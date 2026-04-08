@@ -20,4 +20,4 @@ exploring how foundational physics emerges from information-theoretic first prin
 
 ## Links
 
-- [Paper directory](PRD-Unified-Physical-Time-Scale/)
+- [Paper directory](archive/PRD-Unified-Physical-Time-Scale/)

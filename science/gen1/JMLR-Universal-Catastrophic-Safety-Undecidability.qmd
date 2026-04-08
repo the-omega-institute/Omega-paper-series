@@ -20,4 +20,4 @@ exploring how foundational physics emerges from information-theoretic first prin
 
 ## Links
 
-- [Paper directory](JMLR-Universal-Catastrophic-Safety-Undecidability/)
+- [Paper directory](archive/JMLR-Universal-Catastrophic-Safety-Undecidability/)

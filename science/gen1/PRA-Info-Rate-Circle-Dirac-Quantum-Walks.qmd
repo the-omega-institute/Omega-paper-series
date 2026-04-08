@@ -20,4 +20,4 @@ exploring how foundational physics emerges from information-theoretic first prin
 
 ## Links
 
-- [Paper directory](PRA-Info-Rate-Circle-Dirac-Quantum-Walks/)
+- [Paper directory](archive/PRA-Info-Rate-Circle-Dirac-Quantum-Walks/)

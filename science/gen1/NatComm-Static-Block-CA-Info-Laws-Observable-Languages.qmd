@@ -20,4 +20,4 @@ exploring how foundational physics emerges from information-theoretic first prin
 
 ## Links
 
-- [Paper directory](NatComm-Static-Block-CA-Info-Laws-Observable-Languages/)
+- [Paper directory](archive/NatComm-Static-Block-CA-Info-Laws-Observable-Languages/)

@@ -20,4 +20,4 @@ exploring how foundational physics emerges from information-theoretic first prin
 
 ## Links
 
-- [Paper directory](JHEP-Einstein-Equations-Info-Geometric-Variational-Principle/)
+- [Paper directory](archive/JHEP-Einstein-Equations-Info-Geometric-Variational-Principle/)
