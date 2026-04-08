@@ -1,0 +1,17 @@
+---
+title: "10. 明照与分辨"
+subtitle: "Illumination, Discernment, and Clarity"
+date: 2026-04-09
+order: 10
+categories: [i-ching, cultural, omega]
+description: "How seeing, concealment, distinction, estrangement, and travel map cognition onto spectral separation, resolution levels, and distortion-limited perception."
+---
+
+**Hexagrams:** 蒙(4), 观(20), 贲(22), 离(30), 晋(35), 明夷(36), 睽(38), 困(47), 旅(56)  
+**Omega Directions:** `spectral theory`, `modular tower inverse limit`, `rate-distortion`
+
+{{< include articles/category_10_illumination_discernment_clarity.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

@@ -1,0 +1,17 @@
+---
+title: "03. 困阻与险难"
+subtitle: "Obstruction, Danger, and the Abysmal"
+date: 2026-04-09
+order: 3
+categories: [i-ching, cultural, omega]
+description: "How 需、讼、坎、蹇、困、井 map danger, blockage, and deep source structure onto spaced-yang stability, fold resolution, and fiber absorption."
+---
+
+**Hexagrams:** 需(5), 讼(6), 坎(29), 蹇(39), 困(47), 井(48)  
+**Omega Directions:** `golden-mean shift`, `fold operator`, `fiber structure`
+
+{{< include articles/category_03_obstruction_danger_abysmal.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

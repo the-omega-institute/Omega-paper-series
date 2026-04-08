@@ -1,0 +1,17 @@
+---
+title: "07. 交感与关系"
+subtitle: "Mutual Influence, Union, and Relationship"
+date: 2026-04-09
+order: 7
+categories: [i-ching, cultural, omega]
+description: "How influence, duration, family order, opposition, decrease/increase, gathering, joy, and trust map relational structure onto ring arithmetic, spectral modes, and fold-based repair."
+---
+
+**Hexagrams:** 随(17), 蛊(18), 咸(31), 恒(32), 家人(37), 睽(38), 损(41), 益(42), 萃(45), 兑(58), 中孚(61)  
+**Omega Directions:** `ring arithmetic`, `spectral theory`, `fold operator`
+
+{{< include articles/category_07_mutual_influence_relationship.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

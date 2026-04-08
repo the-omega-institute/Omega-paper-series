@@ -1,0 +1,17 @@
+---
+title: "12. 聚散与流通"
+subtitle: "Gathering, Dispersal, and Information Flow"
+date: 2026-04-09
+order: 12
+categories: [i-ching, cultural, omega]
+description: "How gathering, dispersal, blockage, source depth, penetration, and open exchange map flow onto information channels, compression, and hierarchical transmission."
+---
+
+**Hexagrams:** 比(8), 坎(29), 姤(44), 萃(45), 困(47), 井(48), 巽(57), 兑(58), 涣(59)  
+**Omega Directions:** `rate-distortion`, `fold operator`, `modular tower inverse limit`
+
+{{< include articles/category_12_gathering_dispersal_information_flow.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

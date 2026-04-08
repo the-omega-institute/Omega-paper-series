@@ -1,0 +1,17 @@
+---
+title: "02. 动态变易与循环"
+subtitle: "Dynamic Change and Cyclic Completion"
+date: 2026-04-09
+order: 2
+categories: [i-ching, cultural, omega]
+description: "How 屯、蒙、剥、复、夬、姤、既济、未济 map beginning, return, and terminal oscillation onto golden-mean dynamics, fold attractors, and period-2 structure."
+---
+
+**Hexagrams:** 屯(3), 蒙(4), 剥(23), 复(24), 夬(43), 姤(44), 既济(63), 未济(64)  
+**Omega Directions:** `dynamical systems`, `golden-mean shift`, `fold operator`
+
+{{< include articles/category_02_dynamic_change_cyclic_completion.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

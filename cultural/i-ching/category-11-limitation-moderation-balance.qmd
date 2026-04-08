@@ -1,0 +1,17 @@
+---
+title: "11. 节制与平衡"
+subtitle: "Limitation, Moderation, and Balanced Measure"
+date: 2026-04-09
+order: 11
+categories: [i-ching, cultural, omega]
+description: "How restraint, decrease/increase, centered measure, and the balanced terminal pair map lawful limitation onto Zeckendorf optimality, modular compensation, and GMS saturation."
+---
+
+**Hexagrams:** 小畜(9), 谦(15), 损(41), 益(42), 节(60), 中孚(61), 小过(62), 既济(63), 未济(64)  
+**Omega Directions:** `Zeckendorf representation`, `ring arithmetic`, `golden-mean shift`
+
+{{< include articles/category_11_limitation_moderation_balance.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

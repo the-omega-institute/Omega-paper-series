@@ -1,0 +1,17 @@
+---
+title: "05. 刚健与突破"
+subtitle: "Strength, Power, and Forceful Advance"
+date: 2026-04-09
+order: 5
+categories: [i-ching, cultural, omega]
+description: "How high-yang Heaven-dominant hexagrams map excessive force, instability, and necessary rebalancing onto fold dynamics, fibers, and No11 violation."
+---
+
+**Hexagrams:** 小畜(9), 履(10), 同人(13), 大有(14), 无妄(25), 大畜(26), 大壮(34), 夬(43)  
+**Omega Directions:** `fold operator`, `fiber structure`, `golden-mean shift`
+
+{{< include articles/category_05_strength_power_forceful_advance.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

@@ -1,0 +1,17 @@
+---
+title: "08. 变革与重构"
+subtitle: "Revolution, Transformation, and Structural Renewal"
+date: 2026-04-09
+order: 8
+categories: [i-ching, cultural, omega]
+description: "How breakdown, reform, refashioning, and threshold excess map structural renewal onto fold rewrites, fibers, and dynamical regime change."
+---
+
+**Hexagrams:** 噬嗑(21), 贲(22), 大过(28), 离(30), 革(49), 鼎(50), 丰(55), 旅(56)  
+**Omega Directions:** `fold operator`, `fiber structure`, `dynamical systems`
+
+{{< include articles/category_08_revolution_transformation_renewal.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

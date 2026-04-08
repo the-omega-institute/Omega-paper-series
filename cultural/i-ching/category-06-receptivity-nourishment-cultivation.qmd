@@ -1,0 +1,17 @@
+---
+title: "06. 柔顺与养育"
+subtitle: "Receptivity, Nourishment, and Gentle Cultivation"
+date: 2026-04-09
+order: 6
+categories: [i-ching, cultural, omega]
+description: "How sparse-yang receptive hexagrams map return, nourishment, and gentle cultivation onto Fibonacci seeding, Zeckendorf sparsity, and GMS-valid growth."
+---
+
+**Hexagrams:** 师(7), 比(8), 临(19), 复(24), 颐(27), 晋(35), 明夷(36), 升(46)  
+**Omega Directions:** `golden-mean shift`, `Fibonacci growth`, `Zeckendorf representation`
+
+{{< include articles/category_06_receptivity_nourishment_cultivation.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

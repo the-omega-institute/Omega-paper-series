@@ -1,0 +1,17 @@
+---
+title: "09. 渐进与发展"
+subtitle: "Gradual Progress, Development, and Measured Advance"
+date: 2026-04-09
+order: 9
+categories: [i-ching, cultural, omega]
+description: "How lawful growth, release, ascent, channeling, and limit-conscious unfolding map development onto modular towers, Fibonacci proliferation, and compatibility-preserving extension."
+---
+
+**Hexagrams:** 解(40), 升(46), 井(48), 震(51), 渐(53), 巽(57), 涣(59), 节(60)  
+**Omega Directions:** `modular tower inverse limit`, `Fibonacci growth`, `golden-mean shift`
+
+{{< include articles/category_09_gradual_progress_measured_advance.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

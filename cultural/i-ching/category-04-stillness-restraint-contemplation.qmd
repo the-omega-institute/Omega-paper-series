@@ -1,0 +1,17 @@
+---
+title: "04. 止静与内省"
+subtitle: "Stillness, Restraint, and Inner Contemplation"
+date: 2026-04-09
+order: 4
+categories: [i-ching, cultural, omega]
+description: "How 谦、豫、观、遯、艮、渐、归妹、小过 map stillness and restraint onto sparse lawful configurations, Zeckendorf uniqueness, and threshold-aware self-limitation."
+---
+
+**Hexagrams:** 谦(15), 豫(16), 观(20), 遯(33), 艮(52), 渐(53), 归妹(54), 小过(62)  
+**Omega Directions:** `golden-mean shift`, `Zeckendorf representation`, `rate-distortion`
+
+{{< include articles/category_04_stillness_restraint_contemplation.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)

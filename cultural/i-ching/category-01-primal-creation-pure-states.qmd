@@ -1,0 +1,17 @@
+---
+title: "01. 创生与纯态"
+subtitle: "Primal Creation and Pure States"
+date: 2026-04-09
+order: 1
+categories: [i-ching, cultural, omega]
+description: "How 乾、坤、泰、否 map the raw 6-bit state space, pure binary extremes, and primal 3+3 partition structure onto the golden-mean shift, Fibonacci growth, and modular tower."
+---
+
+**Hexagrams:** 乾(1), 坤(2), 泰(11), 否(12)  
+**Omega Directions:** `golden-mean shift`, `Fibonacci growth`, `modular tower inverse limit`
+
+{{< include articles/category_01_primal_creation_pure_states.md >}}
+
+---
+
+[Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
