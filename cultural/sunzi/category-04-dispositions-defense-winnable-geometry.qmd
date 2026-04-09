@@ -1,0 +1,17 @@
+---
+title: "04. 军形、守攻与可胜几何"
+subtitle: "Dispositions, Defense, and Winnable Geometry"
+date: 2026-04-09
+order: 4
+categories: [sunzi, cultural, omega]
+description: "How 军形 distinguishes the geometry of non-loss from the geometry of exploitability, linking defense and attack through state-space viability."
+---
+
+**Chapters:** 军形第四  
+**Omega Directions:** `modular tower inverse limit`, `dynamical systems`, `ring arithmetic`
+
+{{< include articles/category_04_dispositions_defense_winnable_geometry.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

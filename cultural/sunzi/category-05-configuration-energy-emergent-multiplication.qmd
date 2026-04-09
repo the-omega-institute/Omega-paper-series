@@ -1,0 +1,17 @@
+---
+title: "05. 兵势、奇正与涌现倍增"
+subtitle: "Configuration Energy, Orthogonal Force, and Emergent Multiplication"
+date: 2026-04-09
+order: 5
+categories: [sunzi, cultural, omega]
+description: "How 兵势 reads force not as scalar accumulation but as nonlinear gain produced by the right arrangement of ordinary and extraordinary modes."
+---
+
+**Chapters:** 兵势第五  
+**Omega Directions:** `dynamical systems`, `spectral theory`, `fold operator`
+
+{{< include articles/category_05_configuration_energy_emergent_multiplication.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

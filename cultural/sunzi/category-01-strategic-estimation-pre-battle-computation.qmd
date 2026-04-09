@@ -1,0 +1,17 @@
+---
+title: "01. 庙算、五事与胜负先验"
+subtitle: "Strategic Estimation and Pre-Battle Computation"
+date: 2026-04-09
+order: 1
+categories: [sunzi, cultural, omega]
+description: "How 始计 frames war as pre-battle inference from partial indicators, compressing complexity into a usable judgment of relative advantage."
+---
+
+**Chapters:** 始计第一  
+**Omega Directions:** `rate-distortion information theory`, `spectral theory`, `modular tower inverse limit`
+
+{{< include articles/category_01_strategic_estimation_pre_battle_computation.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

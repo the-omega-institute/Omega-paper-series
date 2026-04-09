@@ -1,0 +1,17 @@
+---
+title: "02. 速战、粮秣与战争成本"
+subtitle: "Speed, Logistics, and the Cost of War"
+date: 2026-04-09
+order: 2
+categories: [sunzi, cultural, omega]
+description: "How 作战 treats war as a bounded resource system whose fidelity degrades once time, transport, and expenditure exceed recoverable limits."
+---
+
+**Chapters:** 作战第二  
+**Omega Directions:** `rate-distortion information theory`, `ring arithmetic`, `dynamical systems`
+
+{{< include articles/category_02_speed_logistics_cost_of_war.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

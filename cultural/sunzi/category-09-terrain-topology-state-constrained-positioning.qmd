@@ -1,0 +1,17 @@
+---
+title: "09. 地形、九地与拓扑约束"
+subtitle: "Terrain, Topology, and State-Constrained Positioning"
+date: 2026-04-09
+order: 9
+categories: [sunzi, cultural, omega]
+description: "How 地形 and 九地 make space itself part of the action graph, rewriting movement, retreat, commitment, and tactical meaning."
+---
+
+**Chapters:** 地形第十, 九地第十一  
+**Omega Directions:** `modular tower inverse limit`, `dynamical systems`, `fold operator`
+
+{{< include articles/category_09_terrain_topology_state_constrained_positioning.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

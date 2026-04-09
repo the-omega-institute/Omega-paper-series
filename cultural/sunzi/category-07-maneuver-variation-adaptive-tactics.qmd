@@ -1,0 +1,17 @@
+---
+title: "07. 军争、九变与机动变通"
+subtitle: "Maneuver, Variation, and Adaptive Tactics"
+date: 2026-04-09
+order: 7
+categories: [sunzi, cultural, omega]
+description: "How 军争 and 九变 turn maneuver into state-dependent control, where local turns and layered compatibility matter more than rigid plans."
+---
+
+**Chapters:** 军争第七, 九变第八  
+**Omega Directions:** `dynamical systems`, `fold operator`, `modular tower inverse limit`
+
+{{< include articles/category_07_maneuver_variation_adaptive_tactics.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

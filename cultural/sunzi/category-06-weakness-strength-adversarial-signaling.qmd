@@ -1,0 +1,17 @@
+---
+title: "06. 虚实、示形与诱导控制"
+subtitle: "Weakness, Strength, and Adversarial Signaling"
+date: 2026-04-09
+order: 6
+categories: [sunzi, cultural, omega]
+description: "How 虚实 turns observation itself into a battlefield by controlling what the enemy can reconstruct from surface signals."
+---
+
+**Chapters:** 始计第一, 虚实第六  
+**Omega Directions:** `spectral theory`, `rate-distortion information theory`, `fold operator`
+
+{{< include articles/category_06_weakness_strength_adversarial_signaling.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

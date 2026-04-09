@@ -1,0 +1,17 @@
+---
+title: "10. 火攻、用间与外部信息干预"
+subtitle: "Fire Attack, Intelligence, and Exogenous Intervention"
+date: 2026-04-09
+order: 10
+categories: [sunzi, cultural, omega]
+description: "How 火攻 and 用间 culminate Sunzi's theory in decisive outside perturbation and privileged access to hidden state."
+---
+
+**Chapters:** 火攻第十二, 用间第十三, 谋攻第三  
+**Omega Directions:** `rate-distortion information theory`, `fold operator`, `spectral theory`
+
+{{< include articles/category_10_fire_attack_intelligence_exogenous_intervention.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

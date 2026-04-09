@@ -1,0 +1,51 @@
+---
+title: "孙子兵法 / The Art of War"
+subtitle: "10-category Omega strategy analyses"
+listing:
+  - id: sunzi-categories
+    contents: "category-*.qmd"
+    sort: "order"
+    type: default
+    fields: [title, subtitle, description]
+---
+
+## Complete Track
+
+The Sunzi cultural track is now complete: 10 thematic categories, 10 full essays, built around the text's strongest formal signature as a theory of adversarial systems under uncertainty.
+
+Unlike the I Ching, Sunzi does not map to a single symbolic object. Its strongest Omega correspondences lie in strategic compression, partial observability, adversarial signaling, topology-constrained motion, sparse force deployment, and decisive small interventions.
+
+## Strongest Structural Correspondences
+
+| Sunzi Structure | Omega Object | Why It Is Strong |
+|---|---|---|
+| 庙算、五事、七计 | rate-distortion style strategic inference | Victory is compressed from partial indicators before collision |
+| 兵者，诡道也 / 虚实 | adversarial signaling and observation control | What the enemy can reconstruct is itself a controlled variable |
+| 先为不可胜，以待敌之可胜 | viability region in state-space geometry | One first secures a non-losing region, then acts on instability |
+| 奇正相生、势如转圆石 | nonlinear amplification from configuration | Proper arrangement produces emergent gain beyond scalar force |
+| 九地、地形 | topology-constrained transitions | Different grounds rewrite motion, risk, and commitment structure |
+| 用间 | privileged access to hidden state | Strategic asymmetry culminates in information quality |
+
+## Category Map
+
+| # | Category | Chapters | Omega Directions |
+|---|---|---|---|
+| 1 | 庙算、五事与胜负先验 | 始计第一 | rate-distortion, spectral theory, modular tower inverse limit |
+| 2 | 速战、粮秣与战争成本 | 作战第二 | rate-distortion, ring arithmetic, dynamical systems |
+| 3 | 全胜、伐谋与不战而屈 | 谋攻第三 | fold operator, rate-distortion, spectral theory |
+| 4 | 军形、守攻与可胜几何 | 军形第四 | modular tower inverse limit, dynamical systems, ring arithmetic |
+| 5 | 兵势、奇正与涌现倍增 | 兵势第五 | dynamical systems, spectral theory, fold operator |
+| 6 | 虚实、示形与诱导控制 | 始计第一, 虚实第六 | spectral theory, rate-distortion, fold operator |
+| 7 | 军争、九变与机动变通 | 军争第七, 九变第八 | dynamical systems, fold operator, modular tower inverse limit |
+| 8 | 行军、观兆与局部观测 | 行军第九 | spectral theory, rate-distortion, fiber structure |
+| 9 | 地形、九地与拓扑约束 | 地形第十, 九地第十一 | modular tower inverse limit, dynamical systems, fold operator |
+| 10 | 火攻、用间与外部信息干预 | 火攻第十二, 用间第十三, 谋攻第三 | rate-distortion, fold operator, spectral theory |
+
+## Essays
+
+:::{#sunzi-categories}
+:::
+
+---
+
+[Back to Cultural Track](../index.qmd) | [Back to Home](../../index.qmd)

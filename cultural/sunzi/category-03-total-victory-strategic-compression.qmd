@@ -1,0 +1,17 @@
+---
+title: "03. 全胜、伐谋与不战而屈"
+subtitle: "Total Victory, Strategic Compression, and Winning Without Battle"
+date: 2026-04-09
+order: 3
+categories: [sunzi, cultural, omega]
+description: "How 谋攻 ranks strategic targets by structural leverage, preferring low-distortion victory through folding the enemy's option space before costly collision."
+---
+
+**Chapters:** 谋攻第三  
+**Omega Directions:** `fold operator`, `rate-distortion information theory`, `spectral theory`
+
+{{< include articles/category_03_total_victory_strategic_compression.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

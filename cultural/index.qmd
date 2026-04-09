@@ -121,6 +121,42 @@ Its strongest Omega correspondences are not object-identity, but multiscale stru
 
 ---
 
+## 孙子兵法 / The Art of War — Complete
+
+Sunzi extends the cultural track into adversarial systems theory: incomplete information, strategic compression, observation control, topology-constrained motion, and decisive small interventions.
+
+Its strongest Omega correspondences are not cosmological but operational: rate-distortion, fold-style redirection, hidden-state inference, emergent configuration energy, and information asymmetry.
+
+### Strongest Structural Correspondences
+
+| 孙子结构 | Omega 对应 | 强度 |
+|---|---|---|
+| 庙算、五事、七计 | rate-distortion style inference from partial indicators | **Formal** |
+| 兵者，诡道也 / 虚实 | adversarial signaling and observation control | **Formal** |
+| 先为不可胜，以待敌之可胜 | viability region in strategic state space | **Formal** |
+| 奇正相生、势如转圆石 | nonlinear amplification from configuration | **Formal** |
+| 地形、九地 | topology-constrained transitions and commitment states | **Formal** |
+| 用间 | privileged access to hidden state | **Formal** |
+
+### Categories
+
+| # | 类别 | 篇章 | Omega 方向 |
+|---|---|---|---|
+| 1 | [庙算、五事与胜负先验](sunzi/category-01-strategic-estimation-pre-battle-computation.qmd) | 始计第一 | rate-distortion, spectral-theory, modular-tower |
+| 2 | [速战、粮秣与战争成本](sunzi/category-02-speed-logistics-cost-of-war.qmd) | 作战第二 | rate-distortion, ring-arithmetic, dynamical-systems |
+| 3 | [全胜、伐谋与不战而屈](sunzi/category-03-total-victory-strategic-compression.qmd) | 谋攻第三 | fold-operator, rate-distortion, spectral-theory |
+| 4 | [军形、守攻与可胜几何](sunzi/category-04-dispositions-defense-winnable-geometry.qmd) | 军形第四 | modular-tower, dynamical-systems, ring-arithmetic |
+| 5 | [兵势、奇正与涌现倍增](sunzi/category-05-configuration-energy-emergent-multiplication.qmd) | 兵势第五 | dynamical-systems, spectral-theory, fold-operator |
+| 6 | [虚实、示形与诱导控制](sunzi/category-06-weakness-strength-adversarial-signaling.qmd) | 始计第一, 虚实第六 | spectral-theory, rate-distortion, fold-operator |
+| 7 | [军争、九变与机动变通](sunzi/category-07-maneuver-variation-adaptive-tactics.qmd) | 军争第七, 九变第八 | dynamical-systems, fold-operator, modular-tower |
+| 8 | [行军、观兆与局部观测](sunzi/category-08-marching-field-signs-local-observation.qmd) | 行军第九 | spectral-theory, rate-distortion, fiber-structure |
+| 9 | [地形、九地与拓扑约束](sunzi/category-09-terrain-topology-state-constrained-positioning.qmd) | 地形第十, 九地第十一 | modular-tower, dynamical-systems, fold-operator |
+| 10 | [火攻、用间与外部信息干预](sunzi/category-10-fire-attack-intelligence-exogenous-intervention.qmd) | 火攻第十二, 用间第十三, 谋攻第三 | rate-distortion, fold-operator, spectral-theory |
+
+**Status:** 10/10 category essays complete. [Browse the full Sunzi track](sunzi/index.qmd).
+
+---
+
 ## Methodology
 
 For each classical text:

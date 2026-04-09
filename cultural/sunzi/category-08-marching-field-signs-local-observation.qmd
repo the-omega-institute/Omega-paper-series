@@ -1,0 +1,17 @@
+---
+title: "08. 行军、观兆与局部观测"
+subtitle: "Marching, Field Signs, and Local Observation"
+date: 2026-04-09
+order: 8
+categories: [sunzi, cultural, omega]
+description: "How 行军 reads dust, birds, silence, and movement traces as partial observables from which hidden military state must be inferred."
+---
+
+**Chapters:** 行军第九  
+**Omega Directions:** `spectral theory`, `rate-distortion information theory`, `fiber structure`
+
+{{< include articles/category_08_marching_field_signs_local_observation.md >}}
+
+---
+
+[Back to Sunzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)
