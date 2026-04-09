@@ -29,6 +29,10 @@ Full click-record statistics of an Unruh-DeWitt detector define two codimension-
 | Status | Submitted |
 | Scope | Mathematical physics / QFT in curved spacetime |
 
+## Infographic
+
+![grg_shell_geometry_from Infographic](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_infographic.png)
+
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_video.mp4 >}}

@@ -20,12 +20,17 @@ description: "How chapters 1, 4, 14, 21, 25, 34, 42, and 51 map the Dao as an un
 
 [Download Slides (PDF)](../../media/cultural/tao-te-ching/category_01_generative_ground_slides.pdf)
 
-## Video & Media
+
+## Infographic
+
+![category_01_generative_ground Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_generative_ground_infographic.png)
+
+## Video
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_generative_ground_video.mp4 >}}
 
-**Downloads:**
+**Media Downloads:**
 
-- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_generative_ground_slides.pdf)
-- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_generative_ground_video.mp4)
 - [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_generative_ground_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_generative_ground_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_generative_ground_slides.pdf)

@@ -29,6 +29,10 @@ A sharp threshold at window size m=3: for m>=3 the stabilized-window map is inje
 | Status | Submitted |
 | Scope | Symbolic dynamics and ergodic theory |
 
+## Infographic
+
+![fibonacci_stabilization_sharp_threshold Infographic](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_infographic.png)
+
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_video.mp4 >}}

@@ -29,6 +29,10 @@ For the conductor-37 elliptic curve, we carry out a complete explicit programme:
 | Status | Submitted |
 | Scope | Arithmetic geometry |
 
+## Infographic
+
+![branch_cubic_regular_s4 Infographic](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_infographic.png)
+
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_video.mp4 >}}

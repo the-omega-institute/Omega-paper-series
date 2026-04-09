@@ -29,6 +29,10 @@ We introduce witness covers for the fiber B_n, proving B_n is an upper set in th
 | Status | Submitted |
 | Scope | Combinatorial number theory |
 
+## Infographic
+
+![fibonacci_moduli_cross_resolution Infographic](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_infographic.png)
+
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_video.mp4 >}}

@@ -16,12 +16,17 @@ description: "How chapters 15, 19, 27, 28, 32, 37, 44, 57, 67, 68, 80, and 81 ma
 
 [Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
 
-## Video & Media
+
+## Infographic
+
+![category_11_naturalness_simplicity Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_naturalness_simplicity_infographic.png)
+
+## Video
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_naturalness_simplicity_video.mp4 >}}
 
-**Downloads:**
+**Media Downloads:**
 
-- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_naturalness_simplicity_slides.pdf)
-- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_naturalness_simplicity_video.mp4)
 - [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_naturalness_simplicity_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_naturalness_simplicity_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_naturalness_simplicity_slides.pdf)

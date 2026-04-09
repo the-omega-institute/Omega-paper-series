@@ -20,12 +20,17 @@ description: "How 乾、坤、泰、否 map the raw 6-bit state space, pure bina
 
 [Download Slides (PDF)](../../media/cultural/i-ching/category_01_primal_creation_pure_states_slides.pdf)
 
-## Video & Media
+
+## Infographic
+
+![category_01_primal_creation_pure_states Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_infographic.png)
+
+## Video
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_video.mp4 >}}
 
-**Downloads:**
+**Media Downloads:**
 
-- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_slides.pdf)
-- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_video.mp4)
 - [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_slides.pdf)

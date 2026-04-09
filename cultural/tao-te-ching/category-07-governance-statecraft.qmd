@@ -16,12 +16,17 @@ description: "How chapters 3, 17, 18, 19, 29, 30, 31, 46, 53, 57, 58, 59, 60, 61
 
 [Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
 
-## Video & Media
+
+## Infographic
+
+![category_07_governance_statecraft Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_governance_statecraft_infographic.png)
+
+## Video
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_governance_statecraft_video.mp4 >}}
 
-**Downloads:**
+**Media Downloads:**
 
-- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_governance_statecraft_slides.pdf)
-- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_governance_statecraft_video.mp4)
 - [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_governance_statecraft_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_governance_statecraft_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_governance_statecraft_slides.pdf)

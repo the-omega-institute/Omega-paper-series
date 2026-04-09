@@ -16,12 +16,17 @@ description: "How high-yang Heaven-dominant hexagrams map excessive force, insta
 
 [Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
 
-## Video & Media
+
+## Infographic
+
+![category_05_strength_power_forceful_advance Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_strength_power_forceful_advance_infographic.png)
+
+## Video
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_strength_power_forceful_advance_video.mp4 >}}
 
-**Downloads:**
+**Media Downloads:**
 
-- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_strength_power_forceful_advance_slides.pdf)
-- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_strength_power_forceful_advance_video.mp4)
 - [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_strength_power_forceful_advance_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_strength_power_forceful_advance_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_strength_power_forceful_advance_slides.pdf)

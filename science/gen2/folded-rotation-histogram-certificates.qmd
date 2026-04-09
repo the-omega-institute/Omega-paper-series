@@ -29,6 +29,10 @@ A two-stage audit framework for coarse-grained orbit data: certifying empirical 
 | Status | Submitted |
 | Scope | Applied dynamical systems |
 
+## Infographic
+
+![folded_rotation_histogram_certificates Infographic](https://github.com/the-omega-institute/folded-rotation-histogram-certificates/releases/download/media-v1/folded_rotation_histogram_certificates_infographic.png)
+
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/folded-rotation-histogram-certificates/releases/download/media-v1/folded_rotation_histogram_certificates_video.mp4 >}}

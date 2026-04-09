@@ -29,6 +29,10 @@ The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes th
 | Status | Submitted |
 | Scope | Ergodic theory and symbolic dynamics |
 
+## Infographic
+
+![folded_rotation_histogram Infographic](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_infographic.png)
+
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_video.mp4 >}}

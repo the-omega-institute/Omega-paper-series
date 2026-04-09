@@ -29,6 +29,10 @@ The canonical low-to-high Zeckendorf normalization is non-subsequential with exa
 | Status | Submitted |
 | Scope | Formal language theory and automata |
 
+## Infographic
+
+![zeckendorf_streaming_normalization_automata Infographic](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_infographic.png)
+
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_video.mp4 >}}

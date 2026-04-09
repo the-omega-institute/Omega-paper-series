@@ -16,12 +16,17 @@ description: "How restraint, decrease/increase, centered measure, and the balanc
 
 [Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
 
-## Video & Media
+
+## Infographic
+
+![category_11_limitation_moderation_balance Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_limitation_moderation_balance_infographic.png)
+
+## Video
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_limitation_moderation_balance_video.mp4 >}}
 
-**Downloads:**
+**Media Downloads:**
 
-- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_limitation_moderation_balance_slides.pdf)
-- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_limitation_moderation_balance_video.mp4)
 - [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_limitation_moderation_balance_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_limitation_moderation_balance_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_limitation_moderation_balance_slides.pdf)

@@ -29,6 +29,10 @@ Exponential tilts of cylinder information close within the one-step Markov famil
 | Status | Submitted |
 | Scope | Ergodic theory and probability |
 
+## Infographic
+
+![zero_jitter_information_clocks Infographic](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_infographic.png)
+
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_video.mp4 >}}
