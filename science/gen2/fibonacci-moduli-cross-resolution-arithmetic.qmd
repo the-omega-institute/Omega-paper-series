@@ -41,6 +41,6 @@ We introduce witness covers for the fiber B_n, proving B_n is an upper set in th
 
 ## Links
 
-- [Full Paper (GitHub)](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic)
+- [Full Paper (GitHub)](../../papers/fibonacci-moduli-cross-resolution-arithmetic/)
 - [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

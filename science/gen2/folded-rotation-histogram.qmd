@@ -41,6 +41,6 @@ The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes th
 
 ## Links
 
-- [Full Paper (GitHub)](https://github.com/the-omega-institute/folded-rotation-histogram)
+- [Full Paper (GitHub)](../../papers/folded-rotation-histogram/)
 - [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

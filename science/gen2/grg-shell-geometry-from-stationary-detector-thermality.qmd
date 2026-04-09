@@ -41,6 +41,6 @@ Full click-record statistics of an Unruh-DeWitt detector define two codimension-
 
 ## Links
 
-- [Full Paper (GitHub)](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality)
+- [Full Paper (GitHub)](../../papers/grg-shell-geometry-from-stationary-detector-thermality/)
 - [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

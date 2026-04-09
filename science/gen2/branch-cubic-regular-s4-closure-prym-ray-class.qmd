@@ -41,6 +41,6 @@ For the conductor-37 elliptic curve, we carry out a complete explicit programme:
 
 ## Links
 
-- [Full Paper (GitHub)](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class)
+- [Full Paper (GitHub)](../../papers/branch-cubic-regular-s4-closure-prym-ray-class/)
 - [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

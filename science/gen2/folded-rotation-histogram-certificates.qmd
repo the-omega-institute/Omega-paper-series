@@ -41,6 +41,6 @@ A two-stage audit framework for coarse-grained orbit data: certifying empirical 
 
 ## Links
 
-- [Full Paper (GitHub)](https://github.com/the-omega-institute/folded-rotation-histogram-certificates)
+- [Full Paper (GitHub)](../../papers/folded-rotation-histogram-certificates/)
 - [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)
