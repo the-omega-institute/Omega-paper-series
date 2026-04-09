@@ -1,0 +1,17 @@
+---
+title: "03. 经脉网络与营卫流行"
+subtitle: "Channels, Networks, and Circulatory Coupling"
+date: 2026-04-09
+order: 3
+categories: [huangdi-neijing, cultural, omega]
+description: "How the Neijing's channels, branches, nutritive flow, and defensive circulation form a multiscale transport network with recurrent flow and recoverable global modes."
+---
+
+**Chapters:** 素问21, 素问56-60, 灵枢10-18, 灵枢52, 灵枢62, 灵枢76  
+**Omega Directions:** `modular tower inverse limit`, `dynamical systems`, `spectral theory`
+
+{{< include articles/category_03_channels_networks_circulatory_coupling.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

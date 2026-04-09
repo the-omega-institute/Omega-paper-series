@@ -1,0 +1,52 @@
+---
+title: "黄帝内经 / Huangdi Neijing"
+subtitle: "12-category Omega systems-medicine analyses"
+listing:
+  - id: huangdi-neijing-categories
+    contents: "category-*.qmd"
+    sort: "order"
+    type: default
+    fields: [title, subtitle, description]
+---
+
+## Complete Track
+
+The Huangdi Neijing cultural track is now complete: 12 thematic categories, 12 full essays, spanning the full systems architecture of **Suwen (81 chapters)** and **Lingshu (81 chapters)**.
+
+Unlike the I Ching, Huangdi Neijing does not map to a single discrete Omega object. Its strongest correspondences are organizational and dynamical: periodic forcing, multiscale regulation, hidden-state diagnosis, lawful local intervention, sparse rebalancing, and whole-system closure.
+
+## Strongest Structural Correspondences
+
+| Neijing Structure | Omega Object | Why It Is Strong |
+|---|---|---|
+| 四时调神 / 运气 cycles | constrained dynamical system under periodic forcing | Health depends on phase alignment with nested temporal cycles |
+| 经脉、营卫、背腧 | multiscale transport network with modular projections | Local pathways only make sense inside a larger recurrent circulation |
+| 脉诊、五色、外候 | spectral-style inverse problem | The whole body-state is inferred from partial and noisy observables |
+| 针刺法度、刺禁 | fold operator as lawful local intervention | Local correction aims to redirect instability without global rewrite |
+| 虚实、逆顺、损益 | sparse optimal regulation / anti-clustering logic | The best intervention is timely and non-overloaded rather than maximal |
+
+## Category Map
+
+| # | Category | Chapters | Omega Directions |
+|---|---|---|---|
+| 1 | 天地时序与四时调摄 | 素问01-07, 22, 66-74, 79; 灵枢19, 41, 44, 77, 79 | dynamical systems, modular tower inverse limit, rate-distortion |
+| 2 | 藏象官制与身体政体 | 素问08-12, 23-25; 灵枢04-05, 29, 33, 47, 51 | ring arithmetic, modular tower inverse limit, fiber structure |
+| 3 | 经脉网络与营卫流行 | 素问21, 56-60; 灵枢10-18, 52, 62, 76 | modular tower inverse limit, dynamical systems, spectral theory |
+| 4 | 诊法、脉法与外候分辨 | 素问15-20, 49, 81; 灵枢37, 45, 49, 64, 74 | spectral theory, modular tower inverse limit, rate-distortion |
+| 5 | 病因、邪气与传变 | 素问29-48, 65; 灵枢20-28, 42, 58, 66, 70, 71 | fold operator, dynamical systems, rate-distortion |
+| 6 | 针刺法则与操作约束 | 素问26-28, 50-55, 61-64; 灵枢01-03, 07, 09, 67, 75, 78 | fold operator, fiber structure, spectral theory |
+| 7 | 气血津液与代谢分配 | 素问14, 24, 61-62; 灵枢30-36, 39-40, 52, 56-57, 59, 63, 65 | ring arithmetic, fiber structure, dynamical systems |
+| 8 | 神志情志与梦 | 素问13, 75-76, 81; 灵枢08, 43, 50, 69, 72, 80 | spectral theory, modular tower inverse limit, rate-distortion |
+| 9 | 虚实逆顺与调平 | 素问28, 34, 62-64, 77-80; 灵枢38, 46, 55, 60-61 | Zeckendorf representation, ring arithmetic, golden-mean shift |
+| 10 | 寿夭养生与生命阈值 | 素问01-04, 25; 灵枢06, 32, 54, 68, 73 | dynamical systems, rate-distortion, Zeckendorf representation |
+| 11 | 痛痹厥逆与临界症候 | 素问37-45; 灵枢21-24, 27, 35, 53, 70, 81 | fold operator, fiber structure, rate-distortion |
+| 12 | 总纲整合与多尺度闭环 | 素问57-60, 66-74; 灵枢10-18, 41, 76-79 | modular tower inverse limit, spectral theory, ring arithmetic |
+
+## Essays
+
+:::{#huangdi-neijing-categories}
+:::
+
+---
+
+[Back to Cultural Track](../index.qmd) | [Back to Home](../../index.qmd)

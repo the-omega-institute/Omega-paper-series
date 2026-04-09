@@ -83,6 +83,44 @@ The golden-mean shift constraint (no consecutive 1s in 6 bits) selects exactly `
 
 ---
 
+## 黄帝内经 / Huangdi Neijing — Complete
+
+Huangdi Neijing extends the cultural track from symbolic cosmology into systems medicine: **Suwen (81 chapters) + Lingshu (81 chapters)**, organized here into 12 thematic categories and 12 full essays.
+
+Its strongest Omega correspondences are not object-identity, but multiscale structure: periodic forcing, organ-governance closure, transport networks, inverse diagnosis, lawful local intervention, and whole-system closure.
+
+### Strongest Structural Correspondences
+
+| 黄帝内经结构 | Omega 对应 | 强度 |
+|---|---|---|
+| 四时调神 / 运气 cycles | constrained dynamical system under periodic forcing | **Formal** |
+| 经脉、营卫、背腧 | multiscale transport network with modular projections | **Formal** |
+| 脉诊、五色、外候 | spectral-style inverse problem from partial observables | **Formal** |
+| 针刺法度、刺禁 | fold operator as lawful local intervention | **Formal** |
+| 虚实、逆顺、损益 | sparse optimal regulation / anti-clustering logic | **Formal** |
+| 总纲整合 | medicine as a multiscale closure problem | **Formal** |
+
+### Categories
+
+| # | 类别 | 章节带 | Omega 方向 |
+|---|---|---|---|
+| 1 | [天地时序与四时调摄](huangdi-neijing/category-01-cosmic-timing-seasonal-regulation.qmd) | 素问01-07, 22, 66-74, 79; 灵枢19, 41, 44, 77, 79 | dynamical-systems, modular-tower, rate-distortion |
+| 2 | [藏象官制与身体政体](huangdi-neijing/category-02-organ-governance-somatic-polity.qmd) | 素问08-12, 23-25; 灵枢04-05, 29, 33, 47, 51 | ring-arithmetic, modular-tower, fiber-structure |
+| 3 | [经脉网络与营卫流行](huangdi-neijing/category-03-channels-networks-circulatory-coupling.qmd) | 素问21, 56-60; 灵枢10-18, 52, 62, 76 | modular-tower, dynamical-systems, spectral-theory |
+| 4 | [诊法、脉法与外候分辨](huangdi-neijing/category-04-diagnosis-pulse-diagnostic-resolution.qmd) | 素问15-20, 49, 81; 灵枢37, 45, 49, 64, 74 | spectral-theory, modular-tower, rate-distortion |
+| 5 | [病因、邪气与传变](huangdi-neijing/category-05-pathogenesis-pathogenic-factors-transmission.qmd) | 素问29-48, 65; 灵枢20-28, 42, 58, 66, 70, 71 | fold-operator, dynamical-systems, rate-distortion |
+| 6 | [针刺法则与操作约束](huangdi-neijing/category-06-needling-law-local-intervention-constraints.qmd) | 素问26-28, 50-55, 61-64; 灵枢01-03, 07, 09, 67, 75, 78 | fold-operator, fiber-structure, spectral-theory |
+| 7 | [气血津液与代谢分配](huangdi-neijing/category-07-qi-blood-fluids-metabolic-allocation.qmd) | 素问14, 24, 61-62; 灵枢30-36, 39-40, 52, 56-57, 59, 63, 65 | ring-arithmetic, fiber-structure, dynamical-systems |
+| 8 | [神志情志与梦](huangdi-neijing/category-08-spirit-emotion-dream-cognitive-state.qmd) | 素问13, 75-76, 81; 灵枢08, 43, 50, 69, 72, 80 | spectral-theory, modular-tower, rate-distortion |
+| 9 | [虚实逆顺与调平](huangdi-neijing/category-09-excess-deficiency-reversal-rebalancing.qmd) | 素问28, 34, 62-64, 77-80; 灵枢38, 46, 55, 60-61 | zeckendorf, ring-arithmetic, golden-mean-shift |
+| 10 | [寿夭养生与生命阈值](huangdi-neijing/category-10-longevity-nourishing-life-vital-thresholds.qmd) | 素问01-04, 25; 灵枢06, 32, 54, 68, 73 | dynamical-systems, rate-distortion, zeckendorf |
+| 11 | [痛痹厥逆与临界症候](huangdi-neijing/category-11-pain-bi-jue-critical-syndromes.qmd) | 素问37-45; 灵枢21-24, 27, 35, 53, 70, 81 | fold-operator, fiber-structure, rate-distortion |
+| 12 | [总纲整合与多尺度闭环](huangdi-neijing/category-12-integrative-doctrine-multiscale-closure.qmd) | 素问57-60, 66-74; 灵枢10-18, 41, 76-79 | modular-tower, spectral-theory, ring-arithmetic |
+
+**Status:** 12/12 category essays complete. [Browse the full Huangdi Neijing track](huangdi-neijing/index.qmd).
+
+---
+
 ## Methodology
 
 For each classical text:

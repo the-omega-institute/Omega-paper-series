@@ -1,0 +1,17 @@
+---
+title: "06. 针刺法则与操作约束"
+subtitle: "Needling Law and Local Intervention Constraints"
+date: 2026-04-09
+order: 6
+categories: [huangdi-neijing, cultural, omega]
+description: "How acupuncture law,刺禁,补泻, and timing frame therapy as lawful local intervention rather than global rewrite of the body."
+---
+
+**Chapters:** 素问26-28, 素问50-55, 素问61-64, 灵枢01-03, 灵枢07, 灵枢09, 灵枢67, 灵枢75, 灵枢78  
+**Omega Directions:** `fold operator`, `fiber structure`, `spectral theory`
+
+{{< include articles/category_06_needling_law_local_intervention_constraints.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

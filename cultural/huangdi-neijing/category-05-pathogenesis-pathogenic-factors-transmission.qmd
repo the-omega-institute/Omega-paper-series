@@ -1,0 +1,17 @@
+---
+title: "05. 病因、邪气与传变"
+subtitle: "Pathogenesis, Pathogenic Factors, and Transmission"
+date: 2026-04-09
+order: 5
+categories: [huangdi-neijing, cultural, omega]
+description: "How pathogenic factors, transmission, and disease transformation map to cascading state changes, fold-like correction, and recoverability thresholds."
+---
+
+**Chapters:** 素问29-48, 素问65, 灵枢20-28, 灵枢42, 灵枢58, 灵枢66, 灵枢70, 灵枢71  
+**Omega Directions:** `fold operator`, `dynamical systems`, `rate-distortion information theory`
+
+{{< include articles/category_05_pathogenesis_pathogenic_factors_transmission.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

@@ -1,0 +1,17 @@
+---
+title: "04. 诊法、脉法与外候分辨"
+subtitle: "Diagnosis, Pulse, and Diagnostic Resolution"
+date: 2026-04-09
+order: 4
+categories: [huangdi-neijing, cultural, omega]
+description: "How pulse, color,尺肤, and outer signs create an inverse problem: recovering the hidden whole-body state from sparse and noisy observables."
+---
+
+**Chapters:** 素问15-20, 素问49, 素问81, 灵枢37, 灵枢45, 灵枢49, 灵枢64, 灵枢74  
+**Omega Directions:** `spectral theory`, `modular tower inverse limit`, `rate-distortion information theory`
+
+{{< include articles/category_04_diagnosis_pulse_diagnostic_resolution.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

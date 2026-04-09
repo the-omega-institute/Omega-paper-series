@@ -1,0 +1,17 @@
+---
+title: "08. 神志情志与梦"
+subtitle: "Spirit, Emotion, Dream, and Cognitive State"
+date: 2026-04-09
+order: 8
+categories: [huangdi-neijing, cultural, omega]
+description: "How spirit, emotion, dream, and cognitive disturbance appear as high-level bodily modes rather than detached immaterial phenomena."
+---
+
+**Chapters:** 素问13, 素问75-76, 素问81, 灵枢08, 灵枢43, 灵枢50, 灵枢69, 灵枢72, 灵枢80  
+**Omega Directions:** `spectral theory`, `modular tower inverse limit`, `rate-distortion information theory`
+
+{{< include articles/category_08_spirit_emotion_dream_cognitive_state.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

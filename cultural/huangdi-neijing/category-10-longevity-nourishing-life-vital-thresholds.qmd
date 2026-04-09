@@ -1,0 +1,17 @@
+---
+title: "10. 寿夭养生与生命阈值"
+subtitle: "Longevity, Nourishing Life, and Vital Thresholds"
+date: 2026-04-09
+order: 10
+categories: [huangdi-neijing, cultural, omega]
+description: "How养生、天年, and long-run vitality map the body onto bounded trajectories, cumulative distortion, and sparse life-preserving correction."
+---
+
+**Chapters:** 素问01-04, 素问25, 灵枢06, 灵枢32, 灵枢54, 灵枢68, 灵枢73  
+**Omega Directions:** `dynamical systems`, `rate-distortion information theory`, `Zeckendorf representation`
+
+{{< include articles/category_10_longevity_nourishing_life_vital_thresholds.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

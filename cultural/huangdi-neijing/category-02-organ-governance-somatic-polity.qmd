@@ -1,0 +1,17 @@
+---
+title: "02. 藏象官制与身体政体"
+subtitle: "Organ Governance and Somatic Polity"
+date: 2026-04-09
+order: 2
+categories: [huangdi-neijing, cultural, omega]
+description: "How the Neijing's organ-office system maps bodily governance onto ring-like closure, layered functional hierarchy, and many-to-one diagnostic stabilization classes."
+---
+
+**Chapters:** 素问08-12, 素问23-25, 灵枢04-05, 灵枢29, 灵枢33, 灵枢47, 灵枢51  
+**Omega Directions:** `ring arithmetic`, `modular tower inverse limit`, `fiber structure`
+
+{{< include articles/category_02_organ_governance_somatic_polity.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

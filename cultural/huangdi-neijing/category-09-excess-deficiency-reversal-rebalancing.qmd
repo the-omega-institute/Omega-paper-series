@@ -1,0 +1,17 @@
+---
+title: "09. 虚实逆顺与调平"
+subtitle: "Excess, Deficiency, Reversal, and Rebalancing"
+date: 2026-04-09
+order: 9
+categories: [huangdi-neijing, cultural, omega]
+description: "How虚实、逆顺、补泻, and调经 map to sparse optimal regulation, anti-clustering stability, and global closure under local correction."
+---
+
+**Chapters:** 素问28, 素问34, 素问62-64, 素问77-80, 灵枢38, 灵枢46, 灵枢55, 灵枢60-61  
+**Omega Directions:** `Zeckendorf representation`, `ring arithmetic`, `golden-mean shift`
+
+{{< include articles/category_09_excess_deficiency_reversal_rebalancing.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

@@ -1,0 +1,17 @@
+---
+title: "07. 气血津液与代谢分配"
+subtitle: "Qi, Blood, Fluids, and Metabolic Allocation"
+date: 2026-04-09
+order: 7
+categories: [huangdi-neijing, cultural, omega]
+description: "How qi, blood, fluids,胃气, and海论 form a bounded resource-allocation system governed by redistribution, storage, blockage, and recovery."
+---
+
+**Chapters:** 素问14, 素问24, 素问61-62, 灵枢30-36, 灵枢39-40, 灵枢52, 灵枢56-57, 灵枢59, 灵枢63, 灵枢65  
+**Omega Directions:** `ring arithmetic`, `fiber structure`, `dynamical systems`
+
+{{< include articles/category_07_qi_blood_fluids_metabolic_allocation.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

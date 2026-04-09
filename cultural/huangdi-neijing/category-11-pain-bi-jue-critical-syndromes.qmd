@@ -1,0 +1,17 @@
+---
+title: "11. 痛痹厥逆与临界症候"
+subtitle: "Pain, Bi, Jue, and Critical Syndromes"
+date: 2026-04-09
+order: 11
+categories: [huangdi-neijing, cultural, omega]
+description: "How pain, bi, jue, reversal, and edge syndromes reveal threshold behavior, loss of recoverability, and shared stabilization failures."
+---
+
+**Chapters:** 素问37-45, 灵枢21-24, 灵枢27, 灵枢35, 灵枢53, 灵枢70, 灵枢81  
+**Omega Directions:** `fold operator`, `fiber structure`, `rate-distortion information theory`
+
+{{< include articles/category_11_pain_bi_jue_critical_syndromes.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

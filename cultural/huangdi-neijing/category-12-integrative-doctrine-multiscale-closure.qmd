@@ -1,0 +1,17 @@
+---
+title: "12. 总纲整合与多尺度闭环"
+subtitle: "Integrative Doctrine and Multiscale Closure"
+date: 2026-04-09
+order: 12
+categories: [huangdi-neijing, cultural, omega]
+description: "How the full architecture of Suwen and Lingshu converges on medicine as a multiscale closure problem across seasons, organs, channels, signals, and intervention."
+---
+
+**Chapters:** 素问57-60, 素问66-74, 灵枢10-18, 灵枢41, 灵枢76-79  
+**Omega Directions:** `modular tower inverse limit`, `spectral theory`, `ring arithmetic`
+
+{{< include articles/category_12_integrative_doctrine_multiscale_closure.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)

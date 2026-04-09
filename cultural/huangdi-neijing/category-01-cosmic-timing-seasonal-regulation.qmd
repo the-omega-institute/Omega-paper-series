@@ -1,0 +1,17 @@
+---
+title: "01. 天地时序与四时调摄"
+subtitle: "Cosmic Timing, Seasonal Regulation, and Preventive Alignment"
+date: 2026-04-09
+order: 1
+categories: [huangdi-neijing, cultural, omega]
+description: "How Suwen and Lingshu chapters on four-season regulation, yang alignment, and 运气 cycles map the body onto periodic forcing, multiscale temporal nesting, and threshold-bound adaptation."
+---
+
+**Chapters:** 素问01-07, 素问22, 素问66-74, 素问79, 灵枢19, 灵枢41, 灵枢44, 灵枢77, 灵枢79  
+**Omega Directions:** `dynamical systems`, `modular tower inverse limit`, `rate-distortion information theory`
+
+{{< include articles/category_01_cosmic_timing_seasonal_regulation.md >}}
+
+---
+
+[Back to Huangdi Neijing Index](index.qmd) | [Back to Cultural Track](../index.qmd)
