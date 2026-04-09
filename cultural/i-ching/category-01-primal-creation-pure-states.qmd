@@ -15,3 +15,7 @@ description: "How 乾、坤、泰、否 map the raw 6-bit state space, pure bina
 ---
 
 [Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
+
+## NotebookLM Slides
+
+[Download Slides (PDF)](../../media/cultural/i-ching/category_01_primal_creation_pure_states_slides.pdf)

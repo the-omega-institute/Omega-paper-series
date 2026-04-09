@@ -15,3 +15,7 @@ description: "How 屯、蒙、剥、复、夬、姤、既济、未济 map beginn
 ---
 
 [Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
+
+## NotebookLM Slides
+
+[Download Slides (PDF)](../../media/cultural/i-ching/category_02_dynamic_change_cyclic_completion_slides.pdf)

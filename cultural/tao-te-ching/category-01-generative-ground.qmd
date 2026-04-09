@@ -15,3 +15,7 @@ description: "How chapters 1, 4, 14, 21, 25, 34, 42, and 51 map the Dao as an un
 ---
 
 [Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
+
+## NotebookLM Slides
+
+[Download Slides (PDF)](../../media/cultural/tao-te-ching/category_01_generative_ground_slides.pdf)
