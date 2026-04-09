@@ -1,0 +1,17 @@
+---
+title: "06. 离散算术与结构递推"
+subtitle: "Discrete Arithmetic and Structural Recurrence"
+date: 2026-04-09
+order: 6
+categories: [elements, cultural, omega]
+description: "How Books VII-IX embed divisibility, recurrence, and number classification inside a geometric program."
+---
+
+**Books:** Book VII, VIII, IX  
+**Omega Directions:** `fibonacci growth`, `ring arithmetic`, `dynamical systems`
+
+{{< include articles/category_06_discrete_arithmetic_and_structural_recurrence.md >}}
+
+---
+
+[Back to Elements Index](index.qmd) | [Back to Cultural Track](../index.qmd)

@@ -1,0 +1,17 @@
+---
+title: "04. 几何代数与面积演算"
+subtitle: "Geometric Algebra and Area Identities"
+date: 2026-04-09
+order: 4
+categories: [elements, cultural, omega]
+description: "Why Book II is Euclid's clearest bridge between geometric decomposition and algebraic identity."
+---
+
+**Books:** Book II  
+**Omega Directions:** `ring arithmetic`, `fold operator`, `spectral theory`
+
+{{< include articles/category_04_geometric_algebra_and_area_identities.md >}}
+
+---
+
+[Back to Elements Index](index.qmd) | [Back to Cultural Track](../index.qmd)

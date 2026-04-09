@@ -1,0 +1,17 @@
+---
+title: "08. 立体、穷竭与终端分类"
+subtitle: "Solid Geometry, Exhaustion, and Terminal Classification"
+date: 2026-04-09
+order: 8
+categories: [elements, cultural, omega]
+description: "How Books XI-XIII complete the system through solids, exhaustion, and terminal classification."
+---
+
+**Books:** Book XI, XII, XIII  
+**Omega Directions:** `modular tower inverse limit`, `dynamical systems`, `spectral theory`
+
+{{< include articles/category_08_solid_geometry_exhaustion_and_terminal_classification.md >}}
+
+---
+
+[Back to Elements Index](index.qmd) | [Back to Cultural Track](../index.qmd)

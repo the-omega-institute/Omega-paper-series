@@ -1,0 +1,17 @@
+---
+title: "02. 全等、刚性与初等平面构形"
+subtitle: "Congruence, Rigidity, and Elementary Plane Configurations"
+date: 2026-04-09
+order: 2
+categories: [elements, cultural, omega]
+description: "How congruence, circles, and inscribed configurations show that sparse compatible relations force geometry."
+---
+
+**Books:** Book I, III, IV  
+**Omega Directions:** `spectral theory`, `fold operator`, `dynamical systems`
+
+{{< include articles/category_02_congruence_rigidity_and_elementary_plane_configurations.md >}}
+
+---
+
+[Back to Elements Index](index.qmd) | [Back to Cultural Track](../index.qmd)

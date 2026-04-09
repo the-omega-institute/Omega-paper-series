@@ -1,0 +1,17 @@
+---
+title: "01. 定义、公设与合法构造"
+subtitle: "Definitions, Postulates, and Admissible Constructions"
+date: 2026-04-09
+order: 1
+categories: [elements, cultural, omega]
+description: "How Euclid turns geometry into a constrained construction grammar built from primitive objects and licensed moves."
+---
+
+**Books:** Book I, III, IV  
+**Omega Directions:** `fold operator`, `modular tower inverse limit`, `rate-distortion information theory`
+
+{{< include articles/category_01_definitions_postulates_and_admissible_constructions.md >}}
+
+---
+
+[Back to Elements Index](index.qmd) | [Back to Cultural Track](../index.qmd)

@@ -1,0 +1,17 @@
+---
+title: "07. 不可公度、障碍与规范分层"
+subtitle: "Incommensurability, Obstruction, and Canonical Stratification"
+date: 2026-04-09
+order: 7
+categories: [elements, cultural, omega]
+description: "How Book X converts failure of common measure into an explicit taxonomy of obstruction classes."
+---
+
+**Books:** Book X  
+**Omega Directions:** `zeckendorf representation`, `spectral theory`, `rate-distortion information theory`
+
+{{< include articles/category_07_incommensurability_obstruction_and_canonical_stratification.md >}}
+
+---
+
+[Back to Elements Index](index.qmd) | [Back to Cultural Track](../index.qmd)

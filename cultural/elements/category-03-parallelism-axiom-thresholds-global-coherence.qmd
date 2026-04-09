@@ -1,0 +1,17 @@
+---
+title: "03. 平行、公理门槛与整体一致性"
+subtitle: "Parallelism, Axiom Thresholds, and Global Coherence"
+date: 2026-04-09
+order: 3
+categories: [elements, cultural, omega]
+description: "How parallelism exposes the threshold between local incidence data and globally coherent geometry."
+---
+
+**Books:** Book I, VI  
+**Omega Directions:** `modular tower inverse limit`, `spectral theory`, `rate-distortion information theory`
+
+{{< include articles/category_03_parallelism_axiom_thresholds_and_global_coherence.md >}}
+
+---
+
+[Back to Elements Index](index.qmd) | [Back to Cultural Track](../index.qmd)

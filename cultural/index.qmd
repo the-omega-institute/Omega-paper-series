@@ -157,6 +157,40 @@ Its strongest Omega correspondences are not cosmological but operational: rate-d
 
 ---
 
+## 几何原本 / Euclid's Elements — Complete
+
+Euclid provides the strongest methodological correspondence in the cultural track: geometry as a constrained program of primitive objects, licensed constructions, ratio transfer, explicit obstruction classes, finite-stage control, and terminal classification.
+
+This is especially important for Omega because the bridge is not merely thematic. Euclid shows how a rich geometric world can be forced from a tiny admissible grammar and then closed by rigidity, exhaustion, and canonical object families.
+
+### Strongest Structural Correspondences
+
+| Euclid Structure | Omega 对应 | 强度 |
+|---|---|---|
+| Definitions and postulates | admissible construction grammar | **Formal** |
+| Book II geometric algebra | ring arithmetic through legal geometric decomposition | **Formal** |
+| Book V-VI proportion and similarity | cross-scale transport of normalized invariants | **Formal** |
+| Book X incommensurability | obstruction taxonomy and canonical stratification | **Formal** |
+| Book XII exhaustion | inverse-limit style finite-stage control | **Formal** |
+| Book XIII regular solids | terminal canonical family | **Formal** |
+
+### Categories
+
+| # | 类别 | Books | Omega 方向 |
+|---|---|---|---|
+| 1 | [定义、公设与合法构造](elements/category-01-definitions-postulates-admissible-constructions.qmd) | Book I, III, IV | fold-operator, modular-tower, rate-distortion |
+| 2 | [全等、刚性与初等平面构形](elements/category-02-congruence-rigidity-elementary-plane-configurations.qmd) | Book I, III, IV | spectral-theory, fold-operator, dynamical-systems |
+| 3 | [平行、公理门槛与整体一致性](elements/category-03-parallelism-axiom-thresholds-global-coherence.qmd) | Book I, VI | modular-tower, spectral-theory, rate-distortion |
+| 4 | [几何代数与面积演算](elements/category-04-geometric-algebra-area-identities.qmd) | Book II | ring-arithmetic, fold-operator, spectral-theory |
+| 5 | [比例、相似与跨尺度迁移](elements/category-05-proportion-similarity-cross-scale-transfer.qmd) | Book V, VI | modular-tower, rate-distortion, spectral-theory |
+| 6 | [离散算术与结构递推](elements/category-06-discrete-arithmetic-structural-recurrence.qmd) | Book VII, VIII, IX | fibonacci-growth, ring-arithmetic, dynamical-systems |
+| 7 | [不可公度、障碍与规范分层](elements/category-07-incommensurability-obstruction-canonical-stratification.qmd) | Book X | zeckendorf, spectral-theory, rate-distortion |
+| 8 | [立体、穷竭与终端分类](elements/category-08-solid-geometry-exhaustion-terminal-classification.qmd) | Book XI, XII, XIII | modular-tower, dynamical-systems, spectral-theory |
+
+**Status:** 8/8 category essays complete. [Browse the full Euclid track](elements/index.qmd).
+
+---
+
 ## Methodology
 
 For each classical text:

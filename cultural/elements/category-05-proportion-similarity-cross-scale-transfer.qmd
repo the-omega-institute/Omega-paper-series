@@ -1,0 +1,17 @@
+---
+title: "05. 比例、相似与跨尺度迁移"
+subtitle: "Proportion, Similarity, and Cross-Scale Transfer"
+date: 2026-04-09
+order: 5
+categories: [elements, cultural, omega]
+description: "How Books V-VI make ratio and similarity the core mechanism for cross-scale geometric transport."
+---
+
+**Books:** Book V, VI  
+**Omega Directions:** `modular tower inverse limit`, `rate-distortion information theory`, `spectral theory`
+
+{{< include articles/category_05_proportion_similarity_and_cross_scale_transfer.md >}}
+
+---
+
+[Back to Elements Index](index.qmd) | [Back to Cultural Track](../index.qmd)

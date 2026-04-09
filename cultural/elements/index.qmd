@@ -1,0 +1,49 @@
+---
+title: "几何原本 / Euclid's Elements"
+subtitle: "8-category Omega geometry analyses"
+listing:
+  - id: elements-categories
+    contents: "category-*.qmd"
+    sort: "order"
+    type: default
+    fields: [title, subtitle, description]
+---
+
+## Complete Track
+
+The Euclid track is now complete: 8 thematic categories, 8 full essays, organized around the text's strongest value for Omega as a theory of constrained geometric construction, proportion, obstruction, and terminal classification.
+
+Unlike the I Ching, Euclid does not map to one symbolic state object. Its strongest correspondence is methodological and structural: geometry begins from licensed primitive moves, grows through rigidity and ratio transfer, faces explicit obstruction classes, and closes by exhaustion and canonical classification.
+
+## Strongest Structural Correspondences
+
+| Euclid Structure | Omega Object | Why It Is Strong |
+|---|---|---|
+| Definitions and postulates | admissible construction grammar | Objects enter theory only through licensed primitive moves |
+| Book II geometric algebra | ring arithmetic through geometric decomposition | Identities are forced by legal splitting and recombination |
+| Book V-VI proportion and similarity | cross-scale transport of normalized invariants | Truth moves through ratio, not raw size |
+| Book X incommensurability | obstruction taxonomy and canonical stratification | Failure of reduction becomes a positive classification layer |
+| Book XII exhaustion | inverse-limit style finite-stage control | Limit truth is certified by disciplined approximation |
+| Book XIII regular solids | terminal canonical family | The theory closes by classification rather than endless generation |
+
+## Category Map
+
+| # | Category | Books | Omega Directions |
+|---|---|---|---|
+| 1 | 定义、公设与合法构造 | Book I, III, IV | fold operator, modular tower inverse limit, rate-distortion |
+| 2 | 全等、刚性与初等平面构形 | Book I, III, IV | spectral theory, fold operator, dynamical systems |
+| 3 | 平行、公理门槛与整体一致性 | Book I, VI | modular tower inverse limit, spectral theory, rate-distortion |
+| 4 | 几何代数与面积演算 | Book II | ring arithmetic, fold operator, spectral theory |
+| 5 | 比例、相似与跨尺度迁移 | Book V, VI | modular tower inverse limit, rate-distortion, spectral theory |
+| 6 | 离散算术与结构递推 | Book VII, VIII, IX | fibonacci growth, ring arithmetic, dynamical systems |
+| 7 | 不可公度、障碍与规范分层 | Book X | zeckendorf representation, spectral theory, rate-distortion |
+| 8 | 立体、穷竭与终端分类 | Book XI, XII, XIII | modular tower inverse limit, dynamical systems, spectral theory |
+
+## Essays
+
+:::{#elements-categories}
+:::
+
+---
+
+[Back to Cultural Track](../index.qmd) | [Back to Home](../../index.qmd)
