@@ -15,3 +15,13 @@ description: "How chapters 3, 7, 10, 17, 23, 27, 37, 43, 48, 57, 63, and 64 map 
 ---
 
 [Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
+
+## Video & Media
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_wu_wei_spontaneous_order_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_wu_wei_spontaneous_order_slides.pdf)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_wu_wei_spontaneous_order_video.mp4)
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_wu_wei_spontaneous_order_infographic.png)

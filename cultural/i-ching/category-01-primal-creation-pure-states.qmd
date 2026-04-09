@@ -19,3 +19,13 @@ description: "How 乾、坤、泰、否 map the raw 6-bit state space, pure bina
 ## NotebookLM Slides
 
 [Download Slides (PDF)](../../media/cultural/i-ching/category_01_primal_creation_pure_states_slides.pdf)
+
+## Video & Media
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_slides.pdf)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_video.mp4)
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_primal_creation_pure_states_infographic.png)

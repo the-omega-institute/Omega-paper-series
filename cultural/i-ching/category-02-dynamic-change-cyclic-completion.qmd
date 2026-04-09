@@ -19,3 +19,13 @@ description: "How 屯、蒙、剥、复、夬、姤、既济、未济 map beginn
 ## NotebookLM Slides
 
 [Download Slides (PDF)](../../media/cultural/i-ching/category_02_dynamic_change_cyclic_completion_slides.pdf)
+
+## Video & Media
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_dynamic_change_cyclic_completion_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_dynamic_change_cyclic_completion_slides.pdf)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_dynamic_change_cyclic_completion_video.mp4)
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_dynamic_change_cyclic_completion_infographic.png)

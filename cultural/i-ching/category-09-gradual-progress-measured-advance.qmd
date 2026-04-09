@@ -15,3 +15,13 @@ description: "How lawful growth, release, ascent, channeling, and limit-consciou
 ---
 
 [Back to I Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
+
+## Video & Media
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_gradual_progress_measured_advance_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_gradual_progress_measured_advance_slides.pdf)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_gradual_progress_measured_advance_video.mp4)
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_gradual_progress_measured_advance_infographic.png)

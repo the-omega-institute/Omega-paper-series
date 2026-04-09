@@ -15,3 +15,13 @@ description: "How chapters 4, 6, 10, 25, 42, 52, 56, 62, and 73 map mysterious u
 ---
 
 [Back to Tao Te Ching Index](index.qmd) | [Back to Cultural Track](../index.qmd)
+
+## Video & Media
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_mysterious_unity_video.mp4 >}}
+
+**Downloads:**
+
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_mysterious_unity_slides.pdf)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_mysterious_unity_video.mp4)
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_mysterious_unity_infographic.png)
