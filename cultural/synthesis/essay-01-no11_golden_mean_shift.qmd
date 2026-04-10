@@ -29,6 +29,10 @@ description: "Cross-text synthesis essay tracing `fibonacci_cardinality` across 
 - [A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization](../../science/gen2/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity.qmd)
 - [Finite-Window Rigidity in Fibonacci Numeration](../../science/gen2/resolution-folding-core-symbolic-dynamics.qmd)
 
+## NotebookLM Slides
+
+[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_01_no11_golden_mean_shift_slides.pdf)
+
 ## 正文 / Essay
 
 {{< include articles/synthesis_01_no11_golden_mean_shift.md >}}

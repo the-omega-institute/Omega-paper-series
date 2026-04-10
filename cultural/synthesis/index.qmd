@@ -17,6 +17,11 @@ listing:
 
 这一层的媒体默认策略是：**中文主叙事，英文辅助 rigor**。中文承担古籍传播与社交媒体适配，英文只承担 theorem names、关键术语和短 rigor summary。
 
+**首批媒体已发布：**
+- [01 No11 与知止之美 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_01_no11_golden_mean_shift_slides.pdf)
+- [02 递推增长与由一而多 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_02_fibonacci_growth_recurrence_slides.pdf)
+- [03 Fold：过量如何被折回稳定域 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_03_fold_operator_slides.pdf)
+
 ## 旗舰地图
 
 | # | 文章 | 主定理核 | 覆盖经典 | 关联论文 | 状态 |
