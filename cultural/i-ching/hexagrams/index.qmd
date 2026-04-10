@@ -1,6 +1,6 @@
 ---
-title: "All 64 Hexagram Dossiers"
-subtitle: "Complete structural registry of the King Wen sequence"
+title: "All 64 Hexagram Pages"
+subtitle: "Complete source-anchored registry of the King Wen sequence"
 listing:
   - id: all-hexagrams
     contents: "hexagram-*.md"
@@ -11,15 +11,16 @@ listing:
 
 ## Full Hexagram Layer
 
-This track contains dossier pages for all `64` hexagrams in the King Wen sequence.
+This track contains individual pages for all `64` hexagrams in the King Wen sequence.
 
-Each page is a structural dossier rather than a finished commentary. The page fixes:
+Each page now fixes and publishes:
 
 - the hexagram's binary word
 - its trigram decomposition
 - its relation to `X_6`
 - its category memberships in the current 12-category Omega map
 - the theorem-level Lean anchors currently carrying the strongest correspondence
+- a compact source-text anchor pulled from the local `texts/yijing` corpus
 
 ## Reading Strategy
 

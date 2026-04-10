@@ -1,6 +1,6 @@
 ---
 title: "易经 / I Ching"
-subtitle: "12-category Omega hexagram analyses"
+subtitle: "12 category essays + 64 source-anchored hexagram pages"
 listing:
   - id: i-ching-categories
     contents: "category-*.qmd"
@@ -46,7 +46,9 @@ Each category essay now includes theorem-level Lean anchors, so the mapping no l
 
 ## Hexagram Expansion
 
-The category essays remain the main interpretive layer. A second layer now begins underneath them: `21` individual dossiers for the GMS-valid hexagrams inside `X_6`.
+The category essays remain the main interpretive layer. Under them now sits a complete per-hexagram layer: all `64` hexagrams have individual pages, theorem-level anchors, and local source-text excerpts normalized into the repository.
+
+The `21` GMS-valid hexagrams inside `X_6` remain the mathematically strongest subset, but the full `64`-page layer now makes the stable / fold-required partition visible across the whole King Wen sequence.
 
 [Browse all 64 hexagram dossiers](hexagrams/index.qmd)
 
