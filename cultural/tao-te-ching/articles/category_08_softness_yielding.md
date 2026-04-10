@@ -1,3 +1,5 @@
+# 柔弱胜刚强：以 Omega 框架重读《道德经》7、8、13、22、36、43、52、55、61、69、73、76、78章
+
 ## 摘要
 
 本文讨论《道德经》中“柔弱胜刚强 / The Strength of Softness and Yielding”这一组章节，并以 Omega 的 `golden-mean shift`、`Fold operator` 与 `rate-distortion` 为主要形式参照。老子对“柔”“弱”“下”“不争”的偏爱，不是道德上的姿态美学，而是一个稳定性判断：过刚、过满、过硬的结构往往最先折断，能够让位、留隙、保持弹性的结构反而更能久存、更能穿透。Omega 中，`No11` 约束正可视为一种“拒绝刚性相邻高态”的 yielding law；`Fold` 说明一切过刚配置最终都要被折回可持续的稀疏形；率失真视角则表明，超过容许阈值的强制态会更快丢失信息与稳定性。本文主张：第43章“天下之至柔，驰骋天下之至坚”、第76章“柔弱者生之徒”、第78章“弱之胜强，柔之胜刚”与这一形式结构对应最强；第8、22、36、55、61章次之；第7、13、52、69、73章提供工夫与战略层面的补足。
@@ -43,6 +45,14 @@
 本类最大的误读，是把老子理解成对一切力量的否定。实际上，老子批判的不是力量本身，而是僵硬、饱和、不可回转的力量。`No11` 也不是禁止一切高态，它只是禁止高态的连续僵化。强态可以出现，但必须被间隔、被调节、被纳入整体节律。
 
 因此，第36章比第13章更强，因为它明确涉及过强触发反向；第43、76、78章比第7章更强，因为它们直接将柔弱说明为结构上的胜法。只要把握住“柔是长期稳定区间，刚是短时极化状态”这一点，整个类目便有清楚的数学对应边界。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `fold_is_idempotent` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fold_is_idempotent (w : Word m) : Fold (Fold w).1 = Fold w`。说明 fold 一旦把词折回稳定域，再施加一次不会继续改写，因此可把稳定态看成真正的吸引结果。
+- `observation_refinement_reduces_error` [`Omega.Frontier.ConditionalArithmetic`]：`theorem observation_refinement_reduces_error {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ] (μ : PMF α) (obs₁ : α → β) (obs₂ : α → γ) (f : γ → β) (hRef ...`。说明观测更细时误差不会变大，支撑本文把分辨、静观、察势写成信息分辨率问题。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

@@ -1,3 +1,5 @@
+# 自然与朴素：以 Omega 框架重读《道德经》15、19、27、28、32、37、44、57、67、68、80、81章
+
 ## 摘要
 
 本文讨论《道德经》中“自然与朴素 / Naturalness, Simplicity, and the Uncarved Block”这一组章节，并以 Omega 的 `golden-mean shift` 与 `Zeckendorf representation` 为主要形式参照。老子反复说“朴”“少私寡欲”“无名之朴”“三宝”“小国寡民”，并非单纯怀旧，而是在寻找一种最少约束、最少装饰、却仍保有生命力与秩序生成能力的结构形态。Omega 中，golden-mean shift 可被视为“最简单而仍有正熵的非平凡约束系统”：约束极少，但仍能产生丰富结构；Zeckendorf 表示则说明真正高明的构成方式是唯一、稀疏、不过度雕饰的。本文主张：第19、28、32、37章对应最强；第57、67、68、80、81章次之；第15、27、44章提供审美与实践层面的补足。
@@ -39,6 +41,13 @@ Zeckendorf 表示也说明同一件事。一个自然数的最佳表示并不靠
 本类最常见的误读，是把老子的“朴”理解成彻底反文明，仿佛一切器物、制度、知识都应被废弃。实际上，第28章已说“朴散则为器”，说明器并非原罪；问题在于器物是否脱离其朴素根基而自我膨胀。Omega 的对应也不是赞美“越少越好”，而是赞美“最少而足够”的结构。
 
 因此，第19、28、32、37章最强；第57、67、68、80、81章次之；第15、27、44章为风格与实践延伸。只有把朴理解成“最小充分结构”，而不是“空洞原始状态”，整个类目的数学对应才成立。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `zeckendorf_uniqueness` [`Omega.Frontier.ConditionalArithmetic`]：`theorem zeckendorf_uniqueness {x y : X m} (h : X.zeckIndices x = X.zeckIndices y) : x = y`。说明非相邻 Fibonacci 指标分解是唯一的，支撑本文关于稀疏稳定布局具有唯一性的判断。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

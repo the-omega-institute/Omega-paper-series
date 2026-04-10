@@ -1,3 +1,5 @@
+# 玄同与整体统一：以 Omega 框架重读《道德经》4、6、10、25、42、52、56、62、73章
+
 ## 摘要
 
 本文讨论《道德经》中“玄同与整体统一 / Mysterious Unity and Holistic Integration”这一组章节，并以 Omega 的 `modular-tower inverse limit`、`spectral theory` 与 `dynamical systems` 为主要形式参照。老子并不满足于说明“道生万物”，他还不断追问：在万物分化之后，是否仍有一个统一体使诸差异彼此兼容？“玄同”正是对此的回答。Omega 中，`X_∞ = lim← X_m` 是最清楚的统一对象：所有有限层都在其中同时保留，各层差异不被消灭，却通过兼容关系被纳入同一整体。spectral analysis 则显示，复杂表象背后往往有更少的全局不变量支配系统；dynamical systems 则以轨道与熵把整体统一写成可计算的行为图像。本文主张：第25章“有物混成”、第42章“道生一，一生二，二生三，三生万物”、第56章“和其光，同其尘，是谓玄同”、第52章“知子守母”与该类对应最强；第4、6、10、62、73章构成统一结构的本体、工夫与覆盖面说明。
@@ -43,6 +45,14 @@
 本类最常见的误区，是把玄同读成含糊其辞的“大和谐”，从而失去结构锋利度。真正稳妥的对应必须满足两点：第一，文本明确讨论“多样如何归于一源或同一中心”；第二，这种归一并未消灭差异，而是保持差异中的兼容性。满足这两点的章节，如25、42、52、56，形式强度最高。
 
 第4、6、10、62、73章则从不同侧面支撑整体统一：或讲其不竭，或讲其持续，或讲其覆盖，或讲其工夫。只要守住“统一 = compatibility, not flattening”这一界线，就能避免把玄同说成空泛修辞。
+
+## Omega 定理锚点
+
+- `inverse_limit_extensionality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem inverse_limit_extensionality (a b : X.XInfinity) : a = b ↔ ∀ m, X.prefixWord a m = X.prefixWord b m`。说明无限对象是否相同，完全由全部有限前缀是否一致决定，支撑本文的层级拼接与兼容家族读法。
+- `goldenMeanAdjacency_has_goldenRatio_eigenvector` [`Omega.Graph.TransferMatrix`]：`theorem goldenMeanAdjacency_has_goldenRatio_eigenvector : ∃ v : Fin 2 → ℝ, v ≠ 0 ∧ Matrix.mulVec goldenMeanAdjacencyℝ v = fun i => Real.goldenRatio * v i`。说明 golden-mean adjacency 具有黄金比本征向量，支撑本文把主导增长率与稳定结构联系起来。
+- `topological_entropy_eq_log_phi` [`Omega.Folding.Entropy`]：`theorem topological_entropy_eq_log_phi : Tendsto (fun n => Real.log (Nat.fib (n + 2) : ℝ) / (n : ℝ)) atTop (𝓝 (Real.log φ))`。把系统复杂度增长率写成 `log φ`，支撑本文关于变易具有受控节律而非任意散乱的判断。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

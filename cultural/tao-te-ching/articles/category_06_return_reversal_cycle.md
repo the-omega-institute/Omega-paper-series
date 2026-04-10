@@ -1,3 +1,5 @@
+# 回归与循环：以 Omega 框架重读《道德经》14、16、25、40、50、52、56、65章
+
 ## 摘要
 
 本文讨论《道德经》中“回归与循环 / Return, Reversal, and Cyclic Motion”这一组章节，并以 Omega 的 `dynamical systems` 与 `modular-tower inverse limit` 为主线。老子把“反”“复”“归”“守母”视为道之根本运动方式，意味着真正的前行并不是单向扩张，而总包含折返、收束与回到根基的机制。Omega 中，这种结构最清楚地体现在两处：其一，`X_∞` 上的 shift 具有周期轨道与不动点，说明循环不是偶然事件，而是系统内部可定义的不变量；其二，更高分辨率总带有投影回较低分辨率的映射 `restrict : X_{m+1} → X_m`，意味着每一次“向前”都内含“返回”。本文主张：第40章“反者道之动”、第16章“万物并作，吾以观复”、第25章“远曰反”、第52章“既知其子，复守其母”对应最强；第14、56、65章构成认识论与工夫论延伸；第50章则提供生死循环的启发性背景。
@@ -43,6 +45,13 @@
 本类最常见的误读，是把“反”理解成字面倒退，好像老子只是反对变化、主张返回原始社会。Omega 的对应能帮助澄清：`return` 在这里不是取消展开，而是保证展开后的兼容性；周期轨道也不是机械原地打转，而是系统在自身法则中的闭合表现。
 
 因此，第40、16、25、52章强于第50章；第14、56、65章是认识论与工夫论支撑。凡文本明确谈“复”“反”“守母”“归根”，且把它们当作秩序成立方式而非怀旧情绪时，形式对应就更稳。
+
+## Omega 定理锚点
+
+- `topological_entropy_eq_log_phi` [`Omega.Folding.Entropy`]：`theorem topological_entropy_eq_log_phi : Tendsto (fun n => Real.log (Nat.fib (n + 2) : ℝ) / (n : ℝ)) atTop (𝓝 (Real.log φ))`。把系统复杂度增长率写成 `log φ`，支撑本文关于变易具有受控节律而非任意散乱的判断。
+- `inverse_limit_extensionality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem inverse_limit_extensionality (a b : X.XInfinity) : a = b ↔ ∀ m, X.prefixWord a m = X.prefixWord b m`。说明无限对象是否相同，完全由全部有限前缀是否一致决定，支撑本文的层级拼接与兼容家族读法。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

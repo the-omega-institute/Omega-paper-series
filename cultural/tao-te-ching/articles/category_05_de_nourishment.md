@@ -1,3 +1,5 @@
+# 德与滋养：以 Omega 框架重读《道德经》8、10、23、38、49、51、54、55、65、79、81章
+
 ## 摘要
 
 本文讨论《道德经》中“德与滋养 / De and Nourishment”这一组章节，并以 Omega 的 `ring arithmetic` 与 `fiber structure` 为主要形式参照。若“道”对应生成约束的普遍根基，则“德”更像该约束在具体层级中的可操作呈现：它不是抽象原则本身，而是原则在个体、关系与秩序中的成形、蓄养与自洽。Omega 中，每个分辨率层的 `X_m` 都可作为有限稳定结构空间；在若干形式化描述中，它体现为一个自洽运作的代数层次。另一方面，fiber 说明一个稳定元素不仅“自立”，还承担接纳、归约、安顿其他原始状态的能力。本文主张：第51章“道生之，德畜之”与第38章“上德不德”对应最强；第8、10、49、54、55、79、81章构成德之滋养性与不争性的完整展开；第23、65章则提供政治与工夫论背景。
@@ -45,6 +47,13 @@
 本类最需要避免的，是把“德”直接现代化成 moral virtue，再把一切都读成伦理训诫。实际上，老子的“德”更接近 `operative power`、`sustaining efficacy`。因此，它与 ring arithmetic 的对应，不是因为古人知道有限环，而是因为二者都处理“普遍原则在具体层级中如何稳定运作”这一问题；它与 fiber 的对应，也不是因为德能被计数，而是因为德体现为接纳、涵养、成全。
 
 就强度言之，第51、38、10章最强；第8、49、54、55、79、81章次之；第23、65章提供制度与工夫论背景。凡文本强调“不争而利”“生而不有”“不积而多”，都与德的结构含义更近；若只是一般意义上的善良教诲，则不宜强拉到 Omega 框架中。
+
+## Omega 定理锚点
+
+- `stableValue_ring_isomorphism` [`Omega.Frontier.ConditionalArithmetic`]：`theorem stableValue_ring_isomorphism (m : Nat) : (∀ x y : X m, stableValue (X.stableAdd x y) = (stableValue x + stableValue y) % Nat.fib (m + 2)) ∧ (∀ x y : ...`。把稳定态上的加法与乘法对应到模 Fibonacci 数环，是本文把关系和平衡写成封闭运算的核心锚点。
+- `maxFiberMultiplicity_bounds` [`Omega.Combinatorics.FibonacciCube`]：`theorem maxFiberMultiplicity_bounds (m : Nat) : m / 2 + 1 ≤ X.maxFiberMultiplicity m ∧ X.maxFiberMultiplicity m ≤ Nat.fib (m + 2)`。给出最大 fiber 多重性的上下界，支撑本文把某些稳定卦象写成更强吸引子的判断。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

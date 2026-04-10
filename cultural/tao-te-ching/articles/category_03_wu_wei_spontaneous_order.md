@@ -1,3 +1,5 @@
+# 无为与自然秩序：以 Omega 框架重读《道德经》3、7、10、17、23、27、37、43、48、57、63、64章
+
 ## 摘要
 
 本文以 Omega 的 `Fold operator` 与 `dynamical systems` 重读《道德经》中“无为与自然秩序 / Wu Wei and Spontaneous Order”这一组章节。这里所谓“无为”，不是消极不作为，而是不用外加意志去硬压系统，却让结构凭其内在约束自行稳定。Omega 中最接近这一点的对象是 `Fold : {0,1}^m → X_m`：它不作全局规划，不作任意选择，只按局部规则把 raw word 归约为唯一稳定词。与此并行，`X_∞` 上的 shift 动力系统说明，一旦拓扑约束给定，轨道结构、周期行为与复杂度上界都从约束自身推出，无需外部持续驱动。本文主张：第37章“道常无为而无不为”、第48章“为道日损”、第57章“以无事取天下”、第17章“太上下知有之”与这一形式结构的对应最强；第23、43、63、64章提供动力学与局部演化层面的强支持；第3、7、10、27章则补足政治、修身与工夫论语境。全文坚持区分“形式对应 (formal correspondence)”与“启发性类比 (metaphorical analogy)”，不把老子简化成控制论或算法论者。
@@ -56,6 +58,13 @@
 2. 它把结果的充分性放在约束自显上，而不是放在人为指令的总量上。
 
 因此，第37、48、57章最强；第17、63、64章次之；第3、10、27、43章则提供修身与政治层面的延伸支持。若把“飘风不终朝”直接译成某个衰减方程，或把“善行无辙迹”直接等同算法不可见性，那都越出了可证范围。
+
+## Omega 定理锚点
+
+- `fold_is_idempotent` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fold_is_idempotent (w : Word m) : Fold (Fold w).1 = Fold w`。说明 fold 一旦把词折回稳定域，再施加一次不会继续改写，因此可把稳定态看成真正的吸引结果。
+- `topological_entropy_eq_log_phi` [`Omega.Folding.Entropy`]：`theorem topological_entropy_eq_log_phi : Tendsto (fun n => Real.log (Nat.fib (n + 2) : ℝ) / (n : ℝ)) atTop (𝓝 (Real.log φ))`。把系统复杂度增长率写成 `log φ`，支撑本文关于变易具有受控节律而非任意散乱的判断。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

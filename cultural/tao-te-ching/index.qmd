@@ -1,6 +1,6 @@
 ---
 title: "道德经 / Tao Te Ching"
-subtitle: "12-category Omega mapping essays"
+subtitle: "12 category essays + 81 source-anchored chapter pages"
 listing:
   - id: tao-te-ching-categories
     contents: "category-*.qmd"
@@ -11,9 +11,12 @@ listing:
 
 ## Complete Track
 
-The Tao Te Ching cultural track is now complete: 12 thematic categories, 12 full essays, all written to distinguish `formal correspondence` from `metaphorical analogy`.
+The Tao Te Ching cultural track now has two layers:
 
-Each category maps a cluster of chapters onto specific Omega mathematical directions: golden-mean shift, Fibonacci growth, Zeckendorf representation, fold operators, modular towers, dynamical systems, ring arithmetic, spectral theory, and rate-distortion.
+- `12` thematic category essays
+- `81` individual chapter pages with source text, theorem anchors, and chapter-scale mapping
+
+Each category maps a cluster of chapters onto specific Omega mathematical directions: golden-mean shift, Fibonacci growth, Zeckendorf representation, fold operators, modular towers, dynamical systems, ring arithmetic, spectral theory, and rate-distortion. Each chapter page then compresses that same structure back down to the single textual unit.
 
 ## Category Map
 
@@ -36,6 +39,10 @@ Each category maps a cluster of chapters onto specific Omega mathematical direct
 
 :::{#tao-te-ching-categories}
 :::
+
+## Chapter Expansion
+
+[Browse all 81 chapter pages](chapters/index.qmd)
 
 ---
 

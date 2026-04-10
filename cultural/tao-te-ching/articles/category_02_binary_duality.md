@@ -1,3 +1,5 @@
+# 对立互生与二元结构：以 Omega 框架重读《道德经》2、5、11、20、26、36、40、41、45、58、78章
+
 ## 摘要
 
 本文以 Omega 的 `golden-mean shift` 与 `Fold operator` 分析《道德经》此类目的十一章。`No11` 规定二元字 `{0,1}` 中 `1` 不得连续出现，故可形式化“阳不可接阳，须经阴以调和”的受约束对立；`Fold` 把任意 raw word 归约为稳定 `No11` 词，刻画“过强自反、过满自损”。第2、11、36、40、45、78章对应最强；第5、26、58章为中度支持；第20、41章主要提供启发性类比。本文坚持区分 `formal correspondence` 与 `metaphorical analogy`，避免把老子直接还原为二进制编码。
@@ -69,6 +71,13 @@
 因此，对立互生的关键不是二者轮流取胜，而是二者在限制、留白与回转中共同构成一个可持续的秩序空间。没有“无”，有不能久；没有“弱”，强不能安。
 
 这也解释了为何老子反复偏向柔、弱、虚、静：它们不是次等状态，而是结构得以长存的条件。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `fold_is_idempotent` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fold_is_idempotent (w : Word m) : Fold (Fold w).1 = Fold w`。说明 fold 一旦把词折回稳定域，再施加一次不会继续改写，因此可把稳定态看成真正的吸引结果。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 参考与说明
 

@@ -1,3 +1,5 @@
+# 治国之道：以 Omega 框架重读《道德经》3、17、18、19、29、30、31、46、53、57、58、59、60、61、66、69、72、74、75、80章
+
 ## 摘要
 
 本文讨论《道德经》中“治国之道 / Governance and Political Philosophy”这一组章节，并以 Omega 的 `Fold operator` 与 `rate-distortion / information-theoretic limits` 为主要形式参照。老子论政治的核心，不是制度细目，而是一个总原则：世界不可被过度操控，秩序来自适度、低扰动、局部而必要的修正。Omega 中，`Fold` 正体现这种最小必要干预：它只在局部冲突处施行改写，却可把全局带回稳定。率失真方向则为老子关于“禁令愈多、民愈贫”“治大国若烹小鲜”的判断提供形式背景：控制成本并非越高越好，信息注入与稳定收益之间存在阈值和边际递减。本文主张：第57、60、61、66、80章对应最强；第17、29、30、31、46、75章次之；第18、19、53、58、59、69、72、74章提供伦理与风险语境。
@@ -45,6 +47,13 @@
 本类容易被误读成两种极端。一种是把老子当成无政府主义者，仿佛他主张取消一切治理；另一种是把任何 minimalism 都硬等同现代算法治理。前者忽略了《道德经》仍有“正”“守”“下”“啬”等明确治理动作；后者则会把诗性政治学过度技术化。
 
 更稳妥的说法是：`Fold` 提供了“局部而必要的治理”这一形式类比，率失真提供了“过量控制不提升整体质量”的形式背景。第57、60、61、66、80章最强；第29、30、31、46、75章次之；其他章节起到价值与边界说明作用。
+
+## Omega 定理锚点
+
+- `fold_is_idempotent` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fold_is_idempotent (w : Word m) : Fold (Fold w).1 = Fold w`。说明 fold 一旦把词折回稳定域，再施加一次不会继续改写，因此可把稳定态看成真正的吸引结果。
+- `observation_refinement_reduces_error` [`Omega.Frontier.ConditionalArithmetic`]：`theorem observation_refinement_reduces_error {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ] (μ : PMF α) (obs₁ : α → β) (obs₂ : α → γ) (f : γ → β) (hRef ...`。说明观测更细时误差不会变大，支撑本文把分辨、静观、察势写成信息分辨率问题。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

@@ -1,3 +1,5 @@
+# 道体与不可名状：以 Omega 框架重读《道德经》1、4、14、21、25、34、42、51章
+
 ## 摘要
 
 本文以 Omega 数学框架为方法，讨论《道德经》“道体与不可名状 / The Dao as Generative Ground”这一类目中的八章。所谓 Omega，并非把《道德经》“数学化”地还原为公式，而是考察其生成结构是否与一个形式系统发生严格对应。该系统从单一多项式约束 `x^2 = x + 1` 出发，导出三条关键方向：其一，`golden-mean shift`，即单一约束生成全部允许结构；其二，`Fibonacci growth`，即有限层级满足 `|X_m| = F_{m+2}`；其三，`modular tower inverse limit`，即总整体以 `X_∞ = lim← X_m` 的方式存在，只能经由有限层级逼近而不能被一次性穷尽。本文主张：第42章“道生一，一生二，二生三，三生万物”与“单一关系生成递归层级”的形式最强；第1章“道可道，非常道”与 `X_∞` 只能借 `X_m` 逼近的结构对应最强；其余诸章则围绕“无状而能生”“无名而不竭”“恍惚而有真”展开，对这三条方向提供不同侧面的支持。必须强调：这里的“形式对应 (formal correspondence)”指结构同型层面的相似，而非历史事实上的“老子预见了现代数学”；凡涉及“渊”“母”“恍惚”等感性意象者，多属于“启发性类比 (metaphorical analogy)”。
@@ -52,6 +54,14 @@
 - 第34章的强点在遍在性：道在各层起作用却不占有其结果，对应同一约束贯穿全部 `X_m`。
 - 第42章的强点在生成链：由一而多、递归繁衍，与 `x^2 = x + 1` 导出 `|X_m| = F_{m+2}` 最为严整。
 - 第51章的强点在成形性：生成之后尚须蓄养与成势，对应受约束对象的稳定实现，但形式强度次于第1、42章。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `fibonacci_cardinality_recurrence` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality_recurrence (m : Nat) : Fintype.card (X (m + 2)) = Fintype.card (X (m + 1)) + Fintype.card (X m)`。把允许状态的增长写成前两级之和，支撑“由少数初始状态递归展开”的读法。
+- `inverse_limit_extensionality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem inverse_limit_extensionality (a b : X.XInfinity) : a = b ↔ ∀ m, X.prefixWord a m = X.prefixWord b m`。说明无限对象是否相同，完全由全部有限前缀是否一致决定，支撑本文的层级拼接与兼容家族读法。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

@@ -1,3 +1,5 @@
+# 虚空与容纳：以 Omega 框架重读《道德经》6、11、15、16、22、28、35、39章
+
 ## 摘要
 
 本文讨论《道德经》中“虚空与容纳 / Emptiness, Receptivity, and the Utility of the Void”这一组章节，并以 Omega 的 `fiber structure` 与 `Zeckendorf representation` 为主要形式工具。老子反复强调“谷”“无”“洼”“下”“雌”“朴”，并不是赞美纯粹空无，而是强调一种能够承受、汇聚、转化他物的容量结构。Omega 中，稳定词 `x ∈ X_m` 对应的 fiber `fiber(x) = {w : Fold(w)=x}` 正是这种“空而能受”的形式化图像：稳定态本身看似稀疏，却能容纳多个原始状态折叠到它之下。Zeckendorf 表示则说明，最稀疏的构成方式反而最完整，每个自然数都能唯一写成不相邻 Fibonacci 数之和。本文主张：第11章“当其无，有车之用”、第6章“谷神不死”、第28章“为天下溪”与该类的对应最强；第16、22、39章提供“空为根基、下为承载”的系统性补充；第15、35章则更多停留在启发层。
@@ -43,6 +45,13 @@
 本类容易陷入两个误区。第一，把“空”读成什么都没有，于是《道德经》被误解成虚无主义。第二，把“空”神秘化，好像任何未说清的东西都可归入“玄”。Omega 的对应恰好帮助避免这两个极端。fiber 不是空无，它有明确的基数与映射关系；Zeckendorf 也不是玄想，它有严格的唯一性定理。二者共同说明：真正的“虚”不是取消结构，而是让结构以最少占位拥有最大承载。
 
 所以第11章为什么强于第15章？因为它明确说出“无之以为用”；第28章为什么强于第35章？因为它明确说出“为天下溪”，即把“虚”转化为承载位。凡文本把“空”说成结构功能，而不只是心理感受时，形式对应就更强。
+
+## Omega 定理锚点
+
+- `maxFiberMultiplicity_bounds` [`Omega.Combinatorics.FibonacciCube`]：`theorem maxFiberMultiplicity_bounds (m : Nat) : m / 2 + 1 ≤ X.maxFiberMultiplicity m ∧ X.maxFiberMultiplicity m ≤ Nat.fib (m + 2)`。给出最大 fiber 多重性的上下界，支撑本文把某些稳定卦象写成更强吸引子的判断。
+- `zeckendorf_uniqueness` [`Omega.Frontier.ConditionalArithmetic`]：`theorem zeckendorf_uniqueness {x y : X m} (h : X.zeckIndices x = X.zeckIndices y) : x = y`。说明非相邻 Fibonacci 指标分解是唯一的，支撑本文关于稀疏稳定布局具有唯一性的判断。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

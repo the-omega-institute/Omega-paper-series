@@ -1,3 +1,5 @@
+# 知足与限度：以 Omega 框架重读《道德经》9、12、24、29、32、33、44、46、47、71、77、81章
+
 ## 摘要
 
 本文讨论《道德经》中“知足与限度 / Sufficiency, Limits, and Knowing When to Stop”这一组章节，并以 Omega 的 `golden-mean shift`、`Zeckendorf representation` 与 `rate-distortion` 为主要形式参照。老子最反复强调的，不是贫乏，而是“止于其可止”：杯满则溢，立高则危，过度追逐声色货利会直接损害系统的清明与稳定。Omega 中，`No11` 本身就是一条“知道何时停止”的约束：一旦出现高态，下一步必须留出间隔，不能无限叠加。Zeckendorf 表示进一步说明，最优分解依赖“不连续”的限制，正如第77章“损有余而补不足”；率失真则提示，信息率与收益之间存在上限，超出足量之后只会增加成本与噪声。本文主张：第9、32、33、46、77章对应最强；第12、24、44、47、71、81章提供感知、认知与实践层面的补足；第29章则作为“不可强为”的总边界。
@@ -45,6 +47,14 @@
 本类容易出现的误读，是把知足仅仅当作贫困伦理，或者反过来，把一切限度都硬说成信息论阈值。前者太窄，后者太机械。更准确的做法是：当文本明确谈“盈”“止”“足”“有余/不足”“不积”时，可较强地与 `No11`、Zeckendorf、rate-distortion 比较；当文本谈感官伤害、名身权衡、认知边界时，则属于结构相容的延伸支持。
 
 就强度言之，第9、32、33、46、77章最强；第12、24、44、47、71、81章次之；第29章给出总边界。这样分层，既能保持解释力度，也能避免泛化。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `zeckendorf_uniqueness` [`Omega.Frontier.ConditionalArithmetic`]：`theorem zeckendorf_uniqueness {x y : X m} (h : X.zeckIndices x = X.zeckIndices y) : x = y`。说明非相邻 Fibonacci 指标分解是唯一的，支撑本文关于稀疏稳定布局具有唯一性的判断。
+- `observation_refinement_reduces_error` [`Omega.Frontier.ConditionalArithmetic`]：`theorem observation_refinement_reduces_error {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ] (μ : PMF α) (obs₁ : α → β) (obs₂ : α → γ) (f : γ → β) (hRef ...`。说明观测更细时误差不会变大，支撑本文把分辨、静观、察势写成信息分辨率问题。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 
