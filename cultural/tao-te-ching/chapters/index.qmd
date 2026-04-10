@@ -1,6 +1,6 @@
 ---
-title: "All 81 Chapter Pages"
-subtitle: "Complete source-anchored Tao Te Ching chapter layer"
+title: "八十一章逐章页"
+subtitle: "《道德经》原文锚定的逐章映射层"
 listing:
   - id: all-chapters
     contents: "chapter-*.md"
@@ -9,24 +9,24 @@ listing:
     fields: [title, description]
 ---
 
-## Full Chapter Layer
+## 逐章层
 
-This track contains individual pages for all `81` chapters of the Tao Te Ching.
+这一层包含《道德经》全部 `81` 章的单页。
 
-Each page now combines:
+每一页都会同时放置：
 
-- the full local source text for that chapter
-- its category memberships inside the 12-part Omega map
-- theorem-level Lean anchors for the strongest formal correspondences
-- a short boundary note distinguishing formal correspondence from looser analogy
+- 该章的本地原文
+- 它在 12 类 Omega 映射中的类别归属
+- 最强形式对应的 theorem-level Lean 锚点
+- 一段区分 formal correspondence 与宽松 analogy 的边界说明
 
-## Reading Strategy
+## 阅读顺序
 
-The category essays remain the main interpretive layer. These `81` chapter pages move one level deeper: they let the reader inspect each short textual unit directly, with the Omega mapping attached at the chapter scale rather than only at the thematic-cluster scale.
+类别长文仍然是主要解释层；这 `81` 页则往下走一层，让读者直接在单章尺度上看原文和 Omega 映射怎样接起来，而不只停在主题簇层面。
 
 :::{#all-chapters}
 :::
 
 ---
 
-[Back to Tao Te Ching Index](../index.qmd) | [Back to Cultural Track](../../index.qmd)
+[返回《道德经》总览](../index.qmd) | [返回文化总览](../../index.qmd)

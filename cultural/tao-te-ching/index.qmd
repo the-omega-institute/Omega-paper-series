@@ -1,6 +1,6 @@
 ---
-title: "道德经 / Tao Te Ching"
-subtitle: "12 category essays + 81 source-anchored chapter pages"
+title: "道德经"
+subtitle: "12 篇类别长文 + 81 个逐章映射页"
 listing:
   - id: tao-te-ching-categories
     contents: "category-*.qmd"
@@ -9,18 +9,18 @@ listing:
     fields: [title, subtitle, description]
 ---
 
-## Complete Track
+## 完整层级
 
-The Tao Te Ching cultural track now has two layers:
+《道德经》这条文化线现在有两层：
 
-- `12` thematic category essays
-- `81` individual chapter pages with source text, theorem anchors, and chapter-scale mapping
+- `12` 篇主题类别长文
+- `81` 个逐章映射页
 
-Each category maps a cluster of chapters onto specific Omega mathematical directions: golden-mean shift, Fibonacci growth, Zeckendorf representation, fold operators, modular towers, dynamical systems, ring arithmetic, spectral theory, and rate-distortion. Each chapter page then compresses that same structure back down to the single textual unit.
+类别长文把章节簇压到具体的 Omega 数学方向上；逐章页则把同一结构再压回单章尺度，让短章原文、对象层和 theorem-level 锚点并排出现。
 
-## Category Map
+## 类别图谱
 
-| # | Category | Chapters | Omega Directions |
+| # | 类别 | 章节 | Omega 方向 |
 |---|---|---|---|
 | 1 | 道体与不可名状 | 1, 4, 14, 21, 25, 34, 42, 51 | golden-mean shift, Fibonacci growth, modular tower inverse limit |
 | 2 | 对立互生与二元结构 | 2, 5, 11, 20, 26, 36, 40, 41, 45, 58, 78 | golden-mean shift, fold operator |
@@ -35,15 +35,15 @@ Each category maps a cluster of chapters onto specific Omega mathematical direct
 | 11 | 自然与朴素 | 15, 19, 27, 28, 32, 37, 44, 57, 67, 68, 80, 81 | golden-mean shift, Zeckendorf representation |
 | 12 | 玄同与整体统一 | 4, 6, 10, 25, 42, 52, 56, 62, 73 | modular tower inverse limit, spectral theory, dynamical systems |
 
-## Essays
+## 类别长文
 
 :::{#tao-te-ching-categories}
 :::
 
-## Chapter Expansion
+## 逐章展开
 
-[Browse all 81 chapter pages](chapters/index.qmd)
+[浏览八十一章逐章页](chapters/index.qmd)
 
 ---
 
-[Back to Cultural Track](../index.qmd) | [Back to Home](../../index.qmd)
+[返回文化总览](../index.qmd) | [返回首页](../../index.qmd)

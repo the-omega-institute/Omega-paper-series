@@ -1,6 +1,6 @@
 ---
-title: "GMS-Valid Hexagrams"
-subtitle: "21 stable hexagram pages inside X_6"
+title: "`X_6` 内的 21 个稳定卦"
+subtitle: "形式对应最强的逐卦页子层"
 listing:
   - id: gms-valid-hexagrams
     contents: "hexagram-*.md"
@@ -9,21 +9,21 @@ listing:
     fields: [title, description]
 ---
 
-## Stable Core
+## 稳定核心
 
-The strongest per-hexagram expansion starts with the `21` GMS-valid hexagrams:
+逐卦层里形式对应最强的一组，就是这 `21` 个稳定卦：
 
 `X_6 = {w ∈ {0,1}^6 : No11(w)}`
 
-These pages now combine three layers at once: the hexagram's binary word, its theorem-level Omega anchors, and compact source-text excerpts from the local `texts/yijing` corpus.
+这些页面把三层信息直接压在一起：卦的二进制词、theorem-level 的 Omega 锚点，以及来自本地 `texts/yijing` 语料的紧凑原文摘引。
 
-## Why This Layer Matters
+## 这一层为什么重要
 
-The 12 category essays establish the major thematic corridors. These `21` pages move one level deeper: they show exactly which individual stable hexagrams already sit inside the admissible Omega domain without first requiring fold.
+12 篇类别长文给出的是主题走廊；这 `21` 页更进一步，直接展示哪些单个卦已经位于 admissible Omega 域内，而不需要先经过 fold。
 
 :::{#gms-valid-hexagrams}
 :::
 
 ---
 
-[Back to All 64 Hexagrams](../hexagrams/index.qmd) | [Back to I Ching Index](../index.qmd) | [Back to Cultural Track](../../index.qmd)
+[返回六十四卦索引](../hexagrams/index.qmd) | [返回《易经》总览](../index.qmd) | [返回文化总览](../../index.qmd)

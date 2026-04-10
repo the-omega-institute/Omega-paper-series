@@ -1,6 +1,6 @@
 ---
-title: "All 64 Hexagram Pages"
-subtitle: "Complete source-anchored registry of the King Wen sequence"
+title: "六十四卦逐卦页"
+subtitle: "王序六十四卦的原文锚定映射层"
 listing:
   - id: all-hexagrams
     contents: "hexagram-*.md"
@@ -9,29 +9,29 @@ listing:
     fields: [title, description]
 ---
 
-## Full Hexagram Layer
+## 逐卦层
 
-This track contains individual pages for all `64` hexagrams in the King Wen sequence.
+这一层包含王序六十四卦的全部单页。
 
-Each page now fixes and publishes:
+每一页都会固定展示：
 
-- the hexagram's binary word
-- its trigram decomposition
-- its relation to `X_6`
-- its category memberships in the current 12-category Omega map
-- the theorem-level Lean anchors currently carrying the strongest correspondence
-- a compact source-text anchor pulled from the local `texts/yijing` corpus
+- 该卦的二进制词
+- 上下卦分解
+- 它与 `X_6` 的关系
+- 它在当前 12 类 Omega 映射中的类别归属
+- 当前最强的 Lean 定理锚点
+- 来自本地 `texts/yijing` 语料的紧凑原文锚点
 
-## Reading Strategy
+## 阅读顺序
 
-The cleanest reading order is:
+最顺的阅读路径是：
 
-1. Start from the [21 GMS-valid dossiers](../gms-valid/index.qmd) if you want the strongest formal correspondences first.
-2. Use this full 64-page layer when you want to see how the entire King Wen sequence partitions into stable words and fold-required words.
+1. 如果你想先看形式对应最强的部分，先从 [21 个 `X_6` 内稳定卦页](../gms-valid/index.qmd) 开始。
+2. 如果你想看整个王序如何分成稳定卦与需 fold 的卦，再回到这一层逐卦浏览。
 
 :::{#all-hexagrams}
 :::
 
 ---
 
-[Back to I Ching Index](../index.qmd) | [Back to Cultural Track](../../index.qmd)
+[返回《易经》总览](../index.qmd) | [返回文化总览](../../index.qmd)

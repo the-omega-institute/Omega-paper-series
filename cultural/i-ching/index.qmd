@@ -1,6 +1,6 @@
 ---
-title: "易经 / I Ching"
-subtitle: "12 category essays + 64 source-anchored hexagram pages"
+title: "易经"
+subtitle: "12 篇类别长文 + 64 个逐卦映射页"
 listing:
   - id: i-ching-categories
     contents: "category-*.qmd"
@@ -9,27 +9,30 @@ listing:
     fields: [title, subtitle, description]
 ---
 
-## Complete Track
+## 完整层级
 
-The I Ching cultural track is now complete: 12 thematic categories, 12 full essays, all built from the strongest formal starting point in the cultural program.
+《易经》这条文化线现在有两层：
 
-Unlike most classical works, the I Ching does not merely resemble a binary symbolic system. Its 64 hexagrams **are** the complete 6-bit word space `{0,1}^6`. Omega then adds a second layer: the golden-mean-shift constraint partitions that space into 21 stable hexagrams and 43 unstable ones, revealing a rich fold, fiber, spectral, and dynamical structure inside the traditional corpus.
+- `12` 篇主题类别长文
+- `64` 个逐卦映射页
 
-Each category essay now includes theorem-level Lean anchors, so the mapping no longer stops at broad directions like "fold" or "golden-mean shift" but names the formal Omega results carrying the correspondence.
+和多数古典文本不同，《易经》不是“像”一个二元系统，它的 `64` 卦就是完整的 6-bit 词空间 `{0,1}^6`。Omega 在这一层上再加一个约束：golden-mean-shift 把整个位空间分成 `21` 个稳定卦与 `43` 个需经 fold 的卦，于是传统卦序内部的 fold、fiber、谱结构和动力结构都能被逐层点名。
 
-## Strongest Formal Correspondences
+现有类别长文都已经补入 theorem-level Lean anchors，逐卦页则进一步把这种映射压到单卦尺度。
 
-| I Ching Structure | Omega Object | Why It Is Strong |
+## 最强形式对应
+
+| 《易经》结构 | Omega 对象 | 强度说明 |
 |---|---|---|
-| 64 hexagrams | `{0,1}^6` | Identity, not analogy: each hexagram is a 6-bit word |
-| 21 stable hexagrams | `X_6 = {w ∈ {0,1}^6 : No11(w)}` | Exact count `F_8 = 21` |
-| 8 trigrams | `{0,1}^3`, with 5 GMS-valid trigrams | Exact decomposition into lower/upper trigrams |
-| 既济 / 未济 | period-2 orbit `{101010, 010101}` | Unique complement pair that is simultaneously GMS-valid |
-| 乾 folds to 既济 | `Fold : Word 6 → X_6` | Maximum yang resolves into alternating balance |
+| 64 卦 | `{0,1}^6` | 不是类比，而是结构同一：每卦就是一个 6-bit 词 |
+| 21 个稳定卦 | `X_6 = {w ∈ {0,1}^6 : No11(w)}` | 精确计数 `F_8 = 21` |
+| 8 个三爻卦 | `{0,1}^3`，其中 5 个在 GMS 内 | 上下卦分解可精确落到 3-bit 子层 |
+| 既济 / 未济 | period-2 orbit `{101010, 010101}` | 同时稳定且互补的唯一周期二对 |
+| 乾 fold 到既济 | `Fold : Word 6 → X_6` | 全阳极值经 fold 收束到交替平衡 |
 
-## Category Map
+## 类别图谱
 
-| # | Category | Hexagrams | Omega Directions |
+| # | 类别 | 卦 | Omega 方向 |
 |---|---|---|---|
 | 1 | 创生与纯态 | 1, 2, 11, 12 | golden-mean shift, Fibonacci growth, modular tower inverse limit |
 | 2 | 动态变易与循环 | 3, 4, 23, 24, 43, 44, 63, 64 | dynamical systems, golden-mean shift, fold operator |
@@ -44,21 +47,21 @@ Each category essay now includes theorem-level Lean anchors, so the mapping no l
 | 11 | 节制与平衡 | 9, 15, 41, 42, 60, 61, 62, 63, 64 | Zeckendorf representation, ring arithmetic, golden-mean shift |
 | 12 | 聚散与流通 | 8, 29, 44, 45, 47, 48, 57, 58, 59 | rate-distortion, fold operator, modular tower inverse limit |
 
-## Hexagram Expansion
+## 逐卦展开
 
-The category essays remain the main interpretive layer. Under them now sits a complete per-hexagram layer: all `64` hexagrams have individual pages, theorem-level anchors, and local source-text excerpts normalized into the repository.
+类别长文仍然是主要解释层。其下现在已经铺出完整的逐卦层：全部 `64` 卦都有单页、theorem-level 锚点，以及规范化入库的本地原文摘引。
 
-The `21` GMS-valid hexagrams inside `X_6` remain the mathematically strongest subset, but the full `64`-page layer now makes the stable / fold-required partition visible across the whole King Wen sequence.
+其中 `X_6` 内的 `21` 个稳定卦仍然是形式上最强的一组；但完整的 `64` 页让整个王序里的“稳定 / 需 fold”分界变成可直接浏览的对象层结构。
 
-[Browse all 64 hexagram dossiers](hexagrams/index.qmd)
+[浏览六十四卦逐卦页](hexagrams/index.qmd)
 
-[Browse the 21 stable hexagram dossiers](gms-valid/index.qmd)
+[浏览 `X_6` 内的 21 个稳定卦页](gms-valid/index.qmd)
 
-## Essays
+## 类别长文
 
 :::{#i-ching-categories}
 :::
 
 ---
 
-[Back to Cultural Track](../index.qmd) | [Back to Home](../../index.qmd)
+[返回文化总览](../index.qmd) | [返回首页](../../index.qmd)
