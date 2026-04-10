@@ -1,0 +1,17 @@
+---
+title: "07. 最小公设、最少破坏与最优保真"
+subtitle: "Minimal Axioms, Minimal Damage, and Optimal Fidelity"
+date: 2026-04-10
+order: 7
+categories: [synthesis, cultural, omega]
+description: "Cross-text synthesis essay tracing `scanError_hasCertificate` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+---
+
+**主定理核 / Primary Lean Anchor:** `scanError_hasCertificate`  
+**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+
+{{< include articles/synthesis_07_rate_distortion.md >}}
+
+---
+
+[Back to Synthesis Index](index.qmd) | [Back to Cultural Track](../index.qmd)

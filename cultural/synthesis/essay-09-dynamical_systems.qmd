@@ -1,0 +1,17 @@
+---
+title: "09. 四时、反者道之动与势"
+subtitle: "Seasons, Reversal, and Strategic Dynamics"
+date: 2026-04-10
+order: 9
+categories: [synthesis, cultural, omega]
+description: "Cross-text synthesis essay tracing `topological_entropy_eq_log_phi` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+---
+
+**主定理核 / Primary Lean Anchor:** `topological_entropy_eq_log_phi`  
+**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+
+{{< include articles/synthesis_09_dynamical_systems.md >}}
+
+---
+
+[Back to Synthesis Index](index.qmd) | [Back to Cultural Track](../index.qmd)

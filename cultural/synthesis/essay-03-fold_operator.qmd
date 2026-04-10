@@ -1,0 +1,17 @@
+---
+title: "03. Fold：过量如何被折回稳定域"
+subtitle: "Fold: How Excess Is Returned to Stability"
+date: 2026-04-10
+order: 3
+categories: [synthesis, cultural, omega]
+description: "Cross-text synthesis essay tracing `fold_is_idempotent` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+---
+
+**主定理核 / Primary Lean Anchor:** `fold_is_idempotent`  
+**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+
+{{< include articles/synthesis_03_fold_operator.md >}}
+
+---
+
+[Back to Synthesis Index](index.qmd) | [Back to Cultural Track](../index.qmd)

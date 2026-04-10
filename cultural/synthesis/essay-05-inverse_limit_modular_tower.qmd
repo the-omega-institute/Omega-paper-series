@@ -1,0 +1,17 @@
+---
+title: "05. 逆极限与层级整体"
+subtitle: "Inverse Limit and Layered Totality"
+date: 2026-04-10
+order: 5
+categories: [synthesis, cultural, omega]
+description: "Cross-text synthesis essay tracing `inverse_limit_extensionality` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+---
+
+**主定理核 / Primary Lean Anchor:** `inverse_limit_extensionality`  
+**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+
+{{< include articles/synthesis_05_inverse_limit_modular_tower.md >}}
+
+---
+
+[Back to Synthesis Index](index.qmd) | [Back to Cultural Track](../index.qmd)

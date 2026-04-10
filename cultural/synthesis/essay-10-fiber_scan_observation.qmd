@@ -1,0 +1,17 @@
+---
+title: "10. 看不见的东西如何被看见"
+subtitle: "How the Unseen Becomes Observable"
+date: 2026-04-10
+order: 10
+categories: [synthesis, cultural, omega]
+description: "Cross-text synthesis essay tracing `observation_refinement_reduces_error` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+---
+
+**主定理核 / Primary Lean Anchor:** `observation_refinement_reduces_error`  
+**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+
+{{< include articles/synthesis_10_fiber_scan_observation.md >}}
+
+---
+
+[Back to Synthesis Index](index.qmd) | [Back to Cultural Track](../index.qmd)

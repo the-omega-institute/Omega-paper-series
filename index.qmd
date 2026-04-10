@@ -101,7 +101,7 @@ Strategic dynamics as fold operators, spectral theory, information-constrained o
 ::: {.media-downloads}
 [🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Art_of_War_video.mp4)
 [📊 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Art_of_War_slides.pdf)
-[📖 10 Categories](cultural/sunzi-bingfa/)
+[📖 10 Categories](cultural/sunzi/)
 :::
 
 ### 几何原本 / The Mathematics of Euclid's Elements
@@ -112,7 +112,7 @@ Euclid as a grammar of admissible construction, proportion, obstruction, termina
 ::: {.media-downloads}
 [🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_Euclids_Elements_video.mp4)
 [📊 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_Euclids_Elements_slides.pdf)
-[📖 8 Categories](cultural/euclid/)
+[📖 8 Categories](cultural/elements/)
 :::
 
 ### Omega Research Papers Overview
@@ -150,6 +150,10 @@ How does x² = x + 1 illuminate the structure hidden in classical texts? From th
 This is not metaphor. These are formal structural correspondences, analyzed with the same rigor we bring to our proofs.
 
 **Complete:** 道德经 12-category Omega mapping analysis | 易经 12-category hexagram-algebra structural analysis | 黄帝内经 12-category systems-medicine analysis | 孙子兵法 10-category adversarial-systems analysis | 几何原本 8-category constructive-geometry analysis
+
+**Cross-Text Synthesis:** 10 flagship theorem-first essays now published, each tracing one Omega theorem across five classical corpora and the Gen 2 paper program.
+
+[Browse Cross-Text Synthesis →](cultural/synthesis/index.qmd)
 
 [Explore Interpretations →](cultural/index.qmd)
 :::

@@ -44,6 +44,6 @@ Exponential tilts of cylinder information close within the one-step Markov famil
 
 ## Paper & Source
 
-- [Full Paper (source in this repo)](../../papers/zero-jitter-information-clocks-parry-gibbs-rigidity/)
+- [Full Paper (source in this repo)](https://github.com/the-omega-institute/Omega-paper-series/tree/master/papers/zero-jitter-information-clocks-parry-gibbs-rigidity/)
 - [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

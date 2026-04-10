@@ -1,0 +1,17 @@
+---
+title: "06. 主模态、兵势与脉象"
+subtitle: "Dominant Modes, Strategic Force, and Pulse Patterns"
+date: 2026-04-10
+order: 6
+categories: [synthesis, cultural, omega]
+description: "Cross-text synthesis essay tracing `goldenMeanAdjacency_has_goldenRatio_eigenvector` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+---
+
+**主定理核 / Primary Lean Anchor:** `goldenMeanAdjacency_has_goldenRatio_eigenvector`  
+**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+
+{{< include articles/synthesis_06_spectral_theory.md >}}
+
+---
+
+[Back to Synthesis Index](index.qmd) | [Back to Cultural Track](../index.qmd)

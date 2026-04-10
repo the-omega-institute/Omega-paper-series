@@ -97,7 +97,7 @@ def refactor(qmd_path: Path, repo_slug: str):
 
 ## Paper & Source
 
-- [Full Paper (source in this repo)](../../papers/{repo_slug}/)
+- [Full Paper (source in this repo)](https://github.com/{ORG}/{REPO}/tree/master/papers/{repo_slug}/)
 - [Machine-verified proofs (Lean 4)](https://github.com/{ORG}/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/{ORG}/automath)
 '''

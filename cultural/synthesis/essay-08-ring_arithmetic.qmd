@@ -1,0 +1,17 @@
+---
+title: "08. 相生相克与稳定环"
+subtitle: "Mutual Generation, Counteraction, and Stable Rings"
+date: 2026-04-10
+order: 8
+categories: [synthesis, cultural, omega]
+description: "Cross-text synthesis essay tracing `stableValue_ring_isomorphism` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+---
+
+**主定理核 / Primary Lean Anchor:** `stableValue_ring_isomorphism`  
+**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+
+{{< include articles/synthesis_08_ring_arithmetic.md >}}
+
+---
+
+[Back to Synthesis Index](index.qmd) | [Back to Cultural Track](../index.qmd)

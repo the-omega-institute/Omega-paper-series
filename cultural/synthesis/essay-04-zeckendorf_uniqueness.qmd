@@ -1,0 +1,17 @@
+---
+title: "04. 唯一稀疏分解与规范形"
+subtitle: "Unique Sparse Decomposition and Canonical Form"
+date: 2026-04-10
+order: 4
+categories: [synthesis, cultural, omega]
+description: "Cross-text synthesis essay tracing `zeckendorf_uniqueness` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+---
+
+**主定理核 / Primary Lean Anchor:** `zeckendorf_uniqueness`  
+**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+
+{{< include articles/synthesis_04_zeckendorf_uniqueness.md >}}
+
+---
+
+[Back to Synthesis Index](index.qmd) | [Back to Cultural Track](../index.qmd)

@@ -44,6 +44,6 @@ The Zeckendorf fold map is the normal-form map of a finite terminating confluent
 
 ## Paper & Source
 
-- [Full Paper (source in this repo)](../../papers/resolution-folding-core-symbolic-dynamics/)
+- [Full Paper (source in this repo)](https://github.com/the-omega-institute/Omega-paper-series/tree/master/papers/resolution-folding-core-symbolic-dynamics/)
 - [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

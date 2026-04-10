@@ -44,6 +44,6 @@ A sharp threshold at window size m=3: for m>=3 the stabilized-window map is inje
 
 ## Paper & Source
 
-- [Full Paper (source in this repo)](../../papers/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/)
+- [Full Paper (source in this repo)](https://github.com/the-omega-institute/Omega-paper-series/tree/master/papers/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/)
 - [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)
