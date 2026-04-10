@@ -15,6 +15,8 @@ listing:
 
 重点不是做古籍导读，而是确认同一个数学结构在不同文本中的出现方式，并清楚区分 `formal correspondence` 与 `metaphorical analogy`。
 
+这一层的媒体默认策略是：**中文主叙事，英文辅助 rigor**。中文承担古籍传播与社交媒体适配，英文只承担 theorem names、关键术语和短 rigor summary。
+
 ## 旗舰地图
 
 | # | 文章 | 主定理核 | 覆盖经典 | 关联论文 | 状态 |
