@@ -28,6 +28,10 @@ description: "Cross-text synthesis essay tracing `stableValue_ring_isomorphism` 
 - [Upper Fibers and Witness Covers for the Fibonacci Order-of-Apparition Map](../../science/gen2/fibonacci-moduli-cross-resolution-arithmetic.qmd)
 - [Finite-Window Rigidity in Fibonacci Numeration](../../science/gen2/resolution-folding-core-symbolic-dynamics.qmd)
 
+## NotebookLM Slides
+
+[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_08_ring_arithmetic_slides.pdf)
+
 ## 正文 / Essay
 
 {{< include articles/synthesis_08_ring_arithmetic.md >}}

@@ -27,6 +27,10 @@ description: "Cross-text synthesis essay tracing `zeckendorf_uniqueness` across 
 - [Canonical Zeckendorf Normalization and the Minimal Berstel Adder](../../science/gen2/zeckendorf-streaming-normalization-automata-rairo.qmd)
 - [Finite-Window Rigidity in Fibonacci Numeration](../../science/gen2/resolution-folding-core-symbolic-dynamics.qmd)
 
+## NotebookLM Slides
+
+[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_04_zeckendorf_uniqueness_slides.pdf)
+
 ## 正文 / Essay
 
 {{< include articles/synthesis_04_zeckendorf_uniqueness.md >}}

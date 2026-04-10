@@ -28,6 +28,10 @@ description: "Cross-text synthesis essay tracing `scanError_hasCertificate` acro
 - [Folded Histograms of Irrational Rotations: Sampling Certificates and Structural Mismatch to the Parry Measure](../../science/gen2/folded-rotation-histogram-certificates.qmd)
 - [Shell Geometry from Stationary Detector Thermality in Static KMS Spacetimes](../../science/gen2/grg-shell-geometry-from-stationary-detector-thermality.qmd)
 
+## NotebookLM Slides
+
+[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_07_rate_distortion_slides.pdf)
+
 ## 正文 / Essay
 
 {{< include articles/synthesis_07_rate_distortion.md >}}
