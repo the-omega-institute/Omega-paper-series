@@ -4,11 +4,31 @@ subtitle: "How the Unseen Becomes Observable"
 date: 2026-04-10
 order: 10
 categories: [synthesis, cultural, omega]
-description: "Cross-text synthesis essay tracing `observation_refinement_reduces_error` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+description: "Cross-text synthesis essay tracing `observation_refinement_reduces_error` across 道德经、易经、黄帝内经、孙子兵法、几何原本 and the Gen 2 papers."
 ---
 
-**主定理核 / Primary Lean Anchor:** `observation_refinement_reduces_error`  
-**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+## 定理锚点 / Lean Anchors
+
+| 角色 | 定理 |
+|---|---|
+| 主定理核 | `observation_refinement_reduces_error` |
+| 支撑定理 1 | `prefix_resolution_decreases_error` |
+| 支撑定理 2 | `maxFiberMultiplicity_bounds` |
+
+## 文本导航 / Classical Works
+
+- [道德经](../tao-te-ching/index.qmd)
+- [易经](../i-ching/index.qmd)
+- [孙子兵法](../sunzi/index.qmd)
+- [黄帝内经](../huangdi-neijing/index.qmd)
+- [几何原本](../elements/index.qmd)
+
+## 论文导航 / Gen 2 Papers
+
+- [Folded Histograms of Irrational Rotations: Sampling Certificates and Structural Mismatch to the Parry Measure](../../science/gen2/folded-rotation-histogram-certificates.qmd)
+- [Shell Geometry from Stationary Detector Thermality in Static KMS Spacetimes](../../science/gen2/grg-shell-geometry-from-stationary-detector-thermality.qmd)
+
+## 正文 / Essay
 
 {{< include articles/synthesis_10_fiber_scan_observation.md >}}
 

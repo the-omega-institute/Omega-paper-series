@@ -4,11 +4,31 @@ subtitle: "Dominant Modes, Strategic Force, and Pulse Patterns"
 date: 2026-04-10
 order: 6
 categories: [synthesis, cultural, omega]
-description: "Cross-text synthesis essay tracing `goldenMeanAdjacency_has_goldenRatio_eigenvector` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+description: "Cross-text synthesis essay tracing `goldenMeanAdjacency_has_goldenRatio_eigenvector` across 道德经、易经、黄帝内经、孙子兵法、几何原本 and the Gen 2 papers."
 ---
 
-**主定理核 / Primary Lean Anchor:** `goldenMeanAdjacency_has_goldenRatio_eigenvector`  
-**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+## 定理锚点 / Lean Anchors
+
+| 角色 | 定理 |
+|---|---|
+| 主定理核 | `goldenMeanAdjacency_has_goldenRatio_eigenvector` |
+| 支撑定理 1 | `topological_entropy_eq_log_phi` |
+| 支撑定理 2 | `eigenvalue_eq_goldenRatio_or_goldenConj` |
+
+## 文本导航 / Classical Works
+
+- [道德经](../tao-te-ching/index.qmd)
+- [易经](../i-ching/index.qmd)
+- [孙子兵法](../sunzi/index.qmd)
+- [黄帝内经](../huangdi-neijing/index.qmd)
+- [几何原本](../elements/index.qmd)
+
+## 论文导航 / Gen 2 Papers
+
+- [Tilt Dynamics of Cylinder Information and the Parry Measure on the Golden-Mean Shift](../../science/gen2/zero-jitter-information-clocks-parry-gibbs-rigidity.qmd)
+- [A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization](../../science/gen2/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity.qmd)
+
+## 正文 / Essay
 
 {{< include articles/synthesis_06_spectral_theory.md >}}
 

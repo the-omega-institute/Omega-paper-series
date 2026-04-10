@@ -4,11 +4,31 @@ subtitle: "Fold: How Excess Is Returned to Stability"
 date: 2026-04-10
 order: 3
 categories: [synthesis, cultural, omega]
-description: "Cross-text synthesis essay tracing `fold_is_idempotent` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+description: "Cross-text synthesis essay tracing `fold_is_idempotent` across 道德经、易经、黄帝内经、孙子兵法、几何原本 and the Gen 2 papers."
 ---
 
-**主定理核 / Primary Lean Anchor:** `fold_is_idempotent`  
-**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+## 定理锚点 / Lean Anchors
+
+| 角色 | 定理 |
+|---|---|
+| 主定理核 | `fold_is_idempotent` |
+| 支撑定理 1 | `fold_fixes_stable` |
+| 支撑定理 2 | `fold_is_surjective` |
+
+## 文本导航 / Classical Works
+
+- [道德经](../tao-te-ching/index.qmd)
+- [易经](../i-ching/index.qmd)
+- [孙子兵法](../sunzi/index.qmd)
+- [黄帝内经](../huangdi-neijing/index.qmd)
+- [几何原本](../elements/index.qmd)
+
+## 论文导航 / Gen 2 Papers
+
+- [Finite-Window Rigidity in Fibonacci Numeration](../../science/gen2/resolution-folding-core-symbolic-dynamics.qmd)
+- [A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization](../../science/gen2/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity.qmd)
+
+## 正文 / Essay
 
 {{< include articles/synthesis_03_fold_operator.md >}}
 

@@ -4,11 +4,31 @@ subtitle: "Inverse Limit and Layered Totality"
 date: 2026-04-10
 order: 5
 categories: [synthesis, cultural, omega]
-description: "Cross-text synthesis essay tracing `inverse_limit_extensionality` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+description: "Cross-text synthesis essay tracing `inverse_limit_extensionality` across 道德经、易经、黄帝内经、孙子兵法、几何原本 and the Gen 2 papers."
 ---
 
-**主定理核 / Primary Lean Anchor:** `inverse_limit_extensionality`  
-**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+## 定理锚点 / Lean Anchors
+
+| 角色 | 定理 |
+|---|---|
+| 主定理核 | `inverse_limit_extensionality` |
+| 支撑定理 1 | `inverse_limit_bijective` |
+| 支撑定理 2 | `inverse_limit_left` |
+
+## 文本导航 / Classical Works
+
+- [道德经](../tao-te-ching/index.qmd)
+- [易经](../i-ching/index.qmd)
+- [孙子兵法](../sunzi/index.qmd)
+- [黄帝内经](../huangdi-neijing/index.qmd)
+- [几何原本](../elements/index.qmd)
+
+## 论文导航 / Gen 2 Papers
+
+- [Shell Geometry from Stationary Detector Thermality in Static KMS Spacetimes](../../science/gen2/grg-shell-geometry-from-stationary-detector-thermality.qmd)
+- [A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization](../../science/gen2/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity.qmd)
+
+## 正文 / Essay
 
 {{< include articles/synthesis_05_inverse_limit_modular_tower.md >}}
 

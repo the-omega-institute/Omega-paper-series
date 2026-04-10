@@ -4,11 +4,31 @@ subtitle: "Mutual Generation, Counteraction, and Stable Rings"
 date: 2026-04-10
 order: 8
 categories: [synthesis, cultural, omega]
-description: "Cross-text synthesis essay tracing `stableValue_ring_isomorphism` across 道德经、易经、孙子兵法、黄帝内经、几何原本."
+description: "Cross-text synthesis essay tracing `stableValue_ring_isomorphism` across 道德经、易经、黄帝内经、孙子兵法、几何原本 and the Gen 2 papers."
 ---
 
-**主定理核 / Primary Lean Anchor:** `stableValue_ring_isomorphism`  
-**覆盖文本 / Works:** 道德经、易经、孙子兵法、黄帝内经、几何原本
+## 定理锚点 / Lean Anchors
+
+| 角色 | 定理 |
+|---|---|
+| 主定理核 | `stableValue_ring_isomorphism` |
+| 支撑定理 1 | `modular_projection_add_no_carry` |
+| 支撑定理 2 | `stableAdd_comm` |
+
+## 文本导航 / Classical Works
+
+- [道德经](../tao-te-ching/index.qmd)
+- [易经](../i-ching/index.qmd)
+- [孙子兵法](../sunzi/index.qmd)
+- [黄帝内经](../huangdi-neijing/index.qmd)
+- [几何原本](../elements/index.qmd)
+
+## 论文导航 / Gen 2 Papers
+
+- [Upper Fibers and Witness Covers for the Fibonacci Order-of-Apparition Map](../../science/gen2/fibonacci-moduli-cross-resolution-arithmetic.qmd)
+- [Finite-Window Rigidity in Fibonacci Numeration](../../science/gen2/resolution-folding-core-symbolic-dynamics.qmd)
+
+## 正文 / Essay
 
 {{< include articles/synthesis_08_ring_arithmetic.md >}}
 
