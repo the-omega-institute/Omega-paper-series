@@ -56,19 +56,75 @@ Lean 4 Modules
 
 ---
 
-## Flagship — The Mathematics of the I Ching
+## Flagship Master Videos
 
-A master video covering all 64 hexagrams as a complete 6-bit binary system. The golden-mean shift selects exactly $F_8 = 21$ stable hexagrams. Every connection traced to machine-verified Lean 4 theorems.
+Six unified "master" videos, each covering an entire work as a single system. Every connection traced to machine-verified Lean 4 theorems.
+
+### 易经 / The Mathematics of the I Ching
+All 64 hexagrams as a 6-bit binary system. The golden-mean shift selects $F_8 = 21$ stable hexagrams.
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_I_Ching_video.mp4 >}}
 
 ::: {.media-downloads}
-[🎬 Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_I_Ching_video.mp4)
-[📊 Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_I_Ching_slides.pdf)
-[📖 Browse 64 Hexagrams](cultural/i-ching/hexagrams/)
+[🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_I_Ching_video.mp4)
+[📊 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_I_Ching_slides.pdf)
+[📖 64 Hexagrams](cultural/i-ching/hexagrams/)
 :::
 
-*More master videos in generation: 道德经, 黄帝内经, 孙子兵法, 几何原本, Omega Papers overview.*
+### 道德经 / The Mathematics of the Tao Te Ching
+81 chapters through golden-mean shift, Fibonacci growth, and inverse limit.
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Tao_Te_Ching_video.mp4 >}}
+
+::: {.media-downloads}
+[🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Tao_Te_Ching_video.mp4)
+[📊 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Tao_Te_Ching_slides.pdf)
+[📖 12 Categories](cultural/tao-te-ching/)
+:::
+
+### 黄帝内经 / The Mathematics of the Huangdi Neijing
+Multiscale coupled medicine — time, organs, channels, diagnosis, intervention.
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Huangdi_Neijing_video.mp4 >}}
+
+::: {.media-downloads}
+[🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Huangdi_Neijing_video.mp4)
+[📊 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Huangdi_Neijing_slides.pdf)
+[📖 12 Categories](cultural/huangdi-neijing/)
+:::
+
+### 孙子兵法 / The Mathematics of the Art of War
+Strategic dynamics as fold operators, spectral theory, information-constrained optimization.
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Art_of_War_video.mp4 >}}
+
+::: {.media-downloads}
+[🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Art_of_War_video.mp4)
+[📊 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Art_of_War_slides.pdf)
+[📖 10 Categories](cultural/sunzi-bingfa/)
+:::
+
+### 几何原本 / The Mathematics of Euclid's Elements
+Euclid as a grammar of admissible construction, proportion, obstruction, terminal classification.
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_Euclids_Elements_video.mp4 >}}
+
+::: {.media-downloads}
+[🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_Euclids_Elements_video.mp4)
+[📊 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_Euclids_Elements_slides.pdf)
+[📖 8 Categories](cultural/euclid/)
+:::
+
+### Omega Research Papers Overview
+All 9 Gen 2 submitted papers viewed as a single research program deriving from $x^2 = x + 1$.
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_Omega_Research_Papers_Overview_video.mp4 >}}
+
+::: {.media-downloads}
+[🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_Omega_Research_Papers_Overview_video.mp4)
+[📊 Slides](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_Omega_Research_Papers_Overview_slides.pdf)
+[📖 9 Papers](science/index.qmd)
+:::
 
 ---
 
