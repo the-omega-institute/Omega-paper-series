@@ -14,37 +14,36 @@ podcast: "https://github.com/the-omega-institute/branch-cubic-regular-s4-closure
 description: "For the conductor-37 elliptic curve, we carry out a complete explicit programme: constructing the regular S4-closure of a degree-4 map, decomposing the Jacobian via rational idempotents into a genus-2..."
 ---
 
+::: {.paper-badges}
+[Journal of Number Theory]{.badge-journal}
+[Submitted]{.badge-status-submitted}
+[39 Theorems]{.badge-theorems}
+[Arithmetic geometry]{.badge-scope}
+:::
+
 ## Abstract
 
 For the conductor-37 elliptic curve, we carry out a complete explicit programme: constructing the regular S4-closure of a degree-4 map, decomposing the Jacobian via rational idempotents into a genus-2 Jacobian, a resolvent elliptic curve, and a Prym threefold.
 
 **Keywords:** elliptic curves, Galois covers, Jacobian decomposition, Prym varieties, ray class fields
 
-## Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Machine-verified theorems | 39 |
-| Target journal | Journal of Number Theory |
-| Status | Submitted |
-| Scope | Arithmetic geometry |
-
 ## Infographic
 
-![branch_cubic_regular_s4 Infographic](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_infographic.png)
+![branch_cubic_regular_s4 Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/branch_cubic_regular_s4_infographic.png)
 
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_video.mp4 >}}
 
-**Downloads:**
+::: {.media-downloads}
+[📊 Slides](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_slides.pdf)
+[🎧 Podcast](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_podcast.wav)
+[🎬 Video](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_video.mp4)
+[🖼️ Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/branch_cubic_regular_s4_infographic.png)
+:::
 
-- [Slides (PDF)](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_slides.pdf)
-- [Podcast (WAV)](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_podcast.wav)
-- [Video (MP4)](https://github.com/the-omega-institute/branch-cubic-regular-s4-closure-prym-ray-class/releases/download/media-v1/branch_cubic_regular_s4_video.mp4)
+## Paper & Source
 
-## Links
-
-- [Full Paper (GitHub)](../../papers/branch-cubic-regular-s4-closure-prym-ray-class/)
-- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Full Paper (source in this repo)](../../papers/branch-cubic-regular-s4-closure-prym-ray-class/)
+- [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

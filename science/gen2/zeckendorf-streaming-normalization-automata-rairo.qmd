@@ -14,37 +14,36 @@ podcast: "https://github.com/the-omega-institute/zeckendorf-streaming-normalizat
 description: "The canonical low-to-high Zeckendorf normalization is non-subsequential with exact prefix-destruction index Delta(n)=n. The Berstel transducer is proved minimal with exact state complexity 10 via kern..."
 ---
 
+::: {.paper-badges}
+[RAIRO Theoretical Informatics and Applications]{.badge-journal}
+[Submitted]{.badge-status-submitted}
+[44 Theorems]{.badge-theorems}
+[Formal language theory and automata]{.badge-scope}
+:::
+
 ## Abstract
 
 The canonical low-to-high Zeckendorf normalization is non-subsequential with exact prefix-destruction index Delta(n)=n. The Berstel transducer is proved minimal with exact state complexity 10 via kernel separation.
 
 **Keywords:** Zeckendorf numeration, transducer theory, subsequential functions, Fibonacci addition, state complexity
 
-## Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Machine-verified theorems | 44 |
-| Target journal | RAIRO Theoretical Informatics and Applications |
-| Status | Submitted |
-| Scope | Formal language theory and automata |
-
 ## Infographic
 
-![zeckendorf_streaming_normalization_automata Infographic](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_infographic.png)
+![zeckendorf_streaming_normalization_automata Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/zeckendorf_streaming_normalization_automata_infographic.png)
 
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_video.mp4 >}}
 
-**Downloads:**
+::: {.media-downloads}
+[📊 Slides](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_slides.pdf)
+[🎧 Podcast](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_podcast.wav)
+[🎬 Video](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_video.mp4)
+[🖼️ Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/zeckendorf_streaming_normalization_automata_infographic.png)
+:::
 
-- [Slides (PDF)](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_slides.pdf)
-- [Podcast (WAV)](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_podcast.wav)
-- [Video (MP4)](https://github.com/the-omega-institute/zeckendorf-streaming-normalization-automata-rairo/releases/download/media-v1/zeckendorf_streaming_normalization_automata_video.mp4)
+## Paper & Source
 
-## Links
-
-- [Full Paper (GitHub)](../../papers/zeckendorf-streaming-normalization-automata-rairo/)
-- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Full Paper (source in this repo)](../../papers/zeckendorf-streaming-normalization-automata-rairo/)
+- [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

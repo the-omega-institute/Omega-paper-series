@@ -113,3 +113,133 @@
   font-size: 0.85rem;
   opacity: 0.7;
 }
+
+/* Media display enhancements */
+.quarto-title-meta,
+main h2:has(+ p img),
+main h2 {
+  scroll-margin-top: 80px;
+}
+
+/* Infographic styling - full width, elegant shadow */
+main p img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.12);
+}
+
+/* Video embed styling */
+main video,
+main iframe[src*="youtube"],
+main iframe[src*="video"] {
+  display: block;
+  width: 100%;
+  max-width: 960px;
+  margin: 1.5rem auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.15);
+}
+
+/* Paper page hero badges */
+.paper-badges {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin: 1rem 0 2rem 0;
+  align-items: center;
+}
+
+.badge-journal {
+  background: linear-gradient(135deg, var(--omega-accent), var(--omega-dark));
+  color: white;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+.badge-status-submitted {
+  background: #28a745;
+  color: white;
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.badge-theorems {
+  background: var(--omega-gold);
+  color: var(--omega-dark);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.badge-scope {
+  background: transparent;
+  color: var(--omega-accent);
+  border: 1px solid var(--omega-accent);
+  padding: 6px 14px;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+/* Media download buttons */
+.media-downloads {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+}
+
+.media-downloads a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 8px 16px;
+  background: var(--omega-dark);
+  color: white !important;
+  border-radius: 6px;
+  text-decoration: none !important;
+  font-size: 0.9rem;
+  transition: background 0.2s, transform 0.1s;
+}
+
+.media-downloads a:hover {
+  background: var(--omega-accent);
+  transform: translateY(-1px);
+}
+
+/* Section dividers for consistent spacing */
+main h2 {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(201, 168, 76, 0.2);
+}
+
+main h2:first-of-type {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 2rem;
+}
+
+/* Dark mode adjustments */
+[data-bs-theme="dark"] main p img {
+  box-shadow: 0 4px 24px rgba(201, 168, 76, 0.15);
+}
+
+[data-bs-theme="dark"] .media-downloads a {
+  background: var(--omega-gold);
+  color: var(--omega-dark) !important;
+}
+
+[data-bs-theme="dark"] .badge-scope {
+  color: var(--omega-gold);
+  border-color: var(--omega-gold);
+}

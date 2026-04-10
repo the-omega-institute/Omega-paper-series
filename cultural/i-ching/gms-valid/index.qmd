@@ -26,4 +26,4 @@ The 12 category essays establish the major thematic corridors. These 21 dossiers
 
 ---
 
-[Back to I Ching Index](../index.qmd) | [Back to Cultural Track](../../index.qmd)
+[Back to All 64 Hexagrams](../hexagrams/index.qmd) | [Back to I Ching Index](../index.qmd) | [Back to Cultural Track](../../index.qmd)

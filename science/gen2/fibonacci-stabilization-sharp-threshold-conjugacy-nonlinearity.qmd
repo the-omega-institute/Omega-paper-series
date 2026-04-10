@@ -14,37 +14,36 @@ podcast: "https://github.com/the-omega-institute/fibonacci-stabilization-sharp-t
 description: "A sharp threshold at window size m=3: for m>=3 the stabilized-window map is injective with image topologically conjugate to the full two-shift. The conjugacy transports the full thermodynamic formalis..."
 ---
 
+::: {.paper-badges}
+[Journal of Physics A]{.badge-journal}
+[Submitted]{.badge-status-submitted}
+[70 Theorems]{.badge-theorems}
+[Symbolic dynamics and ergodic theory]{.badge-scope}
+:::
+
 ## Abstract
 
 A sharp threshold at window size m=3: for m>=3 the stabilized-window map is injective with image topologically conjugate to the full two-shift. The conjugacy transports the full thermodynamic formalism exactly.
 
 **Keywords:** subshifts of finite type, topological conjugacy, thermodynamic formalism, Fibonacci numeration
 
-## Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Machine-verified theorems | 70 |
-| Target journal | Journal of Physics A |
-| Status | Submitted |
-| Scope | Symbolic dynamics and ergodic theory |
-
 ## Infographic
 
-![fibonacci_stabilization_sharp_threshold Infographic](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_infographic.png)
+![fibonacci_stabilization_sharp_threshold Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/fibonacci_stabilization_sharp_threshold_infographic.png)
 
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_video.mp4 >}}
 
-**Downloads:**
+::: {.media-downloads}
+[📊 Slides](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_slides.pdf)
+[🎧 Podcast](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_podcast.wav)
+[🎬 Video](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_video.mp4)
+[🖼️ Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/fibonacci_stabilization_sharp_threshold_infographic.png)
+:::
 
-- [Slides (PDF)](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_slides.pdf)
-- [Podcast (WAV)](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_podcast.wav)
-- [Video (MP4)](https://github.com/the-omega-institute/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/releases/download/media-v1/fibonacci_stabilization_sharp_threshold_video.mp4)
+## Paper & Source
 
-## Links
-
-- [Full Paper (GitHub)](../../papers/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/)
-- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Full Paper (source in this repo)](../../papers/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity/)
+- [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

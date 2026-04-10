@@ -14,37 +14,36 @@ podcast: "https://github.com/the-omega-institute/fibonacci-moduli-cross-resoluti
 description: "We introduce witness covers for the fiber B_n, proving B_n is an upper set in the divisor lattice. Minimal generators are classified via a primitive-vs-ladder dichotomy for atomic prime-power birth mo..."
 ---
 
+::: {.paper-badges}
+[Research in Number Theory]{.badge-journal}
+[Submitted]{.badge-status-submitted}
+[29 Theorems]{.badge-theorems}
+[Combinatorial number theory]{.badge-scope}
+:::
+
 ## Abstract
 
 We introduce witness covers for the fiber B_n, proving B_n is an upper set in the divisor lattice. Minimal generators are classified via a primitive-vs-ladder dichotomy for atomic prime-power birth moduli.
 
 **Keywords:** Fibonacci sequences, rank of apparition, divisor lattices, multiplicative number theory
 
-## Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Machine-verified theorems | 29 |
-| Target journal | Research in Number Theory |
-| Status | Submitted |
-| Scope | Combinatorial number theory |
-
 ## Infographic
 
-![fibonacci_moduli_cross_resolution Infographic](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_infographic.png)
+![fibonacci_moduli_cross_resolution Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/fibonacci_moduli_cross_resolution_infographic.png)
 
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_video.mp4 >}}
 
-**Downloads:**
+::: {.media-downloads}
+[📊 Slides](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_slides.pdf)
+[🎧 Podcast](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_podcast.wav)
+[🎬 Video](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_video.mp4)
+[🖼️ Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/fibonacci_moduli_cross_resolution_infographic.png)
+:::
 
-- [Slides (PDF)](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_slides.pdf)
-- [Podcast (WAV)](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_podcast.wav)
-- [Video (MP4)](https://github.com/the-omega-institute/fibonacci-moduli-cross-resolution-arithmetic/releases/download/media-v1/fibonacci_moduli_cross_resolution_video.mp4)
+## Paper & Source
 
-## Links
-
-- [Full Paper (GitHub)](../../papers/fibonacci-moduli-cross-resolution-arithmetic/)
-- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Full Paper (source in this repo)](../../papers/fibonacci-moduli-cross-resolution-arithmetic/)
+- [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

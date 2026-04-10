@@ -14,37 +14,36 @@ podcast: "https://github.com/the-omega-institute/zero-jitter-information-clocks-
 description: "Exponential tilts of cylinder information close within the one-step Markov family, making tilt dynamics globally linearizable. The Parry measure is characterized as the unique zero-jitter (constant Re..."
 ---
 
+::: {.paper-badges}
+[Journal of Theoretical Probability]{.badge-journal}
+[Submitted]{.badge-status-submitted}
+[21 Theorems]{.badge-theorems}
+[Ergodic theory and probability]{.badge-scope}
+:::
+
 ## Abstract
 
 Exponential tilts of cylinder information close within the one-step Markov family, making tilt dynamics globally linearizable. The Parry measure is characterized as the unique zero-jitter (constant Renyi spectrum) law.
 
 **Keywords:** shifts of finite type, Parry measure, large deviations, thermodynamic formalism, Gibbs measures
 
-## Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Machine-verified theorems | 21 |
-| Target journal | Journal of Theoretical Probability |
-| Status | Submitted |
-| Scope | Ergodic theory and probability |
-
 ## Infographic
 
-![zero_jitter_information_clocks Infographic](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_infographic.png)
+![zero_jitter_information_clocks Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/zero_jitter_information_clocks_infographic.png)
 
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_video.mp4 >}}
 
-**Downloads:**
+::: {.media-downloads}
+[📊 Slides](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_slides.pdf)
+[🎧 Podcast](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_podcast.wav)
+[🎬 Video](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_video.mp4)
+[🖼️ Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/zero_jitter_information_clocks_infographic.png)
+:::
 
-- [Slides (PDF)](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_slides.pdf)
-- [Podcast (WAV)](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_podcast.wav)
-- [Video (MP4)](https://github.com/the-omega-institute/zero-jitter-information-clocks-parry-gibbs-rigidity/releases/download/media-v1/zero_jitter_information_clocks_video.mp4)
+## Paper & Source
 
-## Links
-
-- [Full Paper (GitHub)](../../papers/zero-jitter-information-clocks-parry-gibbs-rigidity/)
-- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Full Paper (source in this repo)](../../papers/zero-jitter-information-clocks-parry-gibbs-rigidity/)
+- [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

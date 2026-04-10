@@ -14,37 +14,36 @@ podcast: "https://github.com/the-omega-institute/folded-rotation-histogram/relea
 description: "The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes the higher-block presentation, giving an exact KL formula and sharp support-constrained Renyi minima in closed form...."
 ---
 
+::: {.paper-badges}
+[Ergodic Theory and Dynamical Systems]{.badge-journal}
+[Submitted]{.badge-status-submitted}
+[46 Theorems]{.badge-theorems}
+[Ergodic theory and symbolic dynamics]{.badge-scope}
+:::
+
 ## Abstract
 
 The canonical Zeckendorf fold on the Sturmian slice is bijective and realizes the higher-block presentation, giving an exact KL formula and sharp support-constrained Renyi minima in closed form.
 
 **Keywords:** Sturmian subshifts, Zeckendorf numeration, golden-mean shift, Parry measure, Renyi divergence
 
-## Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Machine-verified theorems | 46 |
-| Target journal | Ergodic Theory and Dynamical Systems |
-| Status | Submitted |
-| Scope | Ergodic theory and symbolic dynamics |
-
 ## Infographic
 
-![folded_rotation_histogram Infographic](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_infographic.png)
+![folded_rotation_histogram Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/folded_rotation_histogram_infographic.png)
 
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_video.mp4 >}}
 
-**Downloads:**
+::: {.media-downloads}
+[📊 Slides](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_slides.pdf)
+[🎧 Podcast](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_podcast.wav)
+[🎬 Video](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_video.mp4)
+[🖼️ Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/folded_rotation_histogram_infographic.png)
+:::
 
-- [Slides (PDF)](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_slides.pdf)
-- [Podcast (WAV)](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_podcast.wav)
-- [Video (MP4)](https://github.com/the-omega-institute/folded-rotation-histogram/releases/download/media-v1/folded_rotation_histogram_video.mp4)
+## Paper & Source
 
-## Links
-
-- [Full Paper (GitHub)](../../papers/folded-rotation-histogram/)
-- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Full Paper (source in this repo)](../../papers/folded-rotation-histogram/)
+- [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

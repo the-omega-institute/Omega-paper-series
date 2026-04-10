@@ -48,6 +48,8 @@ Each category essay now includes theorem-level Lean anchors, so the mapping no l
 
 The category essays remain the main interpretive layer. A second layer now begins underneath them: `21` individual dossiers for the GMS-valid hexagrams inside `X_6`.
 
+[Browse all 64 hexagram dossiers](hexagrams/index.qmd)
+
 [Browse the 21 stable hexagram dossiers](gms-valid/index.qmd)
 
 ## Essays

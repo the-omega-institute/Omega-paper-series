@@ -14,37 +14,36 @@ podcast: "https://github.com/the-omega-institute/resolution-folding-core-symboli
 description: "The Zeckendorf fold map is the normal-form map of a finite terminating confluent rewrite system, with a sharp block-bijection threshold at m=3. The right Fischer cover is identified as a suffix graph ..."
 ---
 
+::: {.paper-badges}
+[Journal of Number Theory]{.badge-journal}
+[Submitted]{.badge-status-submitted}
+[68 Theorems]{.badge-theorems}
+[Symbolic dynamics and formal language theory]{.badge-scope}
+:::
+
 ## Abstract
 
 The Zeckendorf fold map is the normal-form map of a finite terminating confluent rewrite system, with a sharp block-bijection threshold at m=3. The right Fischer cover is identified as a suffix graph with 2^(m-1) states.
 
 **Keywords:** Zeckendorf expansion, Fibonacci numeration, shifts of finite type, transducer theory, Markov chains
 
-## Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Machine-verified theorems | 68 |
-| Target journal | Journal of Number Theory |
-| Status | Submitted |
-| Scope | Symbolic dynamics and formal language theory |
-
 ## Infographic
 
-![resolution_folding_core_symbolic Infographic](https://github.com/the-omega-institute/resolution-folding-core-symbolic-dynamics/releases/download/media-v1/resolution_folding_core_symbolic_infographic.png)
+![resolution_folding_core_symbolic Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/resolution_folding_core_symbolic_infographic.png)
 
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/resolution-folding-core-symbolic-dynamics/releases/download/media-v1/resolution_folding_core_symbolic_video.mp4 >}}
 
-**Downloads:**
+::: {.media-downloads}
+[📊 Slides](https://github.com/the-omega-institute/resolution-folding-core-symbolic-dynamics/releases/download/media-v1/resolution_folding_core_symbolic_slides.pdf)
+[🎧 Podcast](https://github.com/the-omega-institute/resolution-folding-core-symbolic-dynamics/releases/download/media-v1/resolution_folding_core_symbolic_podcast.wav)
+[🎬 Video](https://github.com/the-omega-institute/resolution-folding-core-symbolic-dynamics/releases/download/media-v1/resolution_folding_core_symbolic_video.mp4)
+[🖼️ Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/resolution_folding_core_symbolic_infographic.png)
+:::
 
-- [Slides (PDF)](https://github.com/the-omega-institute/resolution-folding-core-symbolic-dynamics/releases/download/media-v1/resolution_folding_core_symbolic_slides.pdf)
-- [Podcast (WAV)](https://github.com/the-omega-institute/resolution-folding-core-symbolic-dynamics/releases/download/media-v1/resolution_folding_core_symbolic_podcast.wav)
-- [Video (MP4)](https://github.com/the-omega-institute/resolution-folding-core-symbolic-dynamics/releases/download/media-v1/resolution_folding_core_symbolic_video.mp4)
+## Paper & Source
 
-## Links
-
-- [Full Paper (GitHub)](../../papers/resolution-folding-core-symbolic-dynamics/)
-- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Full Paper (source in this repo)](../../papers/resolution-folding-core-symbolic-dynamics/)
+- [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)

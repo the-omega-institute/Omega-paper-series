@@ -14,37 +14,36 @@ podcast: "https://github.com/the-omega-institute/grg-shell-geometry-from-station
 description: "Full click-record statistics of an Unruh-DeWitt detector define two codimension-one shells in static KMS spacetimes. In Schwarzschild the shell pair determines the mass parameter via a self-calibratin..."
 ---
 
+::: {.paper-badges}
+[General Relativity and Gravitation]{.badge-journal}
+[Submitted]{.badge-status-submitted}
+[122 Theorems]{.badge-theorems}
+[Mathematical physics / QFT in curved spacetime]{.badge-scope}
+:::
+
 ## Abstract
 
 Full click-record statistics of an Unruh-DeWitt detector define two codimension-one shells in static KMS spacetimes. In Schwarzschild the shell pair determines the mass parameter via a self-calibrating two-mode ratio law.
 
 **Keywords:** Unruh-DeWitt detectors, KMS states, black hole thermodynamics, symbolic dynamics, Hawking radiation
 
-## Key Metrics
-
-| Metric | Value |
-|--------|-------|
-| Machine-verified theorems | 122 |
-| Target journal | General Relativity and Gravitation |
-| Status | Submitted |
-| Scope | Mathematical physics / QFT in curved spacetime |
-
 ## Infographic
 
-![grg_shell_geometry_from Infographic](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_infographic.png)
+![grg_shell_geometry_from Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/grg_shell_geometry_from_infographic.png)
 
 ## Video Explainer
 
 {{< video https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_video.mp4 >}}
 
-**Downloads:**
+::: {.media-downloads}
+[📊 Slides](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_slides.pdf)
+[🎧 Podcast](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_podcast.wav)
+[🎬 Video](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_video.mp4)
+[🖼️ Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/papers-media-v1/grg_shell_geometry_from_infographic.png)
+:::
 
-- [Slides (PDF)](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_slides.pdf)
-- [Podcast (WAV)](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_podcast.wav)
-- [Video (MP4)](https://github.com/the-omega-institute/grg-shell-geometry-from-stationary-detector-thermality/releases/download/media-v1/grg_shell_geometry_from_video.mp4)
+## Paper & Source
 
-## Links
-
-- [Full Paper (GitHub)](../../papers/grg-shell-geometry-from-stationary-detector-thermality/)
-- [Lean 4 Proofs](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
+- [Full Paper (source in this repo)](../../papers/grg-shell-geometry-from-stationary-detector-thermality/)
+- [Machine-verified proofs (Lean 4)](https://github.com/the-omega-institute/automath/tree/dev-automation-integration/lean4)
 - [Automath Engine](https://github.com/the-omega-institute/automath)
