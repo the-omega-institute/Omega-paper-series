@@ -44,6 +44,12 @@ Each category essay now includes theorem-level Lean anchors, so the mapping no l
 | 11 | 节制与平衡 | 9, 15, 41, 42, 60, 61, 62, 63, 64 | Zeckendorf representation, ring arithmetic, golden-mean shift |
 | 12 | 聚散与流通 | 8, 29, 44, 45, 47, 48, 57, 58, 59 | rate-distortion, fold operator, modular tower inverse limit |
 
+## Hexagram Expansion
+
+The category essays remain the main interpretive layer. A second layer now begins underneath them: `21` individual dossiers for the GMS-valid hexagrams inside `X_6`.
+
+[Browse the 21 stable hexagram dossiers](gms-valid/index.qmd)
+
 ## Essays
 
 :::{#i-ching-categories}
