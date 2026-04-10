@@ -1,3 +1,5 @@
+# 渐进与发展：以 Omega 框架重读《易经》解、升、井、震、渐、巽、涣、节
+
 ## 摘要
 
 本文讨论《易经》“渐进与发展 / Gradual Progress, Development, and Measured Advance”这一类中的八卦，并以 Omega 的 `modular-tower inverse limit`、`Fibonacci growth` 与 `golden-mean shift` 为主要形式参照。与“变革与重构”不同，本类不强调临界翻转，而强调一步一步、层层相容地展开。classification 将其对应到 modular tower 非常准确：每一次从低分辨率到高分辨率的扩展，都必须可投影回此前层级，不能自相矛盾。震、解、渐、升、井、节等卦在《易经》中的意义，也正是这种“发展必须保留根基和次序”。本文主张：渐与 modular projection 的对应最强；震与解提供启动与释放的动力学起点；井、巽、涣、节则共同说明，发展不是无限扩张，而是伴随通道、浸润、散开与限度。
@@ -37,6 +39,14 @@ modular tower 的核心不是“层数越来越多”，而是“每上一层都
 本类常被误解成单纯鼓励“慢慢来”。但 modular tower 给出的启发更严格：问题不在慢，而在 compatibility。一个系统可以发展得很快，只要每一步都不破坏与前层的可投影关系；反之，即使表面很慢，只要新层与旧层不兼容，也不是“渐”。
 
 因此，最强 formal correspondence 应集中于：渐 = compatible extension，震/解 = lawful initiation and release，节 = growth-with-boundary。井、巽、涣、升则是围绕这一中心的通道与流动问题。
+
+## Omega 定理锚点
+
+- `inverse_limit_extensionality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem inverse_limit_extensionality (a b : X.XInfinity) : a = b ↔ ∀ m, X.prefixWord a m = X.prefixWord b m`。说明无限对象是否相同，完全由全部有限前缀是否一致决定，支撑本文的层级拼接与兼容家族读法。
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `fibonacci_cardinality_recurrence` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality_recurrence (m : Nat) : Fintype.card (X (m + 2)) = Fintype.card (X (m + 1)) + Fintype.card (X m)`。把允许状态的增长写成前两级之和，支撑“由少数初始状态递归展开”的读法。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

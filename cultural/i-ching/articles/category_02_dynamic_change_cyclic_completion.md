@@ -1,3 +1,5 @@
+# 动态变易与循环：以 Omega 框架重读《易经》屯、蒙、剥、复、夬、姤、既济、未济
+
 ## 摘要
 
 本文讨论《易经》“动态变易与循环 / Dynamic Change and Cyclic Completion”这一类中的八卦。其核心不是静态分类，而是《易经》如何把“开始/结束”“剥落/返回”“完成/未完成”写成循环结构。Omega 的 `dynamical systems`、`golden-mean shift` 与 `Fold operator` 在这里形成非常强的对应：既济 `101010` 与未济 `010101` 是 6 位空间中唯一一对既互为阴阳互补、又同时满足 `No11` 约束的极大交替词；在无限词视角下，它们恰好组成 shift 的 period-2 轨道。复 `100000` 与剥 `000001` 则把“单一阳爻的回返/剥尽”压缩到最小非零态。本文主张：既济/未济与周期轨道的对应最强；复与剥对最小阳动的呈现次之；屯、蒙、夬、姤则构成从开端困顿到临界翻转的动力学边界。
@@ -61,6 +63,14 @@
 3. 高阳临界卦经 fold 归于交替平衡
 
 超出这一层的德性解释，应保持为启发性阐释。
+
+## Omega 定理锚点
+
+- `topological_entropy_eq_log_phi` [`Omega.Folding.Entropy`]：`theorem topological_entropy_eq_log_phi : Tendsto (fun n => Real.log (Nat.fib (n + 2) : ℝ) / (n : ℝ)) atTop (𝓝 (Real.log φ))`。把系统复杂度增长率写成 `log φ`，支撑本文关于变易具有受控节律而非任意散乱的判断。
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `fold_is_idempotent` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fold_is_idempotent (w : Word m) : Fold (Fold w).1 = Fold w`。说明 fold 一旦把词折回稳定域，再施加一次不会继续改写，因此可把稳定态看成真正的吸引结果。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

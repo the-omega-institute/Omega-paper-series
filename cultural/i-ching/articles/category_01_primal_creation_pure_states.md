@@ -1,3 +1,5 @@
+# 创生与纯态：以 Omega 框架重读《易经》乾、坤、泰、否四卦
+
 ## 摘要
 
 本文讨论《易经》“创生与纯态 / Primal Creation and Pure States”这一类中的四卦：乾、坤、泰、否。与《道德经》不同，《易经》在这里并不是“近似某种数学结构”，而是直接落在一个严格的离散对象上：每一卦就是一个自下而上读取的 6-bit 二元词，整个卦序系统就是 `{0,1}^6` 的 64 个状态。Omega 的切入点因此异常强：`X_6 = {w ∈ {0,1}^6 : No11(w)}` 给出 21 个 golden-mean-shift 稳定卦象，而纯阳乾 `111111` 与纯阴坤 `000000` 则构成全部状态空间的两极边界。泰 `111000` 与否 `000111` 则把六爻系统最基本的 3+3 分层关系呈现出来。本文主张：乾/坤与 raw binary extremal states 的对应最强；泰/否与层级分区、上下卦相互贯通或阻隔的结构对应次之；凡涉及“天地德性”的解释，多属于哲学延伸而不是严格形式同构。
@@ -51,6 +53,14 @@
 3. 泰与否显出最基本的三爻块拼接结构
 
 超出这三点的宇宙论、政治论、伦理论，都应标明为解释性延伸。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `fibonacci_cardinality_recurrence` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality_recurrence (m : Nat) : Fintype.card (X (m + 2)) = Fintype.card (X (m + 1)) + Fintype.card (X m)`。把允许状态的增长写成前两级之和，支撑“由少数初始状态递归展开”的读法。
+- `inverse_limit_extensionality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem inverse_limit_extensionality (a b : X.XInfinity) : a = b ↔ ∀ m, X.prefixWord a m = X.prefixWord b m`。说明无限对象是否相同，完全由全部有限前缀是否一致决定，支撑本文的层级拼接与兼容家族读法。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

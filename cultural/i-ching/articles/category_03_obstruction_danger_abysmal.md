@@ -1,3 +1,5 @@
+# 困阻与险难：以 Omega 框架重读《易经》需、讼、坎、蹇、困、井
+
 ## 摘要
 
 本文讨论《易经》“困阻与险难 / Obstruction, Danger, and the Abysmal”这一类中的六卦，并以 Omega 的 `golden-mean shift`、`Fold operator` 与 `fiber structure` 为主要形式参照。此类围绕坎卦 `010` 展开：危险并非简单的“坏”，而是一种要求节距、等待、深度与通道意识的结构。坎 `010010` 尤其重要，它既是双重水象，又是 GMS-valid、回文式、阳爻分离的稳定词。Omega 的对应因此非常强：在危险区域，连续高压行动最容易自毁，而分隔开的有限激活反而可持续。本文主张：坎与 `No11` 下的分隔阳结构对应最强；需、讼、蹇、困说明危险如何在等待、冲突、阻滞、压迫中改变形态；井则展示困难深处仍存在可反复调用的稳定源。
@@ -43,6 +45,14 @@ classification.json 给出的一个很有力的洞见是：以井、巽类为代
 3. 水象的哲学意义与这些结构相容，但不应被压成单一术语
 
 因此，形式对应集中在位串约束与 fold/fiber 关系上；“深”“险”“困”的人文感受仍保留为解释层。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `fold_is_idempotent` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fold_is_idempotent (w : Word m) : Fold (Fold w).1 = Fold w`。说明 fold 一旦把词折回稳定域，再施加一次不会继续改写，因此可把稳定态看成真正的吸引结果。
+- `maxFiberMultiplicity_bounds` [`Omega.Combinatorics.FibonacciCube`]：`theorem maxFiberMultiplicity_bounds (m : Nat) : m / 2 + 1 ≤ X.maxFiberMultiplicity m ∧ X.maxFiberMultiplicity m ≤ Nat.fib (m + 2)`。给出最大 fiber 多重性的上下界，支撑本文把某些稳定卦象写成更强吸引子的判断。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

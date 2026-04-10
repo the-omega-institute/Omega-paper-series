@@ -15,6 +15,8 @@ The I Ching cultural track is now complete: 12 thematic categories, 12 full essa
 
 Unlike most classical works, the I Ching does not merely resemble a binary symbolic system. Its 64 hexagrams **are** the complete 6-bit word space `{0,1}^6`. Omega then adds a second layer: the golden-mean-shift constraint partitions that space into 21 stable hexagrams and 43 unstable ones, revealing a rich fold, fiber, spectral, and dynamical structure inside the traditional corpus.
 
+Each category essay now includes theorem-level Lean anchors, so the mapping no longer stops at broad directions like "fold" or "golden-mean shift" but names the formal Omega results carrying the correspondence.
+
 ## Strongest Formal Correspondences
 
 | I Ching Structure | Omega Object | Why It Is Strong |

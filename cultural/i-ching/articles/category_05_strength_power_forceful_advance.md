@@ -1,3 +1,5 @@
+# 刚健与突破：以 Omega 框架重读《易经》小畜、履、同人、大有、无妄、大畜、大壮、夬
+
 ## 摘要
 
 本文讨论《易经》“刚健与突破 / Strength, Power, and Forceful Advance”这一类中的八卦，并以 Omega 的 `Fold operator`、`fiber structure` 与 `golden-mean shift` 为主要形式参照。此类以乾 `111` 为主导，几乎全部卦象都带有高密度阳段，因此全部落在 `X_6` 之外。这里的核心洞见极锋利：在《易经》里，刚健并不 automatically 等于稳定；在 Omega 里，过量阳聚集恰是最典型的 No11 违例。classification.json 给出的 fold 结果进一步表明，多个强阳卦最终都会折向既济 `101010` 这样的平衡交替态。本文主张：此类最强 formal correspondence 在于“强阳结构整体不稳定”；夬、大壮、乾系诸卦展示的是能量的极端积聚，而 fold 揭示其最终只能通过交替节律获得可持续性。
@@ -43,6 +45,14 @@ classification.json 里最重要的结论之一，是多个高阳卦都会 fold 
 3. 最大力量的终极可持续形不是纯阳，而是平衡交替
 
 只要守住这三点，就不会把《易经》读成“反对力量”，也不会把 Omega 读成“只崇拜静态”。
+
+## Omega 定理锚点
+
+- `fold_is_idempotent` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fold_is_idempotent (w : Word m) : Fold (Fold w).1 = Fold w`。说明 fold 一旦把词折回稳定域，再施加一次不会继续改写，因此可把稳定态看成真正的吸引结果。
+- `maxFiberMultiplicity_bounds` [`Omega.Combinatorics.FibonacciCube`]：`theorem maxFiberMultiplicity_bounds (m : Nat) : m / 2 + 1 ≤ X.maxFiberMultiplicity m ∧ X.maxFiberMultiplicity m ≤ Nat.fib (m + 2)`。给出最大 fiber 多重性的上下界，支撑本文把某些稳定卦象写成更强吸引子的判断。
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

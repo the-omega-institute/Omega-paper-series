@@ -1,3 +1,5 @@
+# 止静与内省：以 Omega 框架重读《易经》谦、豫、观、遯、艮、渐、归妹、小过
+
 ## 摘要
 
 本文讨论《易经》“止静与内省 / Stillness, Restraint, and Inner Contemplation”这一类中的八卦，并以 Omega 的 `golden-mean shift`、`Zeckendorf representation` 与 `rate-distortion` 为主要形式参照。此类围绕艮山 `001` 展开，主题不是消极停滞，而是通过节制、留白、后撤与渐进，使结构保持可辨和可守。艮 `001001` 与谦 `001000` 都是 GMS-valid，显示“静”“谦”并非无阳，而是以稀疏且不相邻的阳位存在。Zeckendorf 的唯一非连续分解在这里提供了强对应：真正的静与谦不是任意低配，而是唯一、最小、足够的稳定布局。本文主张：艮与谦的结构对应最强；观、遯、渐、小过说明节制何时保持 fidelity、何时略微过界；豫与归妹则作为“准备中的躁动”与“未稳先动”的边界案例。
@@ -37,6 +39,14 @@
 本类最要防止的，是把一切“静”“观”“谦”直接翻译为 Zeckendorf theorem。严格说，强对应只在那些位串本身已呈现稀疏、分隔、低密度阳位的卦上成立，如艮、谦、豫。观、遯、渐、小过更多是“围绕节制边界活动”的卦，它们与 rate-distortion/threshold 的对应强于与唯一表示定理的对应。
 
 也就是说，本类的 formal core 是：唯一、非连续、最小而足够的阳布局；其余卦则围绕这一核心展示如何靠近、偏离或重返这一布局。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `zeckendorf_uniqueness` [`Omega.Frontier.ConditionalArithmetic`]：`theorem zeckendorf_uniqueness {x y : X m} (h : X.zeckIndices x = X.zeckIndices y) : x = y`。说明非相邻 Fibonacci 指标分解是唯一的，支撑本文关于稀疏稳定布局具有唯一性的判断。
+- `observation_refinement_reduces_error` [`Omega.Frontier.ConditionalArithmetic`]：`theorem observation_refinement_reduces_error {α β γ : Type*} [Fintype α] [Fintype β] [Fintype γ] (μ : PMF α) (obs₁ : α → β) (obs₂ : α → γ) (f : γ → β) (hRef ...`。说明观测更细时误差不会变大，支撑本文把分辨、静观、察势写成信息分辨率问题。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 

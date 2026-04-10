@@ -1,3 +1,5 @@
+# 柔顺与养育：以 Omega 框架重读《易经》师、比、临、复、颐、晋、明夷、升
+
 ## 摘要
 
 本文讨论《易经》“柔顺与养育 / Receptivity, Nourishment, and Gentle Cultivation”这一类中的八卦，并以 Omega 的 `golden-mean shift`、`Fibonacci growth` 与 `Zeckendorf representation` 为主要形式参照。这一类的共同特点是：阳爻很少，且多以非连续、稀疏方式出现。它们因此不是“力量不足”，而是“以最低必要激活维持生长”。复 `100000` 尤其关键，它几乎就是“一阳来复”的最纯粹位串表达；比、师、颐、晋、明夷等则分别展示稀疏阳位如何在养育、联合、隐明、渐升中发挥作用。本文主张：复与 sparse Fibonacci seed 的对应最强；比、师、颐、明夷与 GMS-valid 的低密度阳布局高度同构；临与升则作为从低位向上发展的边界案例，说明培养并非不动，而是稀疏起势。
@@ -37,6 +39,14 @@ classification 中把复解释为某个 Fibonacci 位值的单一激活，这一
 本类最需防止的误读，是把“柔顺与养育”说成简单的阴柔赞歌。Omega 的对应更精准：真正重要的不是阴多阳少本身，而是系统先用稀疏、非连续的阳布局确保可持续，然后才可能增长。换言之，柔顺是 growth protocol，不是终身保持低能。
 
 因此，复、比、师、颐、晋、明夷等 GMS-valid 卦是本类 formal core；临、升等边界卦则说明，从低密度发展到更高活性时，系统如何开始接近约束阈值。
+
+## Omega 定理锚点
+
+- `fibonacci_cardinality` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality (m : Nat) : Fintype.card (X m) = Nat.fib (m + 2)`。把稳定词空间的计数严格写成 `|X_m| = F_{m+2}`，是本文讨论卦系受约束增长的基础等式。
+- `fibonacci_cardinality_recurrence` [`Omega.Frontier.ConditionalArithmetic`]：`theorem fibonacci_cardinality_recurrence (m : Nat) : Fintype.card (X (m + 2)) = Fintype.card (X (m + 1)) + Fintype.card (X m)`。把允许状态的增长写成前两级之和，支撑“由少数初始状态递归展开”的读法。
+- `zeckendorf_uniqueness` [`Omega.Frontier.ConditionalArithmetic`]：`theorem zeckendorf_uniqueness {x y : X m} (h : X.zeckIndices x = X.zeckIndices y) : x = y`。说明非相邻 Fibonacci 指标分解是唯一的，支撑本文关于稀疏稳定布局具有唯一性的判断。
+
+这些定理不替代文本解释，但它们把本文最核心的对应从“方向级相似”推进到了“可点名的 Lean 形式结果”。
 
 ## 结论
 
