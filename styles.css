@@ -243,3 +243,30 @@ main h2:first-of-type {
   color: var(--omega-gold);
   border-color: var(--omega-gold);
 }
+
+/* Hide broken infographic images — gracefully handle missing assets */
+main p img[src*="_infographic.png"] {
+  background: linear-gradient(135deg, #f5f5f5 25%, transparent 25%) -10px 0,
+              linear-gradient(225deg, #f5f5f5 25%, transparent 25%) -10px 0,
+              linear-gradient(315deg, #f5f5f5 25%, transparent 25%),
+              linear-gradient(45deg, #f5f5f5 25%, transparent 25%);
+  background-color: #fafafa;
+  background-size: 20px 20px;
+  min-height: 100px;
+}
+
+/* Fallback hiding for broken images via JS hook */
+img.broken-image {
+  display: none !important;
+}
+img.broken-image + *::before {
+  content: "📊 Infographic coming soon — NotebookLM is still generating this asset.";
+  display: block;
+  padding: 2rem;
+  text-align: center;
+  color: #888;
+  font-style: italic;
+  border: 2px dashed #ddd;
+  border-radius: 8px;
+  margin: 1.5rem 0;
+}
