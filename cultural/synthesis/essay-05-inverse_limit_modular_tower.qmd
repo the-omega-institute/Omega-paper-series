@@ -28,9 +28,19 @@ description: "Cross-text synthesis essay tracing `inverse_limit_extensionality` 
 - [Shell Geometry from Stationary Detector Thermality in Static KMS Spacetimes](../../science/gen2/grg-shell-geometry-from-stationary-detector-thermality.qmd)
 - [A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization](../../science/gen2/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity.qmd)
 
-## NotebookLM Slides
+## Infographic
 
-[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_05_inverse_limit_modular_tower_slides.pdf)
+![synthesis_05_inverse_limit_modular_tower Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_05_inverse_limit_modular_tower_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_05_inverse_limit_modular_tower_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_05_inverse_limit_modular_tower_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_05_inverse_limit_modular_tower_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_05_inverse_limit_modular_tower_slides.pdf)
 
 ## 正文 / Essay
 

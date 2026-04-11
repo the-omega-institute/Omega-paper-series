@@ -28,9 +28,19 @@ description: "Cross-text synthesis essay tracing `observation_refinement_reduces
 - [Folded Histograms of Irrational Rotations: Sampling Certificates and Structural Mismatch to the Parry Measure](../../science/gen2/folded-rotation-histogram-certificates.qmd)
 - [Shell Geometry from Stationary Detector Thermality in Static KMS Spacetimes](../../science/gen2/grg-shell-geometry-from-stationary-detector-thermality.qmd)
 
-## NotebookLM Slides
+## Infographic
 
-[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_10_fiber_scan_observation_slides.pdf)
+![synthesis_10_fiber_scan_observation Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_10_fiber_scan_observation_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_10_fiber_scan_observation_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_10_fiber_scan_observation_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_10_fiber_scan_observation_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_10_fiber_scan_observation_slides.pdf)
 
 ## 正文 / Essay
 

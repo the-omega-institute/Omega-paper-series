@@ -28,9 +28,19 @@ description: "Cross-text synthesis essay tracing `topological_entropy_eq_log_phi
 - [Tilt Dynamics of Cylinder Information and the Parry Measure on the Golden-Mean Shift](../../science/gen2/zero-jitter-information-clocks-parry-gibbs-rigidity.qmd)
 - [A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization](../../science/gen2/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity.qmd)
 
-## NotebookLM Slides
+## Infographic
 
-[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_09_dynamical_systems_slides.pdf)
+![synthesis_09_dynamical_systems Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_09_dynamical_systems_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_09_dynamical_systems_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_09_dynamical_systems_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_09_dynamical_systems_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_09_dynamical_systems_slides.pdf)
 
 ## 正文 / Essay
 

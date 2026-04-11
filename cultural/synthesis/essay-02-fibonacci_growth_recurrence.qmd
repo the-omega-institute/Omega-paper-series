@@ -27,9 +27,19 @@ description: "Cross-text synthesis essay tracing `fibonacci_cardinality_recurren
 - [A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization](../../science/gen2/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity.qmd)
 - [Finite-Window Rigidity in Fibonacci Numeration](../../science/gen2/resolution-folding-core-symbolic-dynamics.qmd)
 
-## NotebookLM Slides
+## Infographic
 
-[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_02_fibonacci_growth_recurrence_slides.pdf)
+![synthesis_02_fibonacci_growth_recurrence Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_02_fibonacci_growth_recurrence_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_02_fibonacci_growth_recurrence_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_02_fibonacci_growth_recurrence_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_02_fibonacci_growth_recurrence_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_02_fibonacci_growth_recurrence_slides.pdf)
 
 ## 正文 / Essay
 

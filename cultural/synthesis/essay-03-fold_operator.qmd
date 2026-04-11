@@ -28,9 +28,19 @@ description: "Cross-text synthesis essay tracing `fold_is_idempotent` across 道
 - [Finite-Window Rigidity in Fibonacci Numeration](../../science/gen2/resolution-folding-core-symbolic-dynamics.qmd)
 - [A Sharp Three-Window Threshold and Finite-Memory Conjugacy in Fibonacci Stabilization](../../science/gen2/fibonacci-stabilization-sharp-threshold-conjugacy-nonlinearity.qmd)
 
-## NotebookLM Slides
+## Infographic
 
-[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_03_fold_operator_slides.pdf)
+![synthesis_03_fold_operator Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_03_fold_operator_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_03_fold_operator_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_03_fold_operator_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_03_fold_operator_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_03_fold_operator_slides.pdf)
 
 ## 正文 / Essay
 

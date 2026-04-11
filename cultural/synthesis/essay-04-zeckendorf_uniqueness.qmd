@@ -27,9 +27,19 @@ description: "Cross-text synthesis essay tracing `zeckendorf_uniqueness` across 
 - [Canonical Zeckendorf Normalization and the Minimal Berstel Adder](../../science/gen2/zeckendorf-streaming-normalization-automata-rairo.qmd)
 - [Finite-Window Rigidity in Fibonacci Numeration](../../science/gen2/resolution-folding-core-symbolic-dynamics.qmd)
 
-## NotebookLM Slides
+## Infographic
 
-[Download zh-primary bilingual slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_04_zeckendorf_uniqueness_slides.pdf)
+![synthesis_04_zeckendorf_uniqueness Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_04_zeckendorf_uniqueness_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_04_zeckendorf_uniqueness_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_04_zeckendorf_uniqueness_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_04_zeckendorf_uniqueness_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/synthesis_04_zeckendorf_uniqueness_slides.pdf)
 
 ## 正文 / Essay
 
