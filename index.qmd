@@ -5,14 +5,26 @@ toc: false
 ---
 
 ::: {.omega-hero}
+
+::: {.lang-zh}
+# Omega 研究院
+:::
+
+::: {.lang-en}
 # The Omega Institute
+:::
 
 ::: {.equation}
 x² = x + 1
 :::
 
 ::: {.subtitle}
+::: {.lang-zh}
+一个方程，推演万物。AI 驱动的数学发现，10,588+ 条机器验证定理。
+:::
+::: {.lang-en}
 From one equation, everything follows. AI-driven mathematical discovery with 10,588+ machine-verified theorems.
+:::
 :::
 :::
 
@@ -22,7 +34,7 @@ From one equation, everything follows. AI-driven mathematical discovery with 10,
 10,588+
 :::
 ::: {.label}
-Machine-Verified Theorems
+<span class="lang-zh">机器验证定理</span><span class="lang-en">Machine-Verified Theorems</span>
 :::
 :::
 
@@ -31,7 +43,7 @@ Machine-Verified Theorems
 17
 :::
 ::: {.label}
-Research Papers
+<span class="lang-zh">研究论文</span><span class="lang-en">Research Papers</span>
 :::
 :::
 
@@ -40,7 +52,7 @@ Research Papers
 9
 :::
 ::: {.label}
-Journal Submissions
+<span class="lang-zh">期刊投稿</span><span class="lang-en">Journal Submissions</span>
 :::
 :::
 
@@ -49,19 +61,33 @@ Journal Submissions
 11
 :::
 ::: {.label}
-Lean 4 Modules
+<span class="lang-zh">Lean 4 模块</span><span class="lang-en">Lean 4 Modules</span>
 :::
 :::
 :::
 
 ---
 
+::: {.lang-zh}
+## 旗舰总览视频
+
+六支统一"总览"视频，每支覆盖一部完整经典。所有映射均追溯到 Lean 4 机器验证定理。
+:::
+
+::: {.lang-en}
 ## Flagship Master Videos
 
 Six unified "master" videos, each covering an entire work as a single system. Every connection traced to machine-verified Lean 4 theorems.
+:::
 
 ### 易经 / The Mathematics of the I Ching
+
+::: {.lang-zh}
+64 卦构成完整 6-bit 二进制系统。Golden-mean shift 精确选出 $F_8 = 21$ 个稳定卦。
+:::
+::: {.lang-en}
 All 64 hexagrams as a 6-bit binary system. The golden-mean shift selects $F_8 = 21$ stable hexagrams.
+:::
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_I_Ching_video.mp4 >}}
 
@@ -72,7 +98,13 @@ All 64 hexagrams as a 6-bit binary system. The golden-mean shift selects $F_8 = 
 :::
 
 ### 道德经 / The Mathematics of the Tao Te Ching
+
+::: {.lang-zh}
+81 章通过 golden-mean shift、Fibonacci 增长与逆极限结构重新解读。
+:::
+::: {.lang-en}
 81 chapters through golden-mean shift, Fibonacci growth, and inverse limit.
+:::
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Tao_Te_Ching_video.mp4 >}}
 
@@ -83,7 +115,13 @@ All 64 hexagrams as a 6-bit binary system. The golden-mean shift selects $F_8 = 
 :::
 
 ### 黄帝内经 / The Mathematics of the Huangdi Neijing
+
+::: {.lang-zh}
+多尺度耦合医学 — 时序、脏腑、经络、诊法、针刺。
+:::
+::: {.lang-en}
 Multiscale coupled medicine — time, organs, channels, diagnosis, intervention.
+:::
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Huangdi_Neijing_video.mp4 >}}
 
@@ -94,7 +132,13 @@ Multiscale coupled medicine — time, organs, channels, diagnosis, intervention.
 :::
 
 ### 孙子兵法 / The Mathematics of the Art of War
+
+::: {.lang-zh}
+战略动力学 — Fold 算子、谱论、信息约束下的优化。
+:::
+::: {.lang-en}
 Strategic dynamics as fold operators, spectral theory, information-constrained optimization.
+:::
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Art_of_War_video.mp4 >}}
 
@@ -105,7 +149,13 @@ Strategic dynamics as fold operators, spectral theory, information-constrained o
 :::
 
 ### 几何原本 / The Mathematics of Euclid's Elements
+
+::: {.lang-zh}
+将欧几里得理解为受约束的构造语法、比例、障碍与终端分类。
+:::
+::: {.lang-en}
 Euclid as a grammar of admissible construction, proportion, obstruction, terminal classification.
+:::
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_Euclids_Elements_video.mp4 >}}
 
@@ -115,8 +165,30 @@ Euclid as a grammar of admissible construction, proportion, obstruction, termina
 [📖 8 Categories](cultural/elements/)
 :::
 
+### 庄子 / The Mathematics of the Zhuangzi
+
+::: {.lang-zh}
+激进的视角主义 — 逆极限自由、齐物折叠、有限主体与无限结构的率失真边界。
+:::
+::: {.lang-en}
+Radical perspectivism — inverse-limit freedom, fold-equalization, rate-distortion frontier for finite agents.
+:::
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Zhuangzi_video.mp4 >}}
+
+::: {.media-downloads}
+[🎬 Video](https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_The_Mathematics_of_the_Zhuangzi_video.mp4)
+[📖 12 Categories](cultural/zhuangzi/)
+:::
+
 ### Omega Research Papers Overview
+
+::: {.lang-zh}
+9 篇 Gen 2 论文，作为一个从 $x^2 = x + 1$ 出发的统一研究纲领。
+:::
+::: {.lang-en}
 All 9 Gen 2 submitted papers viewed as a single research program deriving from $x^2 = x + 1$.
+:::
 
 {{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/master-videos-v1/master_Omega_Research_Papers_Overview_video.mp4 >}}
 
@@ -131,6 +203,20 @@ All 9 Gen 2 submitted papers viewed as a single research program deriving from $
 ::: {.track-grid}
 
 ::: {.track-card}
+
+::: {.lang-zh}
+## 严肃科学
+
+基于单一代数约束的严格数学研究。每条定理经 Lean 4 机器验证，每个结果可追溯到种子方程。
+
+**第二代** --- 从 x² = x + 1 出发的纯数学：符号动力学、数论、遍历理论、谱分析。9 篇论文已投国际期刊。
+
+**第一代** --- 量子元胞自动机与基础物理：信息几何、宇宙学相变、涌现相对论。8 篇论文目标 Nature Communications、JHEP、PRL。
+
+[浏览科学 →](science/index.qmd)
+:::
+
+::: {.lang-en}
 ## The Science
 
 Rigorous mathematical research derived from a single algebraic constraint. Every theorem machine-verified in Lean 4, every result traceable back to the seed equation.
@@ -141,27 +227,64 @@ Rigorous mathematical research derived from a single algebraic constraint. Every
 
 [Browse the Science →](science/index.qmd)
 :::
+:::
 
 ::: {.track-card}
+
+::: {.lang-zh}
+## 经典解读
+
+x² = x + 1 如何揭示经典文本中隐藏的结构？从易经 64 卦（一个 6-bit 二进制编码系统，golden-mean shift 精确选出 21 个合法状态）到道德经"道生一，一生二，二生三，三生万物"（一个方程生成递归多样性），到黄帝内经的时序-网络-诊法多尺度医学，到孙子兵法的信息-欺骗-拓扑对抗系统，到几何原本的合法构造语法，到庄子的逆极限自由与齐物折叠 — 同一数学约束横贯数千年人类思想。
+
+这不是隐喻。这是形式结构对应，以我们做证明的同等严格性来分析。
+
+**已完成：** 道德经 12 类 | 易经 12 类 | 黄帝内经 12 类 | 孙子兵法 10 类 | 几何原本 8 类 | 庄子 12 类
+
+**跨文本综合：** 10 篇旗舰定理驱动 essay，每篇追踪一个 Omega 定理跨越六部经典与 Gen 2 论文。
+
+[浏览跨文本综合 →](cultural/synthesis/index.qmd)
+
+[探索经典解读 →](cultural/index.qmd)
+:::
+
+::: {.lang-en}
 ## The Interpretation
 
-How does x² = x + 1 illuminate the structure hidden in classical texts? From the I Ching's 64 hexagrams (a 6-bit binary encoding where the golden-mean shift selects exactly 21 valid states) to the Tao Te Ching's "道生一，一生二，二生三，三生万物" (one equation generating recursive multiplicity) to the Huangdi Neijing's systems medicine of timing, networks, diagnosis, and lawful intervention to Sunzi's adversarial systems of information, deception, topology, and decisive small interventions to Euclid's Elements as a grammar of admissible construction, proportion, obstruction, and terminal classification, the same mathematical constraint appears across millennia of human thought.
+How does x² = x + 1 illuminate the structure hidden in classical texts? From the I Ching's 64 hexagrams (a 6-bit binary encoding where the golden-mean shift selects exactly 21 valid states) to the Tao Te Ching's "道生一，一生二，二生三，三生万物" (one equation generating recursive multiplicity) to the Huangdi Neijing's systems medicine to Sunzi's adversarial systems to Euclid's Elements as a grammar of admissible construction to the Zhuangzi's radical perspectivism, the same mathematical constraint appears across millennia of human thought.
 
 This is not metaphor. These are formal structural correspondences, analyzed with the same rigor we bring to our proofs.
 
-**Complete:** 道德经 12-category Omega mapping analysis | 易经 12-category hexagram-algebra structural analysis | 黄帝内经 12-category systems-medicine analysis | 孙子兵法 10-category adversarial-systems analysis | 几何原本 8-category constructive-geometry analysis
+**Complete:** 道德经 12-category | 易经 12-category | 黄帝内经 12-category | 孙子兵法 10-category | 几何原本 8-category | 庄子 12-category
 
-**Cross-Text Synthesis:** 10 flagship theorem-first essays now published, each tracing one Omega theorem across five classical corpora and the Gen 2 paper program.
+**Cross-Text Synthesis:** 10 flagship theorem-first essays, each tracing one Omega theorem across six classical corpora and the Gen 2 paper program.
 
 [Browse Cross-Text Synthesis →](cultural/synthesis/index.qmd)
 
 [Explore Interpretations →](cultural/index.qmd)
+:::
 :::
 
 :::
 
 ---
 
+::: {.lang-zh}
+## 工作原理
+
+Omega 项目从一个方程起步：**x² = x + 1**。这个多项式定义了黄金比，但更重要的是，它约束了一个符号动力系统 --- **golden-mean shift** --- 不允许连续出现两个 1。
+
+从这一单一约束，我们系统推导出数学上*必然*成立的结论：
+
+1. **Fibonacci 增长** 来自计数合法词
+2. **Zeckendorf 表示** 给每个整数一个唯一分解
+3. **环算术** 在 Fibonacci 数模下构建代数结构
+4. **谱论** 通过碰撞核控制渐近行为
+5. **模塔** 收敛到仿射极限，类似 p-adic 整数
+
+每一步都在 [Lean 4](https://github.com/the-omega-institute/automath) 中机器验证。除核心逻辑外零额外公理。
+:::
+
+::: {.lang-en}
 ## How It Works
 
 The Omega Project starts with one equation: **x² = x + 1**. This polynomial defines the golden ratio, but more importantly, it constrains a symbolic dynamical system --- the **golden-mean shift** --- where no two consecutive 1s can appear.
@@ -175,11 +298,22 @@ From this single constraint, we systematically derive what mathematically *must*
 5. **A modular tower** converges to a profinite limit, analogous to p-adic integers
 
 Every step is machine-verified in [Lean 4](https://github.com/the-omega-institute/automath). Zero axioms beyond core logic.
+:::
 
 ---
 
+::: {.lang-zh}
+## 链接
+
+- [Automath 引擎 (GitHub)](https://github.com/the-omega-institute/automath) --- 核心 Lean 4 形式化
+- [Chrono AI](https://www.chrono-ai.fun/) --- 背后的公司
+- [Twitter/X](https://x.com/ChronoAI_HQ) --- 最新动态
+:::
+
+::: {.lang-en}
 ## Links
 
 - [Automath Engine (GitHub)](https://github.com/the-omega-institute/automath) --- the core Lean 4 formalization
 - [Chrono AI](https://www.chrono-ai.fun/) --- the company behind the research
 - [Twitter/X](https://x.com/ChronoAI_HQ) --- latest updates
+:::
