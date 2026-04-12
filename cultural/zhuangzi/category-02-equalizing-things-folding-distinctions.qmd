@@ -1,0 +1,33 @@
+---
+title: "02. 齐物与差异折平"
+subtitle: "Equalizing Things and Folding Distinctions"
+date: 2026-04-11
+order: 2
+categories: [zhuangzi, cultural, omega]
+description: "Qiwu is not a flat denial of all difference; it is a disciplined return from rigid binary fixation to a more stable field of compatibility. That is closest to Fold: not annihilation, but lawful normal..."
+---
+
+**Chapters:** 2, 17, 26, 27  
+**Omega Directions:** `fold-operator`, `spectral-theory`, `modular-tower-inverse-limit`
+
+{{< include articles/category_02_equalizing_things_folding_distinctions.md >}}
+
+---
+
+## Infographic
+
+![category_02_equalizing_things_folding_distinctions Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_equalizing_things_folding_distinctions_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_equalizing_things_folding_distinctions_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_equalizing_things_folding_distinctions_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_equalizing_things_folding_distinctions_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_02_equalizing_things_folding_distinctions_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

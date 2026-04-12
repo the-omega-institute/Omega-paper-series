@@ -1,0 +1,33 @@
+---
+title: "10. 认识分辨率与视角转换"
+subtitle: "Epistemic Resolution and Perspective Scaling"
+date: 2026-04-11
+order: 10
+categories: [zhuangzi, cultural, omega]
+description: "The formal core here is that coarser and finer observations disclose different but related truths, and no single resolution captures the object completely. Inverse-limit language models this directly...."
+---
+
+**Chapters:** 17, 22, 25, 32  
+**Omega Directions:** `modular-tower-inverse-limit`, `rate-distortion-information-theory`, `spectral-theory`
+
+{{< include articles/category_10_epistemic_resolution_perspective_scaling.md >}}
+
+---
+
+## Infographic
+
+![category_10_epistemic_resolution_perspective_scaling Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_10_epistemic_resolution_perspective_scaling_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_10_epistemic_resolution_perspective_scaling_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_10_epistemic_resolution_perspective_scaling_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_10_epistemic_resolution_perspective_scaling_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_10_epistemic_resolution_perspective_scaling_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

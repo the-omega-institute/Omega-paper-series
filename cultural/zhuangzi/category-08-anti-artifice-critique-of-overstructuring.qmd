@@ -1,0 +1,33 @@
+---
+title: "08. 反技艺、反雕刻与制度过塑"
+subtitle: "Anti-Artifice and Critique of Over-Structuring"
+date: 2026-04-11
+order: 8
+categories: [zhuangzi, cultural, omega]
+description: "These chapters argue that additional carving and regulation do not necessarily produce richer order. The golden-mean shift supplies the sharpest formal parallel: minimal admissibility constraints can ..."
+---
+
+**Chapters:** 8, 9, 10  
+**Omega Directions:** `golden-mean-shift`, `fold-operator`, `rate-distortion-information-theory`
+
+{{< include articles/category_08_anti_artifice_critique_of_overstructuring.md >}}
+
+---
+
+## Infographic
+
+![category_08_anti_artifice_critique_of_overstructuring Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_08_anti_artifice_critique_of_overstructuring_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_08_anti_artifice_critique_of_overstructuring_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_08_anti_artifice_critique_of_overstructuring_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_08_anti_artifice_critique_of_overstructuring_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_08_anti_artifice_critique_of_overstructuring_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

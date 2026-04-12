@@ -1,0 +1,33 @@
+---
+title: "09. 刻意、缮性与稀疏规范"
+subtitle: "Deliberate Practice, Nature Repair, and Sparse Norms"
+date: 2026-04-11
+order: 9
+categories: [zhuangzi, cultural, omega]
+description: "These chapters do not simply reject practice; they reject crowded, exhibitionist, or over-coded practice. That is structurally closest to sparse canonical form: the right repair pattern is minimal, ex..."
+---
+
+**Chapters:** 15, 16, 23  
+**Omega Directions:** `zeckendorf-representation`, `fold-operator`, `golden-mean-shift`
+
+{{< include articles/category_09_self_cultivation_sparse_norms.md >}}
+
+---
+
+## Infographic
+
+![category_09_self_cultivation_sparse_norms Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_self_cultivation_sparse_norms_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_self_cultivation_sparse_norms_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_self_cultivation_sparse_norms_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_self_cultivation_sparse_norms_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_09_self_cultivation_sparse_norms_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

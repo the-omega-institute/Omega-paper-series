@@ -1,0 +1,33 @@
+---
+title: "05. 德充、形残与容纳能力"
+subtitle: "Embodied Virtue, Deformation, and Receptive Capacity"
+date: 2026-04-11
+order: 5
+categories: [zhuangzi, cultural, omega]
+description: "These chapters strongly distinguish surface form from deeper stable value. Fiber structure gives the best formal analogue: many raw presentations can map to one stable image, and surface irregularity ..."
+---
+
+**Chapters:** 5, 20, 23, 31  
+**Omega Directions:** `fiber-structure`, `fold-operator`, `zeckendorf-representation`
+
+{{< include articles/category_05_embodied_virtue_receptive_capacity.md >}}
+
+---
+
+## Infographic
+
+![category_05_embodied_virtue_receptive_capacity Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_embodied_virtue_receptive_capacity_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_embodied_virtue_receptive_capacity_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_embodied_virtue_receptive_capacity_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_embodied_virtue_receptive_capacity_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_05_embodied_virtue_receptive_capacity_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

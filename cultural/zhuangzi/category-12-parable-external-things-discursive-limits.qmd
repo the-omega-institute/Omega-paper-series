@@ -1,0 +1,33 @@
+---
+title: "12. 寓言、外物与言意边界"
+subtitle: "Parable, External Things, and the Limits of Discourse"
+date: 2026-04-11
+order: 12
+categories: [zhuangzi, cultural, omega]
+description: "These chapters ask how language can point beyond itself without claiming total capture. Inverse-limit structure fits because doctrines and parables are finite approximations to a larger whole they can..."
+---
+
+**Chapters:** 26, 27, 33  
+**Omega Directions:** `modular-tower-inverse-limit`, `rate-distortion-information-theory`, `spectral-theory`
+
+{{< include articles/category_12_parable_external_things_discursive_limits.md >}}
+
+---
+
+## Infographic
+
+![category_12_parable_external_things_discursive_limits Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_parable_external_things_discursive_limits_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_parable_external_things_discursive_limits_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_parable_external_things_discursive_limits_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_parable_external_things_discursive_limits_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_12_parable_external_things_discursive_limits_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

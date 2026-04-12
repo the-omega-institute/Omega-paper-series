@@ -1,0 +1,33 @@
+---
+title: "01. 逍遥与尺度超越"
+subtitle: "Free Wandering and Scale Transcendence"
+date: 2026-04-11
+order: 1
+categories: [zhuangzi, cultural, omega]
+description: "These chapters repeatedly insist that no single finite viewpoint exhausts the whole. That is structurally closest to the inverse-limit object X_∞, where identity is determined only by the compatible f..."
+---
+
+**Chapters:** 1, 17, 21, 32  
+**Omega Directions:** `modular-tower-inverse-limit`, `dynamical-systems`, `spectral-theory`
+
+{{< include articles/category_01_free_wandering_scale_transcendence.md >}}
+
+---
+
+## Infographic
+
+![category_01_free_wandering_scale_transcendence Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_free_wandering_scale_transcendence_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_free_wandering_scale_transcendence_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_free_wandering_scale_transcendence_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_free_wandering_scale_transcendence_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_01_free_wandering_scale_transcendence_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

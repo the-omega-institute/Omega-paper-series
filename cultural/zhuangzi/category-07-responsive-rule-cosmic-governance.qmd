@@ -1,0 +1,33 @@
+---
+title: "07. 应帝王、天地与天道治理"
+subtitle: "Responsive Rule and Cosmic Governance"
+date: 2026-04-11
+order: 7
+categories: [zhuangzi, cultural, omega]
+description: "These chapters are about governing by reading and aligning with an already-moving order rather than by replacing it. Dynamical systems therefore give the primary formal picture. Spectral theory is rel..."
+---
+
+**Chapters:** 7, 12, 13, 14  
+**Omega Directions:** `dynamical-systems`, `spectral-theory`, `fold-operator`
+
+{{< include articles/category_07_responsive_rule_cosmic_governance.md >}}
+
+---
+
+## Infographic
+
+![category_07_responsive_rule_cosmic_governance Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_responsive_rule_cosmic_governance_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_responsive_rule_cosmic_governance_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_responsive_rule_cosmic_governance_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_responsive_rule_cosmic_governance_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_07_responsive_rule_cosmic_governance_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

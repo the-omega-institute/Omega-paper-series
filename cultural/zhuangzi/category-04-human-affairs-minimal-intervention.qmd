@@ -1,0 +1,33 @@
+---
+title: "04. 人间处世与最小干预"
+subtitle: "Human Affairs and Minimal Intervention"
+date: 2026-04-11
+order: 4
+categories: [zhuangzi, cultural, omega]
+description: "The recurring problem is how to pass through a high-risk interface while adding as little distortion and friction as possible. That makes Fold and rate-distortion the natural formal directions: correc..."
+---
+
+**Chapters:** 4, 11, 24  
+**Omega Directions:** `fold-operator`, `rate-distortion-information-theory`, `fiber-structure`
+
+{{< include articles/category_04_human_affairs_minimal_intervention.md >}}
+
+---
+
+## Infographic
+
+![category_04_human_affairs_minimal_intervention Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_04_human_affairs_minimal_intervention_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_04_human_affairs_minimal_intervention_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_04_human_affairs_minimal_intervention_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_04_human_affairs_minimal_intervention_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_04_human_affairs_minimal_intervention_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

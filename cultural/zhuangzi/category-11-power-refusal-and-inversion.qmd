@@ -1,0 +1,33 @@
+---
+title: "11. 让王、盗跖与权力反讽"
+subtitle: "Power, Refusal, and Inversion"
+date: 2026-04-11
+order: 11
+categories: [zhuangzi, cultural, omega]
+description: "These chapters are not merely iconoclastic; they show how prestige systems distort signal and how oppositional speech can force a re-reading of dominant order. Fold is relevant because moral and polit..."
+---
+
+**Chapters:** 28, 29, 30  
+**Omega Directions:** `fold-operator`, `rate-distortion-information-theory`, `spectral-theory`
+
+{{< include articles/category_11_power_refusal_and_inversion.md >}}
+
+---
+
+## Infographic
+
+![category_11_power_refusal_and_inversion Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_power_refusal_and_inversion_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_power_refusal_and_inversion_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_power_refusal_and_inversion_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_power_refusal_and_inversion_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_11_power_refusal_and_inversion_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

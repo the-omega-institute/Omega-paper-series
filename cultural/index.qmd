@@ -214,6 +214,44 @@ This is especially important for Omega because the bridge is not merely thematic
 
 ---
 
+## 庄子 / Zhuangzi — Complete
+
+The Zhuangzi extends the cultural track into radical perspectivism: scale-transcendence, the equalization of distinctions, finite agents navigating unbounded structure, and the impossibility of exhausting the whole from any single finite viewpoint.
+
+Its strongest Omega correspondences are with **inverse limits** (freedom as trans-scalar coherence, not formless escape), **fold/quotient** (collapsing apparent distinctions into equivalence classes), **rate-distortion** (preserving viable form under finite capacity), and **fixed points** (the perfected person as a stable element under Fold).
+
+### Strongest Structural Correspondences
+
+| 庄子结构 | Omega 对应 | 强度 |
+|---|---|---|
+| 逍遥游 — 鲲鹏与尺度超越 | X_∞ = lim X_m, trans-scalar coherent element | **Formal** |
+| 齐物论 — 彼亦一是非，此亦一是非 | Fold quotient: multiple raw words → same stable representative | **Formal** |
+| 养生主 — 吾生也有涯，而知也无涯 | rate-distortion: finite channel capacity vs unbounded source entropy | **Formal** |
+| 庖丁解牛 — 依乎天理 | Fold operator: proceeding along natural structure, not through brute force | **Formal** |
+| 大宗师 — 真人 | fixed point of Fold: fold_is_idempotent | **Formal** |
+| 知北游 — 道不可言 | inverse_limit_extensionality: finite observation cannot recover X_∞ | **Formal** |
+
+### Categories
+
+| # | Category | Chapters | Omega Directions |
+|---|---|---|---|
+| 1 | [逍遥与尺度超越](zhuangzi/category-01-free-wandering-scale-transcendence.qmd) | 1, 17, 21, 32 | modular-tower, dynamical-systems, spectral-theory |
+| 2 | [齐物与差异折平](zhuangzi/category-02-equalizing-things-folding-distinctions.qmd) | 2, 17, 26, 27 | fold-operator, ring-arithmetic, modular-tower |
+| 3 | [养生保真与技艺阈值](zhuangzi/category-03-nourishing-life-skillful-fidelity.qmd) | 3, 19, 20 | rate-distortion, fiber-structure |
+| 4 | [人间处世与最小干预](zhuangzi/category-04-human-affairs-minimal-intervention.qmd) | 4, 11, 24 | rate-distortion, fold-operator |
+| 5 | [德充、形残与容纳能力](zhuangzi/category-05-embodied-virtue-receptive-capacity.qmd) | 5, 20, 23, 31 | fiber-structure, fold-operator |
+| 6 | [宗师、死生与化生一体](zhuangzi/category-06-death-life-transformation-unified-process.qmd) | 6, 18, 22 | dynamical-systems, modular-tower |
+| 7 | [应帝王、天地与天道治理](zhuangzi/category-07-responsive-rule-cosmic-governance.qmd) | 7, 12, 13, 14 | rate-distortion, fold-operator |
+| 8 | [反技艺、反雕刻与制度过塑](zhuangzi/category-08-anti-artifice-critique-of-overstructuring.qmd) | 8, 9, 10 | fold-operator, golden-mean-shift |
+| 9 | [刻意、缮性与稀疏规范](zhuangzi/category-09-self-cultivation-sparse-norms.qmd) | 15, 16, 23 | zeckendorf, rate-distortion |
+| 10 | [认识分辨率与视角转换](zhuangzi/category-10-epistemic-resolution-perspective-scaling.qmd) | 17, 22, 25, 32 | spectral-theory, modular-tower |
+| 11 | [让王、盗跖与权力反讽](zhuangzi/category-11-power-refusal-and-inversion.qmd) | 28, 29, 30 | dynamical-systems, ring-arithmetic |
+| 12 | [寓言、外物与言意边界](zhuangzi/category-12-parable-external-things-discursive-limits.qmd) | 26, 27, 33 | spectral-theory, rate-distortion |
+
+**Status:** 12/12 category essays complete. [Browse the full Zhuangzi track](zhuangzi/index.qmd).
+
+---
+
 ## Methodology
 
 For each classical text:

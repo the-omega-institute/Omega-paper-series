@@ -1,0 +1,33 @@
+---
+title: "06. 宗师、死生与化生一体"
+subtitle: "Masters, Death-Life Transformation, and Unified Process"
+date: 2026-04-11
+order: 6
+categories: [zhuangzi, cultural, omega]
+description: "The strongest structure here is that local state changes do not destroy the larger process-object. Inverse-limit language captures this because no single phase is the whole, yet the whole is compatibl..."
+---
+
+**Chapters:** 6, 18, 22  
+**Omega Directions:** `modular-tower-inverse-limit`, `dynamical-systems`, `spectral-theory`
+
+{{< include articles/category_06_death_life_transformation_unified_process.md >}}
+
+---
+
+## Infographic
+
+![category_06_death_life_transformation_unified_process Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_06_death_life_transformation_unified_process_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_06_death_life_transformation_unified_process_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_06_death_life_transformation_unified_process_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_06_death_life_transformation_unified_process_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_06_death_life_transformation_unified_process_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)

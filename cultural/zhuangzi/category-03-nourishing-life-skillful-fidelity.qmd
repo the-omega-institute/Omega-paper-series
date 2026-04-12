@@ -1,0 +1,33 @@
+---
+title: "03. 养生保真与技艺阈值"
+subtitle: "Nourishing Life, Skill, and Fidelity Thresholds"
+date: 2026-04-11
+order: 3
+categories: [zhuangzi, cultural, omega]
+description: "Cook Ding's knife succeeds by minimizing damage while preserving structural fidelity; this is closest to rate-distortion and scan-error language, where finer resolution reduces destructive error. Fold..."
+---
+
+**Chapters:** 3, 19, 20  
+**Omega Directions:** `rate-distortion-information-theory`, `fold-operator`, `zeckendorf-representation`
+
+{{< include articles/category_03_nourishing_life_skillful_fidelity.md >}}
+
+---
+
+## Infographic
+
+![category_03_nourishing_life_skillful_fidelity Infographic](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_nourishing_life_skillful_fidelity_infographic.png)
+
+## Video
+
+{{< video https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_nourishing_life_skillful_fidelity_video.mp4 >}}
+
+**Media Downloads:**
+
+- [Infographic (PNG)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_nourishing_life_skillful_fidelity_infographic.png)
+- [Video (MP4)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_nourishing_life_skillful_fidelity_video.mp4)
+- [Slides (PDF)](https://github.com/the-omega-institute/Omega-paper-series/releases/download/cultural-media-v1/category_03_nourishing_life_skillful_fidelity_slides.pdf)
+
+---
+
+[Back to Zhuangzi Index](index.qmd) | [Back to Cultural Track](../index.qmd)
