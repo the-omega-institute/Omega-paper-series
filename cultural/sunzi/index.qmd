@@ -9,6 +9,15 @@ listing:
     fields: [title, subtitle, description]
 ---
 
+::: {.lang-zh}
+**10 篇主题类别长文，从对抗性系统理论解读十三篇**
+:::
+
+::: {.lang-en}
+**10 thematic category essays reading 13 chapters as adversarial systems theory**
+:::
+
+
 ## Complete Track
 
 The Sunzi cultural track is now complete: 10 thematic categories, 10 full essays, built around the text's strongest formal signature as a theory of adversarial systems under uncertainty.

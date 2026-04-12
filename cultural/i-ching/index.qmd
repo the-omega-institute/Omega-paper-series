@@ -9,6 +9,15 @@ listing:
     fields: [title, subtitle, description]
 ---
 
+::: {.lang-zh}
+**12 篇主题类别长文 + 64 个逐卦映射页**
+:::
+
+::: {.lang-en}
+**12 thematic category essays + 64 per-hexagram mapping pages**
+:::
+
+
 ## 完整层级
 
 《易经》这条文化线现在有两层：

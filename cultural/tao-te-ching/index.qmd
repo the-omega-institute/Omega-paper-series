@@ -9,6 +9,15 @@ listing:
     fields: [title, subtitle, description]
 ---
 
+::: {.lang-zh}
+**12 篇主题类别长文 + 81 个逐章映射页**
+:::
+
+::: {.lang-en}
+**12 thematic category essays + 81 per-chapter mapping pages**
+:::
+
+
 ## 完整层级
 
 《道德经》这条文化线现在有两层：

@@ -9,6 +9,15 @@ listing:
     fields: [title, subtitle, description]
 ---
 
+::: {.lang-zh}
+**8 篇主题类别长文，将欧几里得理解为受约束的构造语法**
+:::
+
+::: {.lang-en}
+**8 thematic category essays reading Euclid as a constrained construction grammar**
+:::
+
+
 ## Complete Track
 
 The Euclid track is now complete: 8 thematic categories, 8 full essays, organized around the text's strongest value for Omega as a theory of constrained geometric construction, proportion, obstruction, and terminal classification.

@@ -9,6 +9,15 @@ listing:
     fields: [title, subtitle, description]
 ---
 
+::: {.lang-zh}
+**10 篇旗舰定理驱动 essay，每篇追踪一个 Omega 定理跨越六部经典**
+:::
+
+::: {.lang-en}
+**10 flagship theorem-driven essays, each tracing one Omega theorem across six classical works**
+:::
+
+
 ## 这一层在做什么
 
 这一层不再从单部经典出发，而是从 **一个 Omega 定理核** 出发，追踪它如何在《道德经》《易经》《黄帝内经》《孙子兵法》《几何原本》以及 Gen 2 论文中显现。

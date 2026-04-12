@@ -9,6 +9,15 @@ listing:
     fields: [title, subtitle, description]
 ---
 
+::: {.lang-zh}
+**12 篇主题类别长文，映射 33 篇的激进视角主义与逆极限自由**
+:::
+
+::: {.lang-en}
+**12 thematic category essays mapping radical perspectivism and inverse-limit freedom**
+:::
+
+
 ## Complete Track
 
 The Zhuangzi cultural track covers all 33 chapters (7 Inner / 15 Outer / 11 Miscellaneous) across 12 Omega thematic categories. Each essay maps a cluster of chapters to specific Lean 4 theorem anchors.

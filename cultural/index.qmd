@@ -2,6 +2,15 @@
 title: "Cultural Interpretations"
 ---
 
+::: {.lang-zh}
+**x² = x + 1 如何揭示经典文本中隐藏的结构？以下每部经典均经过严格的 Omega 数学映射分析。**
+:::
+
+::: {.lang-en}
+**How does x² = x + 1 illuminate the structure hidden in classical texts? Each classical text below has undergone rigorous Omega mathematical mapping analysis.**
+:::
+
+
 ## How x² = x + 1 Illuminates Classical Texts
 
 The same mathematical constraint that generates our formal theorems also appears, structurally, in works of philosophy, cosmology, and literature written millennia before modern mathematics existed.

@@ -2,9 +2,10 @@
  * Omega Showcase — i18n language toggle
  *
  * Toggles between zh (Chinese) and en (English) for:
- * 1. Video sources (swaps between _video.mp4 and _video_en.mp4)
- * 2. Content blocks marked with .lang-zh / .lang-en classes
- * 3. Navigation labels
+ * 1. Content blocks marked with .lang-zh / .lang-en classes
+ * 2. Toggle button label
+ * Note: Videos stay in their original language (no source swap)
+ * since English video versions are not yet generated for all content.
  *
  * Preference saved to localStorage.
  */
@@ -38,27 +39,8 @@
       el.style.display = (lang === 'en') ? '' : 'none';
     });
 
-    // Swap video sources
-    document.querySelectorAll('video source, video[src]').forEach(function(el) {
-      var src = el.getAttribute('src') || '';
-      if (!src) return;
-
-      if (lang === 'en') {
-        // Switch to English version: _video.mp4 → _video_en.mp4
-        if (src.includes('_video.mp4') && !src.includes('_video_en.mp4')) {
-          el.setAttribute('src', src.replace('_video.mp4', '_video_en.mp4'));
-          var video = el.closest('video') || el;
-          if (video.tagName === 'VIDEO') video.load();
-        }
-      } else {
-        // Switch to Chinese version: _video_en.mp4 → _video.mp4
-        if (src.includes('_video_en.mp4')) {
-          el.setAttribute('src', src.replace('_video_en.mp4', '_video.mp4'));
-          var video = el.closest('video') || el;
-          if (video.tagName === 'VIDEO') video.load();
-        }
-      }
-    });
+    // Videos stay in original language — no source swap.
+    // When English versions are generated for all content, re-enable swap here.
 
     // Update toggle button text
     var btn = document.getElementById('lang-toggle-btn');
@@ -100,4 +82,3 @@
     applyLang(lang);
   });
 })();
- < /dev/null

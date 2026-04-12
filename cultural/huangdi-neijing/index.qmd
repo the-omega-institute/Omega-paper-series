@@ -9,6 +9,15 @@ listing:
     fields: [title, subtitle, description]
 ---
 
+::: {.lang-zh}
+**12 篇主题类别长文，覆盖素问与灵枢的多尺度医学体系**
+:::
+
+::: {.lang-en}
+**12 thematic category essays covering the multiscale medicine of Suwen and Lingshu**
+:::
+
+
 ## Complete Track
 
 The Huangdi Neijing cultural track is now complete: 12 thematic categories, 12 full essays, spanning the full systems architecture of **Suwen (81 chapters)** and **Lingshu (81 chapters)**.

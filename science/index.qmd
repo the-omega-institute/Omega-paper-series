@@ -13,6 +13,15 @@ listing:
     fields: [title, subtitle, categories, description]
 ---
 
+::: {.lang-zh}
+**基于 x² = x + 1 的纯数学研究。每条定理经 Lean 4 机器验证。**
+:::
+
+::: {.lang-en}
+**Pure mathematics from x² = x + 1. Every theorem machine-verified in Lean 4.**
+:::
+
+
 ## Generation 2 --- Pure Mathematics from x² = x + 1
 
 Nine papers submitted to international journals, all derived from the golden-mean shift. Every theorem machine-verified in Lean 4.
