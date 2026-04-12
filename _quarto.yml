@@ -45,8 +45,10 @@ format:
     include-in-header:
       text: |
         <script src="/Omega-paper-series/scripts/broken-image-handler.js" defer></script>
+        <script src="/Omega-paper-series/scripts/i18n-toggle.js" defer></script>
     toc: true
     code-fold: true
 
 resources:
   - "scripts/broken-image-handler.js"
+  - "scripts/i18n-toggle.js"
