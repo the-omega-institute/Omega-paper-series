@@ -2,6 +2,22 @@
 
 ## 量子元胞自动机基础物理研究计划
 
+## Distribution / Broadcast Boundary
+
+This repository is the Omega academic content source. Local publishing operations, multi-account state, raw metrics, and feedback experiments live in the local harness:
+
+```text
+../omega-broadcast-local
+```
+
+Reusable platform automation lives in:
+
+```text
+../broadcast-kit
+```
+
+Agents working on promotion or metrics should read [`.omega-source.yaml`](.omega-source.yaml) and [`docs/distribution.md`](docs/distribution.md) before changing files here.
+
 ---
 
 <div align="center">

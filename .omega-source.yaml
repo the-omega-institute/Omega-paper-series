@@ -1,0 +1,25 @@
+schema_version: omega.source_descriptor.v0
+source_id: omega-paper-series
+source_type: academic
+local_broadcast_harness: ../omega-broadcast-local
+default_export_dir: workspace/broadcast_exports
+default_campaigns:
+  - omega-academic
+  - omega-research-en
+  - omega-math-douyin
+
+responsibilities:
+  owns:
+    - academic source material
+    - paper-series media outputs
+    - academic distribution summaries
+    - academic retrospectives
+  does_not_own:
+    - platform auth state
+    - raw creator backend screenshots
+    - global multi-account publish queue
+    - reusable publishing toolkit code
+
+related_repos:
+  broadcast_kit: ../broadcast-kit
+  ancient_texts: ../omega-ancient-texts-analysis
